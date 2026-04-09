@@ -1,0 +1,129 @@
+{
+  "badges": [
+    {
+      "name": "Geocaching",
+      "description": "Discover the exciting adventure of geocaching, where you can enjoy the freedom of being outside and identifying new places.",
+      "section": "Scouts",
+      "requirements": [
+        {
+          "number": 1,
+          "title": "GPS Knowledge",
+          "text": "Show that you know about the Global Positioning System (GPS)",
+          "subRequirements": [
+            "Explain how GPS works",
+            "Explain ownership and control of the system",
+            "Explain its benefits to society",
+            "Explain what factors affect its accuracy"
+          ]
+        },
+        {
+          "number": 2,
+          "title": "GPS Programming",
+          "text": "Programme a handheld GPS receiver",
+          "subRequirements": [
+            "Find your location (grid reference, plus latitude and longitude) and record it",
+            "Enter the latitude and longitude coordinates of a nearby point and navigate to the waypoint",
+            "Enter the grid reference of a local landmark and navigate to the waypoint",
+            "Walk on a bearing using the GPS and a map"
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Geocaching Awareness",
+          "text": "Show that you know about the sport of geocaching",
+          "subRequirements": [
+            "Explain what geocaching is and how it started",
+            "Explain the different types of geocaches",
+            "Explain the meaning of the terms 'trackable', 'TB', 'coin', 'muggle', 'DNF', 'FTF'",
+            "Describe the geocaching etiquette and how to practise it safely"
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Geocaching Account",
+          "text": "With appropriate permission, set up a geocaching account",
+          "subRequirements": [
+            "Create a geocaching account with a responsible adult",
+            "Understand and explain the privacy and safety guidelines",
+            "Find out about geocaches in your local area"
+          ]
+        },
+        {
+          "number": 5,
+          "title": "Finding Geocaches",
+          "text": "Find at least five geocaches",
+          "subRequirements": [
+            "Use a GPS device or smartphone app to locate five different geocaches",
+            "For each cache, record the cache name, GC code, and date found",
+            "Explain the type and size of each cache found",
+            "Log your finds online (with appropriate permission)"
+          ]
+        },
+        {
+          "number": 6,
+          "title": "Creating a Cache",
+          "text": "With appropriate permission, hide a geocache",
+          "subRequirements": [
+            "Find a suitable location for hiding a cache",
+            "Prepare a suitable container and contents",
+            "Take accurate GPS readings of the location",
+            "Submit the cache for publication (following the guidelines)"
+          ]
+        },
+        {
+          "number": 7,
+          "title": "Trackables",
+          "text": "Learn about trackable items",
+          "subRequirements": [
+            "Explain what a trackable is and how it works",
+            "Discover a trackable in a cache or online",
+            "Log a trackable and understand its mission",
+            "Move a trackable to help it on its journey"
+          ]
+        },
+        {
+          "number": 8,
+          "title": "Geocaching Event",
+          "text": "Take part in a geocaching event or activity",
+          "subRequirements": [
+            "Participate in a geocaching event or organise a geocaching activity for your troop",
+            "Share your geocaching experiences with others",
+            "Teach basic geocaching skills to younger scouts or new members"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gardener",
+      "description": "With a splash of water and a ray of sunshine, you can grow flowers, plants and trees. Bring the forest home.",
+      "section": "Beavers",
+      "requirements": [
+        {
+          "number": 1,
+          "title": "Trees Through the Seasons",
+          "text": "Find out what happens to trees in each of the four seasons"
+        },
+        {
+          "number": 2,
+          "title": "Gardening Tools",
+          "text": "Learn what tools you need to garden and how to use some of the tools safely"
+        },
+        {
+          "number": 3,
+          "title": "What Plants Need",
+          "text": "Find out what plants need to grow"
+        },
+        {
+          "number": 4,
+          "title": "Growing Plants",
+          "text": "Help to look after a garden or allotment for two months (or grow 3 plants in pots)"
+        },
+        {
+          "number": 5,
+          "title": "Keeping Records",
+          "text": "Keep a record of what you have done"
+        }
+      ]
+    }
+  ]
+}
