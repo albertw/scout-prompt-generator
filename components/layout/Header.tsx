@@ -19,7 +19,6 @@ export function Header() {
               rel="noopener noreferrer"
               className="text-sm text-gray-600 hover:text-gray-900"
             >
-              Scouts.ie
             </a>
           </div>
         </div>
