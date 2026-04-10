@@ -1508,20 +1508,32 @@
           "stageNumber": 1,
           "competencies": [
             {
-              "statement": "I know what should be in my personal first aid kit",
+              "statement": "I know what should be in my personal first aid kit.",
               "explanation": "Scouts need to be able to demonstrate what should be in their personal first aid kit. Be able to list items required: gloves, antiseptic wipes, triangular bandages, sticking plasters, scissors, etc. Be able to pack the personal first aid kit properly. Know where to get supplies when an item runs out."
             },
             {
-              "statement": "I know the basic rules of First Aid",
+              "statement": "I know the basic rules of First Aid.",
               "explanation": "The Scout should discuss the basic rules for dealing with emergencies. This can be teased out with the Scouts to see how they would react in various situations. The Scout should be comfortable with these rules and be able to recall or cite them with ease."
             },
             {
-              "statement": "I know the different emergency services that are available and how and when to call them",
-              "explanation": ""
+              "statement": "I know the different emergency services that are available and how and when to call them.",
+              "explanation": "Scouts need to be aware of the emergency services available in different situations and how to get in contact with them. This can be simulated in the Scout Den as practice. Know the emergency services available and when to call them e.g. ambulance, fire service, lifeboat. The emergency telephone numbers. Radioing from a vessel on the water. What to do when talking to an Emergency Operator."
             },
             {
-              "statement": "I can be responsible for my own health and safety",
-              "explanation": "With the skills and knowledge above the Scout should now be able to take care of themselves while Scouting and know how to get help in times of difficulty. •    Possess the skills required to be safe at all times. •    Possess the knowledge required to always be healthy. •    How to get assistance if required."
+              "statement": "I know how to use the buddy system.",
+              "explanation": "Scouts should be aware of the “buddy” system and put this into practice. Why the buddy system is important. How to put the buddy system into practice."
+            },
+            {
+              "statement": "I can treat minor cuts, bruises and remove splinters.",
+              "explanation": "Scouts should be able to deal with simple cuts, bruises and sprains and demonstrate this ability in a simulated environment."
+            },
+            {
+              "statement": "I can get help and make a report properly if someone is hurt.",
+              "explanation": "Scouts should be able to say how they might keep calm, don’t panic and seek help immediately. They should also be able to explain to someone in a clear way what has happened."
+            },
+            {
+              "statement": "I can be responsible for my own health and safety.",
+              "explanation": "With the skills and knowledge above the Scout should now be able to take care of themselves while Scouting and know how to get help in times of difficulty. Possess the skills required to be safe at all times. Possess the knowledge required to always be healthy. How to get assistance if required."
             }
           ]
         },
@@ -1529,24 +1541,28 @@
           "stageNumber": 2,
           "competencies": [
             {
-              "statement": "I know how to use the buddy system",
-              "explanation": "Scouts should be aware of the “buddy” system and put this into practice. • Why the buddy system is important . • How to put the buddy system into practice."
+              "statement": "I have made my own first aid kit and know how and when to use it.",
+              "explanation": "Scouts need to be able to use their first aid kit in case of emergency while Scouting. What should be contained in the first aid kit. How to pack the first aid kit. When first aid kit should be used. Know when to use different elements of the first aid kit."
             },
             {
-              "statement": "I can treat minor cuts, bruises and remove splinters",
-              "explanation": "Scouts should be able to deal with simple cuts, bruises and sprains and demonstrate this ability in a simulated environment. ndb 60"
+              "statement": "I know how and when to put someone into the recovery (safe airway) position.",
+              "explanation": "Scouts should be aware of the recovery position and be able to use it if required in both real and simulated situation"
             },
             {
-              "statement": "I know the importance of providing shelter and insulation",
-              "explanation": "All Scouts should be aware of the importance of providing shelter and insulation in outdoor situation Why shelter and insulation are required on Scout activities The shelter and insulation required for particular activities. How to construct makeshift shelter and insulation if"
+              "statement": "I know the importance of providing shelter and insulation.",
+              "explanation": "All Scouts should be aware of the importance of providing shelter and insulation in outdoor situations. Why shelter and insulation are required on Scout activities. The shelter and insulation required for particular activities. How to construct makeshift shelter and insulation if necessary while Scouting."
             },
             {
-              "statement": "I have made my own first aid kit and know how and when to use it",
-              "explanation": "Scouts need to be able to use their first aid kit in case of emergency while Scouting. • What should be contained in the first aid kit. • How to pack the first aid kit. • When first aid kit should be used. • Know when to use different elements of the first aid kit."
+              "statement": "I know how to use a Scout neckerchief as a makeshift bandage in an emergency.",
+              "explanation": "Scouts need to demonstrate how to make various bandages from a Scout neckerchief - ( reference to Emergencies chapter of the Scouting Trail)"
             },
             {
-              "statement": "I know how and when to put someone into the recovery (safe airway) position",
-              "explanation": "Scouts should be aware of the recovery position and be able to use it if required in both real and simulated situation. 60 15/02/2010 21:47:25 Emergencies s."
+              "statement": "I understand why I should follow directions from an instructor.",
+              "explanation": "The Scout should know about the importance of listening to the instructor so that they are aware of what to do and the dangers of doing things that they don’t fully understand."
+            },
+            {
+              "statement": "I can direct help/rescue services to a location.",
+              "explanation": "Scouts need to have the ability to show and explain where an emergency is situated as many Scout activities may be in remote areas. Know how to direct help and rescue services to a accident location."
             }
           ]
         },
@@ -1554,32 +1570,40 @@
           "stageNumber": 3,
           "competencies": [
             {
-              "statement": "I know how to use a Scout neckerchief as a makeshift bandage in an emergency",
-              "explanation": "Scouts need to demonstrate how to make various bandages from a Scout neckerchief - ( reference to Emergencies chapter of the Scouting Trail) I understand why I should follow directions from an instructor. The Scout should know about the importance of listening to the instructor so that they are aware of what to do and the dangers of doing things that they don’t fully understand."
-            },
-            {
-              "statement": "I can direct help/rescue services to a location",
-              "explanation": "Scouts need to have the ability to show and explain where an emergency is situated as many Scout activities may be in remote areas. Know how to direct help and rescue services to a accident location. ndb 61"
-            },
-            {
-              "statement": "I know how to check for the A B C of basic",
-              "explanation": "First Aid. Scouts need to be aware of the ABC of basic First Aid and demonstrate their ability in a simulation in case it is required in reality. •        What ABC is. •        How to check for ABC."
-            },
-            {
-              "statement": "I know how to deal with a bleeding injury and nose bleeds",
+              "statement": "I know how to deal with a bleeding injury and nose bleeds.",
               "explanation": "Scouts should be able to deal with a bleeding injury sufficiently to make the patient comfortable until help arrives. How to treat bleeding and apply a bandage. How to treat a nose bleed. How to get help. How to make a patient comfortable until help arrives."
             },
             {
-              "statement": "I know how to treat minor burns and sunburn",
-              "explanation": "Scouts need to be able to treat burns while on Scout activities sufficiently to make the casualty comfortable until help arrives. • How to treat minor burns and scalds. • How to recognise sunburn and treat with creams and lotions. • How to keep an injured person calm and comfortable until more help arrives."
+              "statement": "I know how to treat minor burns and sunburn.",
+              "explanation": "Scouts need to be able to treat burns while on Scout activities sufficiently to make the casualty comfortable until help arrives. How to treat minor burns and scalds. How to recognise sunburn and treat with creams and lotions. How to keep an injured person calm and comfortable until more help arrives."
             },
             {
-              "statement": "I know the international distress signal and when to use it",
+              "statement": "I know the international distress signal and when to use it.",
               "explanation": "Scouts need to talk through the international distress signal. This demonstration/talk can be done in a practical way."
             },
             {
-              "statement": "I can treat bee stings and nettle stings",
-              "explanation": "Scouts need to talk through the process of treatment. This demonstration/talk can be done in a practical way on a volunteer. • Recognise a bee/nettle sting. • Treating the wound. • Treatments available. • Tell a Scouter. 61 15/02/2010 21:47:26"
+              "statement": "I can treat bee stings and nettle stings.",
+              "explanation": "Scouts need to talk through the process of treatment. This demonstration/talk can be done in a practical way on a volunteer. Recognise a bee/nettle sting. Treating the wound. Treatments available. Tell a Scouter."
+            },
+            {
+              "statement": "I know how to check for the A B C of basic First Aid.",
+              "explanation": "Scouts need to be aware of the ABC of basic First Aid and demonstrate their ability in a simulation in case it is required in reality. What ABC is. How to check for ABC."
+            },
+            {
+              "statement": "I know how to use CPR.",
+              "explanation": "Scouts need to know cardio-pulmonary resuscitation as it is an important skill which will enable Scouts to save a life. What CPR is. Know the process involved in CPR. Know the Chain of survival. Putting CPR into practice in a simulated situation. Be prepared to use CPR in case of emergency."
+            },
+            {
+              "statement": "I can assess emergency situations quickly and summon help.",
+              "explanation": "Having sufficient training and simulation experience Scouts will have the ability to make good decisions in an emergency situation and do what is in the best interests of the injured person and themselves. Be able to assess emergency situation. Be able to act promptly to make accident casualty(s) safe."
+            },
+            {
+              "statement": "I know how to create an escape plan for a building or activity location in case of fire with Fire Exits and Assembly Points.",
+              "explanation": ""
+            },
+            {
+              "statement": "I know how to care for an injured person until help arrives.",
+              "explanation": "Having sufficient training and simulation experience Scouts will have the ability to make good decisions in an emergency situation and do what is in the best interests of the injured person. Be able to assess emergency situation. Keep comfortable. Check ABC and Recovery Position."
             }
           ]
         },
@@ -1587,44 +1611,40 @@
           "stageNumber": 4,
           "competencies": [
             {
-              "statement": "I know how to use CPR",
-              "explanation": "Scouts need to know cardio-pulmonary resuscitation as it is an important skill which will enable Scouts to save a life. •        What CPR is. •        Know the process involved in CPR. •        Know the Chain of survival. •        Putting CPR into practice in a simulated situation •        Be prepared to use CPR in case of emergency."
-            },
-            {
-              "statement": "I can assess emergency situations quickly and summon help",
-              "explanation": "Having sufficient training and simulation experience Scouts will have the ability to make good decisions in an emergency situation and do what is in the best interests of the injured person and themselves. - Be able to assess emergency situation. - Be able to act promptly to make accident casualty(s) safe."
-            },
-            {
-              "statement": "I know how to create an escape plan for a building or activity location in case of fire with Fire Exits and Assembly Points",
-              "explanation": ""
-            },
-            {
-              "statement": "I know how to care for an injured person until help arrives",
-              "explanation": "Having sufficient training and simulation experience Scouts will have the ability to make good decisions in an emergency situation and do what is in the best interests of the injured person. Be able to assess emergency situation Keep comfortable. Check ABC and Recovery Position. ndb 62"
-            },
-            {
-              "statement": "I know how to recognise sprains, strains and fractures",
-              "explanation": "Scouts should be able to deal with foot injuries, sprains and blisters sufficiently to make the patient comfortable until help arrives. •        How to diagnose sprains and strains."
-            },
-            {
-              "statement": "I know what should be in our Team first aid kit, and know how to use it correctly",
+              "statement": "I know what should be in our Team first aid kit, and know how to use it correctly.",
               "explanation": "Scouts should be aware of what makes up the Team first aid kit and how to use it. This knowledge can be demonstrated in a simulated situation. What should be in the Team first aid kit. How to pack a Team first aid kit. When the Team first aid kit should be used. Know when to use the different elements of the Team first aid kit."
             },
             {
-              "statement": "I know how to move an injured person safely to shelter if appropriate and necessary",
+              "statement": "I know how to move an injured person safely to shelter if appropriate and necessary.",
               "explanation": "Scouts need to know how to move an injured person safely using various lifting techniques if required. When to move an injured person and when not to move an injured person."
             },
             {
-              "statement": "I know how to apply bandages for different types of injury",
+              "statement": "I know how to apply bandages for different types of injury.",
               "explanation": ""
             },
             {
-              "statement": "I know how to deal with a person who is choking and how to help them",
+              "statement": "I know how to deal with a person who is choking and how to help them.",
               "explanation": "The Scout should be able to explain how they would react to someone who is choking. They should demonstrate the pat on the back and abdominal thrust and explain how to deal with a young child (one-three year old) that is choking."
             },
             {
-              "statement": "I know how to clean dirt from an eye",
-              "explanation": "Scouts should be able to clean out an eye while on Scout activities. How to wash out the eye with copious amounts of water. How to get help if necessary. 62 15/02/2010 21:47:26 Emergencies"
+              "statement": "I know how to clean dirt from an eye.",
+              "explanation": "Scouts should be able to clean out an eye while on Scout activities. How to wash out the eye with copious amounts of water. How to get help if necessary."
+            },
+            {
+              "statement": "I know how to recognise sprains, strains and fractures.",
+              "explanation": "Scouts should be able to deal with foot injuries, sprains and blisters sufficiently to make the patient comfortable until help arrives. How to diagnose sprains and strains. How to treat sprains and strains. How to deal with blisters and apply a dressing. How to get help. How to make the patient comfortable until help arrives."
+            },
+            {
+              "statement": "I know what actions to take with suspected poisoning.",
+              "explanation": "Scouts must be able to deal with an event of poisoning on Scout activities. How to identify a case of poisoning and treat it. How to get help for a serious case of poisoning."
+            },
+            {
+              "statement": "I can use various means to show the location of an accident to rescue services.",
+              "explanation": "Scouts need to be able to use various methods to show and direct emergency services to the location of an accident. Know how, when and where to use various means of showing an accident location."
+            },
+            {
+              "statement": "I know how to build a stretcher from improvised materials.",
+              "explanation": "Scouts should be able to make a number of improvised stretchers from equipment provided. Equipment might include, bivvy bags, rucksacks, clothing, rope, scout staves or walking poles."
             }
           ]
         },
@@ -1632,40 +1652,40 @@
           "stageNumber": 5,
           "competencies": [
             {
-              "statement": "I know what actions to take with suspected poisoning",
-              "explanation": "Scouts must be able to deal with an event of poisoning on Scout activities. How to identify a case of poisoning and treat it. How to get help for a serious case of poisoning."
-            },
-            {
-              "statement": "I can use various means to show the location of an accident to rescue services",
-              "explanation": "Scouts need to be able to use various methods to show and direct emergency services to the location of an accident. Know how, when and where to use various means of showing an accident location."
-            },
-            {
-              "statement": "I know how to build a stretcher from improvised materials",
-              "explanation": "Scouts should be able to make a number of improvised stretchers from equipment provided. Equipment might include, bivvy bags, rucksacks, clothing, rope, scout staves or walking poles. ndb 63"
-            },
-            {
-              "statement": "I know how to deal with an accident in open countryside and summon help",
-              "explanation": "The Scout should have a good working knowledge of accident and emergency procedures. Devise the Group accident and emergency plan Know the accident and emergency procedure of the Group. Simulate putting accident and emergency plan into"
-            },
-            {
-              "statement": "I know how to treat an eye injury. lp",
+              "statement": "I know how to treat an eye injury.",
               "explanation": "The Scout should know how to treat an eye injury, and apply a suitable dressing to an injury."
             },
             {
-              "statement": "I know what to do and what not to do in the case of emergencies",
+              "statement": "I know what to do and what not to do in the case of emergencies.",
               "explanation": "Scouts ought to be capable of making the right decisions in emergencies situations. The best way to practice this is to use simulations of emergency situations. Demonstrate an ability to make the right decision in emergency situations."
             },
             {
-              "statement": "I have acted as a Team first aider on at least one activity",
+              "statement": "I have acted as a Team first aider on at least one activity.",
               "explanation": "The Scout should have sufficient confidence to take on this role. The Scout will be expected to deal with minor ailments in a Team context. A more experienced Scouter should be able to hand to deal with more serious injuries and emergencies."
             },
             {
-              "statement": "I know how to take care of and reassure a casualty",
-              "explanation": "Scouts should be able to look after an accident casualty. • Know how to take care of people in an emergency • Practice this in a simulation. • How to get help."
+              "statement": "I know how to take care of and reassure a casualty.",
+              "explanation": "Scouts should be able to look after an accident casualty. Know how to take care of people in an emergency. Practice this in a simulation. How to get help."
             },
             {
-              "statement": "I know how to recognise and assist the casualty to deal with their asthma, epilepsy and diabetes conditions",
-              "explanation": "Scouts must have knowledge of common ailments such as asthma, epilepsy and diabetes in order to deal with them sufficiently on Scout activities. - How identify these conditions. - How to assist people with these conditions. - How to get assistance with these conditions if required. 63 15/02/2010 21:47:26"
+              "statement": "I know how to recognise and assist the casualty to deal with their asthma, epilepsy and diabetes conditions.",
+              "explanation": "Scouts must have knowledge of common ailments such as asthma, epilepsy and diabetes in order to deal with them sufficiently on Scout activities. How identify these conditions. How to assist people with these conditions. How to get assistance with these conditions if required."
+            },
+            {
+              "statement": "I know how to deal with an accident in open countryside and summon help.",
+              "explanation": "The Scout should have a good working knowledge of accident and emergency procedures. Devise the Group accident and emergency plan. Know the accident and emergency procedure of the Group. Simulate putting accident and emergency plan into practice to be prepared for use in real situation."
+            },
+            {
+              "statement": "I know how to treat a serious bleeding injury.",
+              "explanation": "Scouts should be able to deal with serious bleeding sufficiently to make the patient comfortable until help arrives. How to diagnose serious bleeding. Different types of bleeding. How to treat a case of serious blood loss. How to get help. How to make a patient comfortable until help arrives."
+            },
+            {
+              "statement": "I know how to escape to safety from various emergency situations.",
+              "explanation": "Scouts should be able to identify and discuss various non medical emergency situations such as a building on fire or full of smoke, someone trapped under a heavy weight, person drowning, person who has be electrocuted and explain how to deal with such emergencies."
+            },
+            {
+              "statement": "I know how and when to use flares and other long distance signalling devices.",
+              "explanation": "Scouts should know the appropriate time to use flares on land, on the water or air. Know different types of flares. When to use flares. Be familiar with and know how to use flares."
             }
           ]
         },
@@ -1673,40 +1693,44 @@
           "stageNumber": 6,
           "competencies": [
             {
-              "statement": "I know how to treat a serious bleeding injury",
-              "explanation": "Scouts should be able to deal with serious bleeding sufficiently to make the patient comfortable until help arrives. •        How to diagnose serious bleeding. •        Different types of bleeding. •        How to treat a case of serious blood loss. •        How to get help. •        How to make a patient comfortable until help arrives."
+              "statement": "I know how to recognise shock.",
+              "explanation": "Scouts need to be able to recognise when people are in shock after a traumatic incident to get the help they require and help them be comfortable until that help arrives. How to identify a case of shock. How to keep the person comfortable until help arrives."
             },
             {
-              "statement": "I know how to escape to safety from various emergency situations",
-              "explanation": "Scouts should be able to identify and discuss various non medical emergency situations such as a building on fire or full of smoke, someone trapped under a heavy weight, person drowning, person who has be electrocuted and explain how to deal with such emergencies."
-            },
-            {
-              "statement": "I know how and when to use flares and other long distance signalling devices",
-              "explanation": "Scouts should know the appropriate time to use flares on land, on the water or air. •        Know different types of flares. •        When to use flares. •        Be familiar with and know how to use flares. ndb 64"
-            },
-            {
-              "statement": "I know how and when and when to use different fire extinguishers",
-              "explanation": "Be able to use a fire extinguisher and know what kind of fire extinguisher to use in certain fire situations. •        Know the different types of fire extinguishe required for certain situations. •        How to use fire extinguishers"
-            },
-            {
-              "statement": "I know how to look for and monitor vital signs",
-              "explanation": "Scouts should know what the vital signs are, how to ensure they are present in a casualty and understand the importance of vital signs in relation to emergencies."
-            },
-            {
-              "statement": "I know how to recognise shock",
-              "explanation": "Scouts need to be able to recognise when people are in shock after a traumatic incident to get the help they require and help them be comfortable until that help arrives. • How to identify a case of shock. • How to keep the person comfortable until help arrives."
-            },
-            {
-              "statement": "I know how to use an AED",
+              "statement": "I know how to use an AED.",
               "explanation": "Scout should attend a special training session to learn how and when to use this life saving device. They should also be familiar with the device and the instructions for use that accompany the device."
             },
             {
-              "statement": "I have acted as a Team first aider on at least one adventure",
+              "statement": "I have acted as a Team first aider on at least one adventure.",
               "explanation": "The Scout should have sufficient confidence to take on this role. The Scout should also have acted in this role on other occasions – see levels above. The Scout will be expected to deal with minor ailments in a Team context. A more experienced Scouter should be able to hand to deal with more serious injuries and emergencies. Ideally, the Scout will have completed a basic first aid course provided by another agency such as the Order of Malta, Red Cross, St. John’s ambulance or REC etc."
             },
             {
-              "statement": "I know how to escort and assist a casualty, while they are being transported to safety",
-              "explanation": "Scouts need to be able to act as a reliable escort for a casualty of an accident. Be able to keep in mind the best interests of the casualty Be capable of making decisions in the best interests of the casualty if required as they are being moved to safety. 64 15/02/2010 21:47:26 Emergencies I am competent in basic first aid, able to deal with emergencies, and know when further expert help is needed. With the skills and knowledge learned in Scouting all Scouts should be able to deal competently with basic emergency situations. r        Be capable of dealing with common situations which arise while on Scout activity."
+              "statement": "I know how to escort and assist a casualty, while they are being transported to safety.",
+              "explanation": "Scouts need to be able to act as a reliable escort for a casualty of an accident. Be able to keep in mind the best interests of the casualty. Be capable of making decisions in the best interests of the casualty if required as they are being moved to safety."
+            },
+            {
+              "statement": "I know how and when to use different fire extinguishers.",
+              "explanation": "Be able to use a fire extinguisher and know what kind of fire extinguisher to use in certain fire situations. Know the different types of fire extinguisher required for certain situations. How to use fire extinguishers."
+            },
+            {
+              "statement": "I know how to look for and monitor vital signs.",
+              "explanation": "Scouts should know what the vital signs are, how to ensure they are present in a casualty and understand the importance of vital signs in relation to emergencies."
+            },
+            {
+              "statement": "I know how to recognise and treat hypothermia, hyperthermia and dehydration.",
+              "explanation": "Scouts ought to be able to treat ailments like as hyperthermia, hypothermia and dehydration in case of them occurring while on Scout activities. How to identify cases of hyperthermia, hypothermia and dehydration. How to treat these conditions. How to get assistance in dealing with these conditions."
+            },
+            {
+              "statement": "I know how to recognise and deal with angina and heart attacks.",
+              "explanation": "Scouts need to be aware of the dangers of angina and heart attacks on Scout activities and how to deal with such an event. Be aware of the causes of angina and heart attacks. How to deal with a case of this. How to get help."
+            },
+            {
+              "statement": "I know how to record correctly everything that has happened at the scene of the accident.",
+              "explanation": "Scouts should be capable of compiling an accident report. Know how to compile a comprehensive verbal and/or written report of an accident."
+            },
+            {
+              "statement": "I am competent in basic first aid, able to deal with emergencies, and know when further expert help is needed.",
+              "explanation": "With the skills and knowledge learned in Scouting all Scouts should be able to deal competently with basic emergency situations. Be capable of dealing with common situations which arise while on Scout activity."
             }
           ]
         },
@@ -1714,52 +1738,32 @@
           "stageNumber": 7,
           "competencies": [
             {
-              "statement": "I know how to recognise and treat hypothermia, hyperthermia and dehydration",
-              "explanation": "Scouts ought to be able to treat ailments like as hyperthermia, hypothermia and dehydration in case of them occurring while on Scout activities. How to identify cases of hyperthermia, hypothermia and dehydration. • How to treat these conditions. • How to get assistance in dealing with these conditions."
+              "statement": "I hold a First Aid certificate to REC 3 or equivalent level (Red Cross, Order of Malta, and Saint John’s Ambulance).",
+              "explanation": ""
             },
             {
-              "statement": "I know how to recognise and deal with angina and heart attacks",
-              "explanation": "Scouts need to be aware of the dangers of angina and heart attacks on Scout activities and how to deal with such an event. •        Be aware of the causes of angina and heart attacks •        How to deal with a case of this. •        How to get help."
-            },
-            {
-              "statement": "I know how to record correctly everything that has happened at the scene of the accident",
-              "explanation": "Scouts should be capable of compiling an accident report. Know how to compile a comprehensive verbal and/ or written report of an accident. ndb 65"
-            },
-            {
-              "statement": "I know what specialised equipment I should have in my first aid kit and how to use and care for it",
-              "explanation": "Scouts should be aware of what a first aid kit contains with consideration to what Scout activities the Group is taking part in. •        What a typical first aid kit contains. •        What specialized equipment is needed depending on the activity to be pursued. •        Know how to use all equipment"
-            },
-            {
-              "statement": "I know how and when to call a medevac or other medical helicopters",
-              "explanation": "Scouts should be familiar with various emergency situations and know when the situation warrants the services of the rescue service rather than road based ambulance services. Various scenarios should be discussed and suggested procedures outlined in detail."
-            },
-            {
-              "statement": "I can use radio communications effectively in an emergency situation",
-              "explanation": "Scouts should know how to use radio equipment and be familiar with radio procedures as used by rescue teams and emergency response personnel."
-            },
-            {
-              "statement": "I can deal with emergency situations and follow best practice for first aid",
+              "statement": "I can deal with emergency situations and follow best practice for first aid.",
               "explanation": "Scouts are capable to deal with any emergency situation that arise and follow first aid guidelines. Demonstrate an ability to deal with any emergency situation in a simulated scenario. Demonstrate a knowledge and ability of best practice in first aid."
             },
             {
-              "statement": "I have acted as Section first aider on at least one occasion on an adventure",
+              "statement": "I have acted as Section first aider on at least one occasion on an adventure.",
               "explanation": "The Scout should have sufficient confidence to take on this role. The Scout should also have acted in this role on other occasions – see levels above. The Scout will be expected to deal with minor ailments in a Team context. A more experienced Scouter should be able to hand to deal with more serious injuries and emergencies. Ideally, the Scout will have completed a basic first aid course provided by another agency such as the Order of Malta, Red Cross, St. John’s ambulance or REC etc."
             },
             {
-              "statement": "I can analyse vital signs",
-              "explanation": "Scouts should know what the vital signs are, how to ensure they are present in a casualty and understand the importance of vital signs in relation to emergencies. 65 15/02/2010 21:47:27"
+              "statement": "I can analyse vital signs.",
+              "explanation": "Scouts should know what the vital signs are, how to ensure they are present in a casualty and understand the importance of vital signs in relation to emergencies."
             },
             {
-              "statement": "I can risk assess an activity and steer clear of dangers",
-              "explanation": "Having sufficient training and simulation experience Scouts will have the ability to make good decisions in an emergency situation and do what is in the best interests of the injured person. •   Be able to assess emergency situations. •   Be able to assess the safety of any accident site. •   Be able to act promptly to make accident casualty(s) safe."
+              "statement": "I know what specialised equipment I should have in my first aid kit and how to use and care for it.",
+              "explanation": "Scouts should be aware of what a first aid kit contains with consideration to what Scout activities the Group is taking part in. What a typical first aid kit contains. What specialized equipment is needed depending on the activity to be pursued. Know how to use all equipment."
             },
             {
-              "statement": "I know how to deal with head, spine, chest, stomach, and pelvic injuries",
-              "explanation": "Scouts should be able to treat head, spine, chest, stomach and pelvic injuries within their capabilities sufficiently to make the patient comfortable until help arrives. •   How to do diagnose head, spine, chest, stomach and pelvic injuries. •   How to treat these injuries. •   How to get help. •   How to make the patient comfortable until help requires."
+              "statement": "I know how and when to call a medevac or other medical helicopters.",
+              "explanation": "Scouts should be familiar with various emergency situations and know when the situation warrants the services of the rescue service rather than road based ambulance services. Various scenarios should be discussed and suggested procedures outlined in detail."
             },
             {
-              "statement": "I know how to educate others to the possible dangers that can be encountered and how to deal with them",
-              "explanation": "Scouts should be able to anticipate and notify others to possible dangers and how to cope with them. Have knowledge of possible emergency situations on an activity and be able to impart this knowledge to others. Educate and assist others in dealing with emergencies that may arise on a particular activity."
+              "statement": "I can use radio communications effectively in an emergency situation.",
+              "explanation": "Scouts should know how to use radio equipment and be familiar with radio procedures as used by rescue teams and emergency response personnel."
             }
           ]
         },
@@ -1767,15 +1771,27 @@
           "stageNumber": 8,
           "competencies": [
             {
-              "statement": "I know how to treat specific injuries which may occur in my chosen area of interest",
-              "explanation": "In certain areas of interest particular injuries may occur more regularity - twisted ankles, fall injuries minor burns for example. Scouts need to know of these and how to treat them. •        Know the particular injuries common in certa areas of interest. •        How to diagnose and treat these injuries."
+              "statement": "I know how to treat specific injuries which may occur in my chosen area of interest.",
+              "explanation": "In certain areas of interest particular injuries may occur more regularity - twisted ankles, fall injuries, minor burns for example. Scouts need to know of these and how to treat them. Know the particular injuries common in certain areas of interest. How to diagnose and treat these injuries. How to get help if required."
             },
             {
-              "statement": "I have acted as a first aider on at least one annual expedition abroad",
-              "explanation": "Scouts should ensure they are aware of the Local Emergency/ Hospital procedures of the Country. Including the European Health Insurance Card if ,         appropriate."
+              "statement": "I can risk assess an activity and steer clear of dangers.",
+              "explanation": "Having sufficient training and simulation experience Scouts will have the ability to make good decisions in an emergency situation and do what is in the best interests of the injured person. Be able to assess emergency situations. Be able to assess the safety of any accident site. Be able to act promptly to make accident casualty(s) safe."
             },
             {
-              "statement": "I have acted as a First Aider on at least one in annual expedition of five night’s duration",
+              "statement": "I know how to deal with head, spine, chest, stomach, and pelvic injuries.",
+              "explanation": "Scouts should be able to treat head, spine, chest, stomach and pelvic injuries within their capabilities sufficiently to make the patient comfortable until help arrives. How to do diagnose head, spine, chest, stomach and pelvic injuries. How to treat these injuries. How to get help. How to make the patient comfortable until help requires."
+            },
+            {
+              "statement": "I know how to educate others to the possible dangers that can be encountered and how to deal with them.",
+              "explanation": "Scouts should be able to anticipate and notify others to possible dangers and how to cope with them. Have knowledge of possible emergency situations on an activity and be able to impart this knowledge to others. Educate and assist others in dealing with emergencies that may arise on a particular activity."
+            },
+            {
+              "statement": "I have acted as a first aider on at least one annual expedition abroad.",
+              "explanation": "Scouts should ensure they are aware of the Local Emergency/ Hospital procedures of the Country. Including the European Health Insurance Card if appropriate."
+            },
+            {
+              "statement": "I have acted as a First Aider on at least one annual expedition of five night’s duration.",
               "explanation": ""
             }
           ]
@@ -1784,24 +1800,32 @@
           "stageNumber": 9,
           "competencies": [
             {
-              "statement": "I know how to deal with regional specific illnesses depending on my location or the location I am travelling to",
-              "explanation": "In certain regions some illnesses are prevalent which may not be in your area of origination. Scouts will need to be aware of these and prepare for any eventuality in the location. Know of diseases specific to certain areas if travelling to them. Ensure all Scouts are vaccinated against illnesses and diseases if necessary. Know how to treat and where to get help if these diseases and illnesses arise. I know, understand and I am able to perform basic life support. At this level Scouts should be capable of performing basic life support if required. Understanding the theory behind basic life support. Have a working knowledge of basic life support through regular practice of the skills required. Using simulation as a way of practicing this knowledge and skills. Note: Reference here should be to a first aid manual, for CPR ratios and procedures"
+              "statement": "I know how to deal with regional specific illnesses depending on my location or the location I am travelling to.",
+              "explanation": "In certain regions some illnesses are prevalent which may not be in your area of origination. Scouts will need to be aware of these and prepare for any eventuality in the location. Know of diseases specific to certain areas if travelling to them. Ensure all Scouts are vaccinated against illnesses and diseases if necessary. Know how to treat and where to get help if these diseases and illnesses arise."
             },
             {
-              "statement": "I know how to assess and manage risk in various and constantly changing situations",
-              "explanation": "Scouts must be able to carry out a risk assessment of any activity they hope to engage in. •        Know the benefits of risk assessment. •        Know the procedure for carrying out a risk assessment. •        Be able to make an informed decision in rela to partaking of an activity. ndb 67 68 ndb 68        15/02/2010 21:47:28"
+              "statement": "I know, understand and I am able to perform basic life support.",
+              "explanation": "At this level Scouts should be capable of performing basic life support if required. Understanding the theory behind basic life support. Have a working knowledge of basic life support through regular practice of the skills required. Using simulation as a way of practicing this knowledge and skills. Note: Reference here should be to a first aid manual, for CPR ratios and procedures."
             },
             {
-              "statement": "I can constantly risk assess situations as they arise and take measures to limit injuries",
-              "explanation": "Scouts should be aware that if an emergency occurs in a difficult or dangerous situation; that they will constantly need to risk assess the situation; to"
+              "statement": "I know how to assess and manage risk in various and constantly changing situations.",
+              "explanation": "Scouts must be able to carry out a risk assessment of any activity they hope to engage in. Know the benefits of risk assessment. Know the procedure for carrying out a risk assessment. Be able to make an informed decision in relation to partaking of an activity."
             },
             {
-              "statement": "I can give immediate treatment and deal with complicated emergency situations",
+              "statement": "I can constantly risk assess situations as they arise and take measures to limit injuries.",
+              "explanation": "Scouts should be aware that if an emergency occurs in a difficult or dangerous situation; that they will constantly need to risk assess the situation; to ensure that the victim is safe and that no further injuries can occur due to changing circumstances. Scouts should propose likely scenarios and suggest actions."
+            },
+            {
+              "statement": "I can give immediate treatment and deal with complicated emergency situations.",
               "explanation": "With the skills and knowledge learned in Scouting situations Scouts attempting this level should be able to deal competently with emergency situations. Be capable of dealing with most common emergency situation which arises while on Scout activity."
             },
             {
-              "statement": "I can assist a rescue team in moving a casualty to safety",
-              "explanation": "I hold a First Aid Cert at REC level 4 or equivalent link to www.remoteemergencycare.com tion 67 15/02/2010 21:47:27 Air"
+              "statement": "I can assist a rescue team in moving a casualty to safety.",
+              "explanation": ""
+            },
+            {
+              "statement": "I hold a First Aid Cert at REC level 4 or equivalent.",
+              "explanation": "link to www.remoteemergencycare.com"
             }
           ]
         }
@@ -1812,11 +1836,403 @@
       "preface": "The Adventure Skills requirements are aligned with those of specific national certification bodies,\nwhere these exist. So, as a young person progresses with an Adventure Skills they also attain the\ngain the knowledge, skills and experience necessary to attain an equivalent outside qualification.\nAt this point, this means they will be able to attend assessment courses or examinations run by\nthe national certification bodies, it does not mean that will automatically qualify.",
       "stages": [
         {
+          "stageNumber": 1,
+          "competencies": [
+            {
+              "statement": "I can name all the things that I know can fly.",
+              "explanation": "The Scout can discuss what he/she knows about things that fly. This may be presented using a drawing."
+            },
+            {
+              "statement": "I can show pictures of and be able to talk about different types of flying machines.",
+              "explanation": "The Scout will have researched the subject and be able to present pictures of different craft. He/she will be able to discuss each craft and describe why it is different."
+            },
+            {
+              "statement": "I can build a paper aero plane from an A4 sheet that will fly, climb and turn.",
+              "explanation": "The Scout should be given a number of A4 sheets and asked to make a number of paper planes. These can be tested and the best one used for demonstration."
+            },
+            {
+              "statement": "I can discuss the features of an airport from a model or picture.",
+              "explanation": "The Scout will be able to discuss the layout of an airport with reference to a picture or map. He/she should be able to point out the runway, terminal, control tower etc."
+            },
+            {
+              "statement": "I know how to be safe around aircraft.",
+              "explanation": "The Scout should show an awareness of the dangers of an airfield and around an aircraft. The Scout should be particularly aware that they should follow instructions carefully and be aware of their surrounding at all time."
+            },
+            {
+              "statement": "I have visited an airport.",
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "stageNumber": 2,
+          "competencies": [
+            {
+              "statement": "I can make a small parachute using a piece of light material and string.",
+              "explanation": "The Scout should present a parachute he/she has made and demonstrate it falling from a height or by throwing it into the air."
+            },
+            {
+              "statement": "I can show my Scouter the five main parts of an aero plane.",
+              "explanation": "The Scout should be able to point out on a diagram, picture or a real plan the Cabin, Wings, Tail, Wheels, and Engine."
+            },
+            {
+              "statement": "I can launch parachutes from a stand; see which parachute falls the slowest.",
+              "explanation": "The Scout, with other Scouts should drop their parachutes and see which falls to the ground fastest. After the activity the Scout should be able to point out the reasons why."
+            },
+            {
+              "statement": "I can discuss with my Scouter how the wind affects a parachute.",
+              "explanation": "The Scout should show an awareness of the affect of wind on a parachute. In particular they should mention drifting and land and air speed, into and against the wind."
+            },
+            {
+              "statement": "I know what you should do if somebody gets hurt.",
+              "explanation": "The Scout needs to show an ability to recognize that someone is hurt badly and needs help. The Scout should also know how to get help and by what means. How to discover that someone is hurt. How to compare injured parts with uninjured parts. Methods of getting help. Methods of caring for someone that is hurt."
+            },
+            {
+              "statement": "I know the safe way to act at an airport and can discuss this with my Scouter.",
+              "explanation": "Scouts should understand the difference between the restricted areas of an airfield where active aircraft movements can be expected and the safe public areas. They should also be able to recognise the signs and markings which indicate the boundary between the two areas."
+            },
+            {
+              "statement": "I can build a Kite and fly it.",
+              "explanation": "The Scout should present a kite he/she has made and be ready to fly it. The flight should be observed and if possible be part of an air scouting activity."
+            },
+            {
+              "statement": "I know where it would be safe to fly a kite.",
+              "explanation": "The Scout should know where it is safe to fly a kite. He/she should discuss suitable and unsuitable areas and the features that make an area unsafe."
+            }
+          ]
+        },
+        {
+          "stageNumber": 3,
+          "competencies": [
+            {
+              "statement": "I know the difference between airside and landside.",
+              "explanation": "Scouts should be able to explain how a modern airport is laid out. The Scout should understand the difference between ‘airside’ and ‘landside’ and the necessary precautions and procedures that are required in each area."
+            },
+            {
+              "statement": "I can discuss the first flight by the Wright Bros.",
+              "explanation": "The Scout should have done some research and be able to discuss the Wright Brothers impact on air travel."
+            },
+            {
+              "statement": "I know the main parts of an aero plane.",
+              "explanation": "The Scout should list the main parts of an aircraft by marking the names on a diagram: Fuselage/ Body.Cockpit. Wing., Tail/ Fin., Tailplane. Engines. Undercarriage."
+            },
+            {
+              "statement": "I know the rules of safety around an aero plane.",
+              "explanation": "The Scout should explain how to behave around an aircraft. How to approach it. How to observe movement. The areas to avoid front and back. Following the instructions of the pilot and the Scouter in charge."
+            },
+            {
+              "statement": "I can discuss why communication is important to aircraft.",
+              "explanation": "The Scout should display his/her knowledge about how important communications are in air flight. Air traffic control, communication of position, flight plans etc. should be mentioned."
+            },
+            {
+              "statement": "I know the phonetic alphabet.",
+              "explanation": "Scouts should know the phonetic alphabet used in radio communications, i.e. Alpha, Bravo, Charlie, Delta, etc."
+            },
+            {
+              "statement": "I can name the planets in our Solar System.",
+              "explanation": "The Scout should be able to name of all of the planets in the Solar System and know what order they come in relation to distance from the Sun."
+            },
+            {
+              "statement": "I know the main points of ‘Leave no Trace and why it’s important at airports.",
+              "explanation": "In addition to the points below, Scouts should have a special understanding of the dangers to aviation of having waste material or other items blowing around an airfield where they may get sucked into engines, block air intakes or otherwise cause damage to aircraft. Food waste in particular may attract birds which represent a particular hazard to aircraft operating near to the ground. Scouts should demonstrate an understanding of the key points in a practical way in a camp situation. Dispose of waste properly. Respect farm animals and wildlife. Minimise camping impact and the effects of fire. Be considerate of others. Travel and camp on durable surfaces. Leave what you find. Plan ahead and prepare."
+            },
+            {
+              "statement": "I have built a scale model aircraft to a satisfactory standard from a plastic kit and can explain its features and history.",
+              "explanation": "The Scout should present a model he/she has built for a kit. This may be a personal choice or a suggested model. The Scout should explain its features and have undertaken some research into the history and service of this type of aircraft."
+            },
+            {
+              "statement": "I can discuss with my Scouter (Hot Air Balloons,) how hot air balloons work and how to control them.",
+              "explanation": "The Scout should discuss all aspects of hot air balloons. This can be done with the use of models. The Scout should understand the principle of hot air balloon flight."
+            }
+          ]
+        },
+        {
+          "stageNumber": 4,
+          "competencies": [
+            {
+              "statement": "I know the rule relating to airfields.",
+              "explanation": "Scouts should know the basic ‘Access to Airfields’ rules: Know the safe routes for getting around the airfield. Only enter airside areas if you have permission or a definite job to do. Understand the importance of keeping a good lookout at all times. Know how to recognise an active/ live aircraft. Know the correct way to approach an aircraft. Understand the dangers of propellers and jet engines and the danger areas associated with each."
+            },
+            {
+              "statement": "I understand how a wing derives lift.",
+              "explanation": "The Scout should know how a wing works and how it lifts the plane."
+            },
+            {
+              "statement": "I can discuss with my Scouter Lift, Drag, Gravity and Thrust.",
+              "explanation": "The Scout should be able to discuss with a Scouter how the four main forces of Lift, Drag, Gravity and Thrust work in aeronautics."
+            },
+            {
+              "statement": "I know the control surfaces of an aircraft.",
+              "explanation": "Scouts should be able to identify the control surfaces on a diagram and describe how they move to control the path of flight of the aircraft to include: Ailerons. Elevators. Rudder."
+            },
+            {
+              "statement": "I can explain how an aero plane climbs, dives and turns using a model.",
+              "explanation": "The Scout can use a model of any kind to explain the elements. This is a similar requirement to one in stage I but now we are seeking a deeper understanding of how a real plane climb, dives and turns."
+            },
+            {
+              "statement": "I can explain the causes of stalling.",
+              "explanation": "The Scout should understand how stalling occurs. In explaining this they should refer to air speed, lift and how to recover from a stalling situation."
+            },
+            {
+              "statement": "I know the logos of the various airlines.",
+              "explanation": "The Scout should have undertaken some research and be familiar with the common logos and livery of planes that fly in to Irish airspace. This requirement can be presented via a poster or perhaps a quiz. It can also be completed at an airport, giving direct observation of aircraft."
+            },
+            {
+              "statement": "I can build a Hot Air Balloon.",
+              "explanation": "The Scout will have built a hot air balloon using a wire frame and tissue paper. Heat is provided by cotton wool in a small container. The Scout should discuss how they made the balloon and how it is inflated for flight. The balloon should then be launched. This can be done with the help of other members of their team."
+            },
+            {
+              "statement": "I have produced a project based on the Moon Landings.",
+              "explanation": "The Scout should do a project on the Apollo Moon Landing and how it was achieved."
+            },
+            {
+              "statement": "I have taken part in a water rocket launch.",
+              "explanation": "The Scout as a member of a team should undertake the construction of a water rocket. The launch can then take place in an open area as part of an activity."
+            }
+          ]
+        },
+        {
+          "stageNumber": 5,
+          "competencies": [
+            {
+              "statement": "I understand what FOD is.",
+              "explanation": "The Scout should explain what FOD stands for (foreign object damage) and how it applies to aircraft. The Scout should mention debris on the runway such as tyre rubber, birds in flight. Hazards at airfields that are near water and possible hazards from aircraft parts becoming dislodged inside and outside the aircraft."
+            },
+            {
+              "statement": "I know how to approach an aircraft.",
+              "explanation": "The Scout should be aware of how to act and behave on an airfield and discuss how they would approach an aircraft safely. Reference should be made to engines, pilot view and hand signals and communication with the pilot."
+            },
+            {
+              "statement": "I know the signs that an aircraft is about to start an engine.",
+              "explanation": "The Scout should be familiar with aircraft and how to behave around an airfield. The Scout should discuss signs of movement, engine noise, positioning of an aircraft. Checking of flaps etc."
+            },
+            {
+              "statement": "I know where the safe jet blast zones are on an aircraft.",
+              "explanation": "The Scout should be familiar with aircraft and how to behave around an airfield. The Scout should discuss what a blast zone is and the dangers associated with it."
+            },
+            {
+              "statement": "I know how to identify different aircraft types from their features.",
+              "explanation": "The Scout will be familiar with a wide range of aircraft and be able to identify them parked on a runway, from pictures, in flight and from identification charts."
+            },
+            {
+              "statement": "I understand how weather affects air activities.",
+              "explanation": "The Scout should be able to discuss in detail how weather affects flight – wind speed, cloud formation, icy conditions, thunder and lighting."
+            },
+            {
+              "statement": "I can show a younger Scout how control surfaces work.",
+              "explanation": "The Scout will be familiar with how control surfaces work and will be observed in action passing on such information to a younger Scout. The Scout should be encouraged to use models in passing on this information."
+            },
+            {
+              "statement": "I can build a scale model aircraft to a satisfactory standard from paper and balsa wood.",
+              "explanation": "The Scout should present a scaled model for discussion. The model can be constructed from plans or from a kit and be painted in the correct colours as specified. The Scout should also talk about the build process, what they liked and difficulties they had."
+            },
+            {
+              "statement": "I can identify some aircraft instruments using a computer simulator, or other method.",
+              "explanation": "The Scout should be seated at a computer screen with a simulation game ready to be played. The Scout should bring the Scouter through the process of engaging with the game. The Scout should be able to identify some of the main instruments that comprise the panel and explain what they are used for."
+            },
+            {
+              "statement": "I can show how to take off and fly through various weather conditions and land safely using a computer simulator, or other method.",
+              "explanation": "The Scout should be seated at a computer screen with a simulation game ready to be played. The Scout should bring the Scouter through the process of engaging with the game. The Scout should be able to identify some of the main instruments that comprise the panel and explain what they are used for. Then when indicated they should take off, fly a course and land the plane. Various flying scenarios can be presented through the game setup."
+            },
+            {
+              "statement": "I can discuss with my Scouter how the Earth’s atmosphere affects air travel.",
+              "explanation": "The Scout should know how the atmosphere has an impact on air travel and what are the various precautions that pilots have to take as a result."
+            },
+            {
+              "statement": "I can build and launch a water rocket.",
+              "explanation": "The Scout as a member of their team should undertake the construction of a water rocket. The launch can then take place in an open area as part of an activity."
+            },
+            {
+              "statement": "I have taken part in at least two air activities.",
+              "explanation": "The Scout will have taken part in a least two air activities. Ideally, these activities may have taken place at airfields that will facilitate learning for requirements above. However, they may also be air activities run locally by a Scout group."
+            }
+          ]
+        },
+        {
           "stageNumber": 6,
           "competencies": [
             {
-              "statement": "I can discuss with my Scouter how the Earth’s atmosphere affects air travel. •        I can understand three different ways in which clouds are formed. •        I can show that I understand the basic ‘T’ instrument cluster. •        I can handle a powered model aircraft during take off and fly through various weather",
+              "statement": "I can discuss aircraft navigation with my Scouter.",
+              "explanation": "The Scout should be able to discuss how a pilot navigates when flying. This should include compass directions, land observation, air speed versus land speed and drift/drag and dead reckoning navigation."
+            },
+            {
+              "statement": "I know the types of air maps and the conventional signs used on them.",
+              "explanation": "The Scout should discuss various map types and the conventional signs used on each. The Scout should also be able to show the differences between air maps and land based ordnance survey maps."
+            },
+            {
+              "statement": "I can demonstrate how to obtain a local forecast for an air activity.",
+              "explanation": "The Scout should know how to get appropriate weather forecasts for flying and discuss the key points of a forecast that need to be noted and observed."
+            },
+            {
+              "statement": "I can explain how wind speed and direction are measured and how weather can affect various air activities.",
+              "explanation": "The Scout should be able to discuss how a pilot navigates when flying. This should include compass directions, land observation, air speed versus land speed and drift/drag and dead reckoning navigation. The use of instruments and navigation aids."
+            },
+            {
+              "statement": "I can explain the difference between ground speed and air speed and how wind is used in takeoff and landing.",
+              "explanation": "The Scout should be able to discuss how a plane takes off and how air and it’s speed moving over the surfaces of a wing provide lift. The Scout should then discuss the relationship between land speed and air speed in the context of travel through the air and it’s connection with navigation."
+            },
+            {
+              "statement": "I can discuss with my Scouter how the Earth’s atmosphere affects air travel.",
+              "explanation": "The Scout should be able to discuss the air conditions as height is gained. Also the Scout should be able to discuss air pressure and gravity and how they affect flight."
+            },
+            {
+              "statement": "I can understand three different ways in which clouds are formed.",
+              "explanation": "The Scout should be aware of how clouds are formed and how they affect flight and navigation. The Scout should talk about clouds in relation to mountain ranges, sea and high level clouds and stormy weather."
+            },
+            {
+              "statement": "I can show that I understand the basic ‘T’ instrument cluster.",
+              "explanation": "The Scout should be aware of the T instrumental cluster and be able to name the key instruments that make up the cluster plus the likely instruments that will be ‘nearby’ or next to it. The Scout should be able to identify the altimeter, attitude meter, air speed, turn indicator and heading indicator."
+            },
+            {
+              "statement": "I can handle a powered model aircraft during takeoff and fly through various weather conditions and land safely.",
+              "explanation": "The Scout will be able to demonstrate this in an outdoor setting where his/her skill can be observed."
+            },
+            {
+              "statement": "I can explain the workings of aircraft pressure instruments, for example an altimeter or air speed indicator.",
+              "explanation": "The Scout should be able to discuss how the instruments work internally. This might involve some research and the Scout might use pictures or drawings to explain their function."
+            },
+            {
+              "statement": "I can discuss how the Ionosphere affects communication.",
+              "explanation": "The Scout should know how the Ionosphere – the uppermost part of the atmosphere has on communications and how its characteristics help with communication."
+            },
+            {
+              "statement": "I can navigate my patrol over a route using a GPS.",
+              "explanation": "The Scout should devise an exercise (on the ground) in effect a route card and then using GPS compasses they should navigate to the points of the journey. They should be able to discuss accuracy of GPS devices over traditional compass methods."
+            },
+            {
+              "statement": "I have attended an Air Display.",
               "explanation": ""
+            },
+            {
+              "statement": "I have participated in a themed ‘Space Camp’ or event with a group of Scouts.",
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "stageNumber": 7,
+          "competencies": [
+            {
+              "statement": "I know the basic principles of a piston engine, including the four-stroke cycle.",
+              "explanation": "The Scout should be aware of the different engines used on aircraft. Using charts, drawings or models the Scout should explain how the piston engine works."
+            },
+            {
+              "statement": "I know how a jet engine works.",
+              "explanation": "The Scout should be aware of the different engines used on aircraft. Using charts, drawings or models the Scout should explain how a jet engine works."
+            },
+            {
+              "statement": "I know how rocket engines work, and their lift-off and re-entry procedures.",
+              "explanation": "The Scout using charts, drawings or models should explain how a rocket engine works. The Scout should also discuss the lift –off procedures, safety and countdown checks. Re – entry procedures, checks, parachutes and drop zone. If they are discussing the space programme they should also talk about re-entry of shuttle, angle of descent."
+            },
+            {
+              "statement": "I know the Safety Code for Rocketry and able to identify the principal parts of a rocket.",
+              "explanation": "The Scout should be familiar with rockets and be involved in their construction so that they have detailed knowledge of the principle parts. As a rocket contains fuel it is vital that full safety procedures are followed in the construction phase and the take off and landing phase."
+            },
+            {
+              "statement": "I can build, launch, and recover a single or double-staged model rocket.",
+              "explanation": "The Scout as a member of a team should undertake the construction of a single or double staged rocket model. The launch can then take place in an open area as part of an activity. It should be possible to recover this model for future flights."
+            },
+            {
+              "statement": "I know how to arrange permissions for a rocket launch.",
+              "explanation": "The Scout should display an understanding that formal permissions need to be obtained to launch a fuel power rocket. The Scout should then explain the procedure of obtaining permissions from the appropriate authorities."
+            },
+            {
+              "statement": "I am able to fly a model aircraft.",
+              "explanation": "The Scout will be able to demonstrate this in an outdoor setting where his/her skill can be observed."
+            },
+            {
+              "statement": "I can be responsible for planning a weekend camp for your group at an airfield.",
+              "explanation": "The Scout will be an experienced camper at this stage and be familiar with planning and organizing camps. In this case we are seeking an awareness of the extra requirements for a camp at an airfield. The Scout will draw from their experiences with Air Activities."
+            }
+          ]
+        },
+        {
+          "stageNumber": 8,
+          "competencies": [
+            {
+              "statement": "I understand what a flight plan is.",
+              "explanation": "The Scout should discuss how a flight plan is produced and what work is entailed in producing it. The Scout should also make connections with the production of a route card for a hike on the ground."
+            },
+            {
+              "statement": "I can produce a flight plan for a cross country exercise.",
+              "explanation": "The Scout should produce a fully detailed flight plan for a cross country flight between two points specified by the Scouter before the requirement is worked on."
+            },
+            {
+              "statement": "I know the main types of checklists commonly found in aircraft.",
+              "explanation": "The Scout should be able to describe in checklist fashion the formal checks that need to be undertaken before flight. Daily Inspection, Pre and Post flight."
+            },
+            {
+              "statement": "I know how to correctly approach an occupied aircraft or helicopter.",
+              "explanation": "The Scout should be aware of how to act and behave on an airfield and discuss how they would approach an aircraft safely. Reference should be made to engines, pilot view and hand signals and communication with the pilot. With regards to helicopters – rotor span, downdraft and safe head height."
+            },
+            {
+              "statement": "I have a thorough knowledge of the Rule Relating to Airfields.",
+              "explanation": "While the Scout maybe familiar with the basic rules relating to airfield at this level we expect the Scout to have an advanced and detailed knowledge of airfield, how to behave around them."
+            },
+            {
+              "statement": "I understand the Irish Air Traffic Control system.",
+              "explanation": "The Scout will be familiar with the Air Traffic Control system and methods. The Scout may also have visited a control tower and have practical experience and/or knowledge. They should also be familiar with radio communication, signs and call signs used by pilots and control towers to exchange information."
+            },
+            {
+              "statement": "I know how and when to use an air band radio.",
+              "explanation": "The Scout should be fully conversant with using air band radio and be able to talk about it. The Scout should be observed on a number of occasions using this equipment properly."
+            },
+            {
+              "statement": "I know how to marshal an aircraft.",
+              "explanation": "The Scout should be able to discuss the different signalling signs and what they mean. The Scout should then demonstrate their skill by marshalling an aircraft on an airfield."
+            },
+            {
+              "statement": "I have undertaken a project to demonstrate a particular aeronautical principle and build a suitable model to illustrate it.",
+              "explanation": "The Scout will first indicate that they will undertake this requirement and discuss with the Scouter what they would like to do. Once completed the Scout should bring down the model to the section and display it."
+            },
+            {
+              "statement": "I have taken part in two air activity that got me airborne.",
+              "explanation": "The Scout will have taken part in an air activity that has included air flight other than commercial flight. This will be done in conjunction with the Scouter and a flight instructor. The Scout should also be aware of insurance implications and parental permissions."
+            },
+            {
+              "statement": "I have planned a weekend camp for my section on an airfield.",
+              "explanation": "The Scout will be an experienced camper at this stage and be familiar with planning and organizing camps. In this case we are seeking an awareness of the extra requirements for a camp at an airfield. The Scout will draw from their experience in Air activities."
+            },
+            {
+              "statement": "I know the principle of flight of a helicopter.",
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "stageNumber": 9,
+          "competencies": [
+            {
+              "statement": "I know the principle of flight of a helicopter.",
+              "explanation": "The Scout will be able to discuss the main principles – lift, forward motion, turning, landing, torque, tail rotor, ground effect."
+            },
+            {
+              "statement": "I know how the controls of a helicopter work.",
+              "explanation": "The Scout should be fully aware of how a helicopter flies and how the controls differ from that of an aircraft. The Scout should discuss the use of collective, throttle, cyclic and anti-torque pedals, and how they are used in conjunction to fly the helicopter. The Scout should understand precession."
+            },
+            {
+              "statement": "I know the dangers regarding specific aerial activities.",
+              "explanation": "The Scout should be able to discuss a number of different air activities and the dangers or precautions that need to be taken to ensure a safe activity."
+            },
+            {
+              "statement": "I know how the constellation of satellites work to provide GPS navigation.",
+              "explanation": "The Scout should run experiments into how the constellation of Satellites works in providing GPS navigation through its networking capabilities."
+            },
+            {
+              "statement": "I understand how telemetry helps develop aviation products.",
+              "explanation": "The Scout should be aware of the impact of clear telemetry has on the development of aviation products and how information received using telemetry is used for aviation products."
+            },
+            {
+              "statement": "I have an understanding of Radar and how ATC use it.",
+              "explanation": "The Scout should discuss how radar works and how to distinguish different signals on the screen. The Scout should then talk about the relationship between a pilot, air traffic control, flight plans, and the position of an aircraft in the sky in relation to other aircraft."
+            },
+            {
+              "statement": "I can arrange for a suitably experienced instructor to give an air experience flight.",
+              "explanation": "The Scout will have taken part in an air activity that has included air flight other than commercial flight. This will be done in conjunction with the Scouter and a flight instructor. The Scout should also be aware of insurance implications and parental permissions."
+            },
+            {
+              "statement": "I have taken part in two different air activities that got me airborne.",
+              "explanation": "The Scout will have taken part in an air activity that has included air flight other than commercial flight. This will be done in conjunction with the Scouter and a flight instructor. The Scout should also be aware of insurance implications and parental permissions."
             }
           ]
         }
@@ -1827,11 +2243,355 @@
       "preface": "Requirements\nEach of the skill requirements are presented as a statement of competency - I know how, I can\ndo, etc. These",
       "stages": [
         {
+          "stageNumber": 1,
+          "competencies": [
+            {
+              "statement": "I have discussed what a wetsuit does.",
+              "explanation": "The Scout should know the dates when a wetsuit must be worn (Winter Season) and when it is optional (Summer Season). The Scout should have an idea how a wet suit works."
+            },
+            {
+              "statement": "I know what a buoyancy aid and life jacket are for.",
+              "explanation": "The Scout should know the main differences between a Standard Buoyancy Aid and a Life Jacket. The Scout should know when and where both Personal Floatation Devices (PFD’s) should be worn."
+            },
+            {
+              "statement": "I can show where the bow and stern are in a kayak or boat.",
+              "explanation": "The Scout is to be able to identify the difference between the Bow (Front) and Stern (Back) of a boat."
+            },
+            {
+              "statement": "I understand why I should follow directions from an instructor.",
+              "explanation": "The Scout needs to discuss how to act in a boat. Know how to be aware of what’s happening around them and how to follow instructions from the Scouter in charge."
+            },
+            {
+              "statement": "I can show the limits of where I may go each time I go afloat for paddling.",
+              "explanation": "The Scout should be aware of the extent that they should go in a vessel and know any local dangers in the water."
+            },
+            {
+              "statement": "I know about the ‘Buddy’ system.",
+              "explanation": "The Scout should be able to talk about the buddy system and explain how and why it is used when in the water."
+            },
+            {
+              "statement": "I know why I should care for my wet suit, buoyancy aid and ‘cag’ after use.",
+              "explanation": "The Scout should know why it is important to wash their water activity equipment with cold fresh water after all usage."
+            },
+            {
+              "statement": "I know not go afloat if the wind is greater than Force 4.",
+              "explanation": ""
+            },
+            {
+              "statement": "I know how to contact the emergency services.",
+              "explanation": "The Scout should know the emergency number 112 (or 999) and say what kind of help is needed (Garda/Police, lifeboat, ambulance, fire brigade)."
+            },
+            {
+              "statement": "I have taken part in a short exercise afloat.",
+              "explanation": "A half day is at least two hours on or around the water."
+            }
+          ]
+        },
+        {
+          "stageNumber": 2,
+          "competencies": [
+            {
+              "statement": "I can explain what special clothing and gear is to be worn and used while Kayaking.",
+              "explanation": "The Scout must be able to describe what clothing must be worn while out paddling."
+            },
+            {
+              "statement": "I can put on my own Personal Flotation Device properly.",
+              "explanation": "This should include securing all fastenings and using a crotch strap where it is fitted."
+            },
+            {
+              "statement": "Before I launch my boat, I can show where and when I am allowed to go.",
+              "explanation": "The Scout should know where it is safe to launch their boat. The Scout should know when it is safe to go onto the water."
+            },
+            {
+              "statement": "I have discussed ‘Weil’s’ disease and the precautions necessary to take in open water activities.",
+              "explanation": "The Scout should know where Weils disease can be contacted. The Scout should know the symptoms of Weil’s disease. The Scout should know how Weil’s disease is contracted. The Scout should know precautions to take from Weil’s disease. The Scout should know who is a risk from Weil’s disease."
+            },
+            {
+              "statement": "I have drawn a poster demonstrating the safety rules for swimming.",
+              "explanation": "The Scout should draw up a poster to the best of their ability of their interpretation of the safety rules for swimming."
+            },
+            {
+              "statement": "I have taken part in an activity on safe enclosed waters involving paddling a Canadian canoe.",
+              "explanation": "The Scout should be briefed on safety procedures before starting the activity. The Scout should take part in a Paddling activity with the appropriate instructors present and in the suitable ratio and in safe enclosed waters. The activity should consist of two Canadian style canoes lashed together to form a catamaran. The activity shouldn’t go any more than 30 meters from the shore."
+            },
+            {
+              "statement": "I have discussed the appropriate action I should take in the case of a capsize.",
+              "explanation": "The Scout should be able to explain the procedures to follow if they capsize in a kayak or a sit-on-top canoe."
+            },
+            {
+              "statement": "I have explained what impact I can have on local vegetation when launching and retrieving a boat.",
+              "explanation": "The Scout should explain what impact they can have on the local vegetation when they are parking, changing and launching their boat. The Scout should explain how they can minimize impact on the natural environment. The Scout should explain how they would deal with wildlife if they were to come across it."
+            },
+            {
+              "statement": "I know how to raise the alarm if I see somebody in difficulty on the water.",
+              "explanation": "The Scout should know what department to call if you see someone in difficulty at sea. The Scout should know the number to call if you see someone in difficulty at sea. The Scout should know what the different colour safety flags mean on a beach."
+            },
+            {
+              "statement": "I know what hypothermia is.",
+              "explanation": "The Scout should know what is meant by the term hypothermia. The Scout should have a basic knowledge of the symptoms of hypothermia. The Scout should have a basic knowledge of how to treat hypothermia."
+            },
+            {
+              "statement": "I have taken part in at least two activities afloat.",
+              "explanation": "A half day is at least two hours on or around the water."
+            }
+          ]
+        },
+        {
+          "stageNumber": 3,
+          "competencies": [
+            {
+              "statement": "I can explain the importance of wearing the right clothing and gear while afloat.",
+              "explanation": "The Scout should be able to explain why it is important to wear the correct clothing while out on the water."
+            },
+            {
+              "statement": "I can show how to test a raft for secure construction.",
+              "explanation": "This should include ensuring buoyancy is firmly in place and that all lashings are secure."
+            },
+            {
+              "statement": "I know how to do CPR and place a victim in the recovery position.",
+              "explanation": "The Scout should be able to demonstrate an up-to-date CPR technique on a suitable mannequin and demonstrate how to put an adult or child in the recovery position (also known as the safe-airway position)."
+            },
+            {
+              "statement": "I know how to make use of a paddle while on a raft.",
+              "explanation": "The Scout should know how to use a paddle while paddling a triangular course set down by their leader."
+            },
+            {
+              "statement": "I know what to do in the case of a capsize/ or raft breakup and the procedures to follow.",
+              "explanation": "The Scout should be able to explain what actions should be taken in case they end up in the water while boating and rafting."
+            },
+            {
+              "statement": "I know how to tie and when to use the following knots.Round-turn-and-two-half-hitches,Figure of eight, Bowline, Reef knot, Clove Hitch.",
+              "explanation": "The Scout should be able to tie the list of knots above. The Scout should be able to explain what the knots are for and give examples of their practical uses."
+            },
+            {
+              "statement": "I can tie a square lashing.",
+              "explanation": "The Scout should demonstrate how to tie a square lashing using rope and spars."
+            },
+            {
+              "statement": "I know how and where to get the latest weather forecast for the area I will be paddling in.",
+              "explanation": "The Scout should explain four ways of getting the most recent forecast for the area they are paddling in."
+            },
+            {
+              "statement": "I can make a recognised distress signal.",
+              "explanation": "The Scout should know how to signal for help when out on the water."
+            },
+            {
+              "statement": "I know that I should follow the instructions of the person in charge of the boat.",
+              "explanation": "The Scout may be asked to explain what a charge certificate is and why it is important that the person in charge of activities afloat should be suitably qualified."
+            },
+            {
+              "statement": "I have taken part in making a simple raft for four people.",
+              "explanation": "As part of a team build a raft and paddle it on a triangular course set out by the leader."
+            }
+          ]
+        },
+        {
+          "stageNumber": 4,
+          "competencies": [
+            {
+              "statement": "I can explain why wearing the correct outerwear is important.",
+              "explanation": "The Scout should be able to explain that outerwear protects from both getting wet in rain and from the effects of wind-chill."
+            },
+            {
+              "statement": "I can assist in the launch and recover of a raft.",
+              "explanation": "The Scout should take part in an activity where they help build a raft, float it and recover."
+            },
+            {
+              "statement": "I know the safety precautions required for water based activities.",
+              "explanation": "The Scout should know what safety precautions to take before and during water based activity."
+            },
+            {
+              "statement": "I know the main points of ‘Leave No Trace’.",
+              "explanation": "The Scout should know the principles behind ‘Leave no Trace’."
+            },
+            {
+              "statement": "I can work as part of a team to paddle a raft on a triangular course.",
+              "explanation": "The Scout should take part in building a raft for four people and paddle it through a triangular course set down by their leader. The Scout should be able to explain what the knots are for and give examples of their practical use."
+            },
+            {
+              "statement": "I can demonstrate how to whip a ropes end and then show how to coil the rope.",
+              "explanation": "No whipping is specified but it should be secure and appropriate for the cordage. The Scout should demonstrate how to coil a rope properly. Rope should be no less than 15 meters long."
+            },
+            {
+              "statement": "I know the Beaufort wind scale up to Force 6.",
+              "explanation": "The Scout should be able to explain the visual clues used to estimate the wind strength."
+            },
+            {
+              "statement": "I can demonstrate throwing a throw line to a casualty, preparing the rope for the throw and instructing the casualty to use the rope.",
+              "explanation": "Heave the causality to shore. This can be demonstrated in open water or a swimming pool. From land, the scout should demonstrate throwing a throw line to a target approx 10 meters away on a lake, beach or lagoon."
+            },
+            {
+              "statement": "I have taken part in and logged at least four rafting activities.",
+              "explanation": "The Scout should have taken part and logged four rafting activities which include planning, building and paddling a raft."
+            },
+            {
+              "statement": "I have taken part in three activities on safe enclosed waters involving paddling a Canadian canoe.",
+              "explanation": "A half day is at least two hours on or around the water."
+            }
+          ]
+        },
+        {
+          "stageNumber": 5,
+          "competencies": [
+            {
+              "statement": "I know the difference between winter and summer Kayaking.",
+              "explanation": "The Scout should know Scouting Irelands dates for summer time boating and winter time boating. The Scout should know the difference between being out on the water in winter and summer."
+            },
+            {
+              "statement": "An understanding of the basic safety rules of canoeing.",
+              "explanation": "You must be able to swim. You must always wear a buoyancy aid. You must always ensure that there is adequate kayak buoyancy. You must never canoe alone."
+            },
+            {
+              "statement": "An ability to enter and exit a kayak correctly.",
+              "explanation": "Entry and exit with or without the use of a paddle is acceptable."
+            },
+            {
+              "statement": "Forward Paddle, Reverse Paddle, and Stop.",
+              "explanation": "Veering is allowed for, but a participant must be able to maintain reasonable directional stability for at least 25 metres. A Scout should demonstrate an ability to stop when moving forward and in reverse."
+            },
+            {
+              "statement": "An ability to turn while stationary using forward sweep stroke, reverse sweep stroke and a combination of forward and reverse sweep strokes.",
+              "explanation": "There should be an efficient use of the paddle in turning and stopping the kayak."
+            },
+            {
+              "statement": "Capsize Drill Assessment.",
+              "explanation": "The capsize and exit from the kayak, should be carried out in water of sufficient depth adjacent to the shore/bank. The use of a spray deck is optional."
+            }
+          ]
+        },
+        {
+          "stageNumber": 6,
+          "competencies": [
+            {
+              "statement": "General aims Stage 6 aims to enable Scouts to kayak safely and competently on flat water and Grade I Rivers as a member of a group.",
+              "explanation": "Assist in basic rescues. Foster further participation in canoeing."
+            },
+            {
+              "statement": "Simple draw stroke.",
+              "explanation": "A Scout must demonstrate correctly. All strokes should be demonstrated in relevant situations i.e. use of a simple draw stroke to manoeuvre the kayak to the bank. Strokes should be demonstrated on both sides of the kayak."
+            },
+            {
+              "statement": "Low brace.",
+              "explanation": "A Scout must demonstrate correctly. All strokes should be demonstrated in relevant situations. Strokes should be demonstrated on both sides of the kayak."
+            },
+            {
+              "statement": "Low brace turn.",
+              "explanation": "A Scout must demonstrate correctly. All strokes should be demonstrated in relevant situations. Strokes should be demonstrated on both sides of the kayak."
+            },
+            {
+              "statement": "Edging while the kayak is moving.",
+              "explanation": "A Scout must demonstrate correctly. All strokes should be demonstrated in relevant situations. Strokes should be demonstrated on both sides of the kayak."
+            },
+            {
+              "statement": "Capsize drill.",
+              "explanation": "A Scout must demonstrate correctly. A spray deck must be worn throughout an assessment."
+            },
+            {
+              "statement": "An ability to assist in an H rescue, and in an assisted X rescue.",
+              "explanation": "Some role to fulfil in the completion of these rescues."
+            }
+          ]
+        },
+        {
+          "stageNumber": 7,
+          "competencies": [
+            {
+              "statement": "General aims Stage 7 aims to enable Scouts to kayak safely and competently on river up to and including Grade II rivers as a member of a group.",
+              "explanation": "Be capable of negotiating obstacles likely to be encountered on Grade II rivers. Assist in rescues. Foster further participation in canoeing."
+            },
+            {
+              "statement": "Strokes.",
+              "explanation": "Scouts must successfully explain and demonstrate the following techniques and skills at a level higher than that required for stage 6. Forward paddle, Reverse paddle, Emergency stop, Forward sweep, Reverse sweep and a combination of forward and reverse sweep. Draw stroke, Sculling draw, Hanging draw, Sculling for support, Low brace, High brace, Low brace turn, Stern rudder, Bow rudder. All strokes should be demonstrated in relevant situations i.e. sculling in a small stopper. Strokes should be demonstrated on both sides of the kayak."
+            },
+            {
+              "statement": "Techniques.",
+              "explanation": "Scouts must successfully explain and demonstrate the following techniques and skills at a level higher than that required for stage 6. Entry and exit, Edging, Forward ferry gliding, Reverse ferry gliding, Breaking in, Breaking out, Capsize drill. Entry and Exit can be carried out with or without the use of paddles, depending on what is most appropriate to the situation."
+            },
+            {
+              "statement": "Rescues.",
+              "explanation": "Scouts must successfully explain and demonstrate the following techniques and skills at a level higher than that required for stage 6. Assisted X rescue, an X rescue, Eskimo rescue and Eskimo roll. An understanding of the use of defensive swimming. Generally, required assessment rescues will be kept until the end of an assessment."
+            },
+            {
+              "statement": "Theory - Safety Rules.",
+              "explanation": "Demonstrate an understanding of Eddies, Standing waves, V waves, Stoppers, and Easy river routes i.e. the main flow down a Grade rapid. An understanding of good control (i.e. responding to various signals and commands)."
+            },
+            {
+              "statement": "Assessment.",
+              "explanation": "During an assessment a Scout must explain and demonstrate all techniques and skills at a level higher than previously demonstrated. All techniques, skills and rescues must be demonstrated to an assessor’s satisfaction in order to achieve this award. No part of an assessment can be taken in a swimming pool. All assessment criteria must be demonstrated outdoors on water of Grade II difficulty as part of a river trip. Scouts undertaking this award must be at least 12 years of age."
+            }
+          ]
+        },
+        {
+          "stageNumber": 8,
+          "competencies": [
+            {
+              "statement": "General aims Stage 8 aims to enable Scouts to kayak safely and proficiently on rivers up to and including Grade III difficulty.",
+              "explanation": "Be capable of negotiating obstacles likely to be encountered on Grade III River. Deal competently with rescue situations that might occur on rivers up to and including Rivers of Grade III difficulty. Develop group awareness."
+            },
+            {
+              "statement": "Strokes- I can demonstrate successfully.",
+              "explanation": "To obtain stage 8 the Scout must successfully explain and demonstrate the following techniques and skills at a level higher than that required for the stage 7 and be capable of demonstrating any combination of the strokes competently and efficiently. The assessment will take place during a river trip of at least three miles on water of Grade III difficulty. Forward paddle, Reverse paddle, Emergency stop. Forward sweep, Reverse sweep and a combination of forward and reverse sweep, Edging, Bow rudder, Stern rudder, Low brace turn, Low recovery, High recovery, Sculling for support, Sculling draw, Draw stroke, Hanging draw, Defensive swimming."
+            },
+            {
+              "statement": "Techniques- I can demonstrate.",
+              "explanation": "An ability to use water conditions available for the effective and efficient manoeuvring of a kayak. Competence in negotiating water obstructions i.e. Standing Waves, Stoppers, and an ability to utilize it to cross a river. Competence in negotiating bends where water flows under trees or against vertical riverbank. Forward ferry gliding (facing upriver), Reverse ferry gliding (facing downriver). Breaking in accurately, Breaking out accurately. Eskimo roll, Capable of self-rescue."
+            },
+            {
+              "statement": "Rescues and Safety Techniques.",
+              "explanation": "Assisted X and/or an X rescue. Eskimo rescue (maximum lower body rotation), Curl rescue and/or TX rescue, Stern carry. Unconscious casualty (method of righting an unconscious person in a capsized kayak). An ability to manoeuvre an empty kayak between two specified points. An ability to assist an incapacitate paddler in a kayak between two specified points. An ability to use a throw rope to rescue a swimmer and have a practical knowledge of First Aid. This should extend to possible situations arising during a canoeing trip to include: Shock, Hypothermia, Head injuries, Dislocations, Bleeding, CPR, EAR."
+            },
+            {
+              "statement": "Theory-An understanding of the following.",
+              "explanation": "River grading, River route finding, Types of GP kayaks and paddles, Towing systems and methods, Group control and awareness, Signals and commands, Personal equipment."
+            }
+          ]
+        },
+        {
           "stageNumber": 9,
           "competencies": [
             {
-              "statement": "I know why I should care for my wet suit, buoyancy aid and ‘cag’ after use",
-              "explanation": "The Scout should know why it is important to wash their water activity equipment with cold fresh water"
+              "statement": "Deal competently with rescue situations which might occur on rivers up to and including rivers of Grade 4 & advanced white water difficulty.",
+              "explanation": ""
+            },
+            {
+              "statement": "Deal competently with First Aid situations in the river environment.",
+              "explanation": ""
+            },
+            {
+              "statement": "Demonstrate a thorough knowledge of safety precautions and procedures to be adopted while with a group on Grade 4 & advanced White Water Rivers.",
+              "explanation": ""
+            },
+            {
+              "statement": "Demonstrate an ability to assess a group’s competence to deal with conditions likely to be encountered on Grade 4 & advanced White Water Rivers.",
+              "explanation": ""
+            },
+            {
+              "statement": "Demonstrate an ability to command trust from a group of peers while on rivers of Grade 4 & advanced white water.",
+              "explanation": ""
+            },
+            {
+              "statement": "Demonstrate the necessary skills to communicate effectively with other group members on Grade 4 & advanced white water rivers.",
+              "explanation": ""
+            },
+            {
+              "statement": "Deal efficiently with rescue situations likely to occur on Grade 4 & advanced white water rivers.",
+              "explanation": ""
+            },
+            {
+              "statement": "Demonstrate a constant awareness of other group members, their location on the river and within the group.",
+              "explanation": ""
+            },
+            {
+              "statement": "Demonstrate a sufficient knowledge of the river’s environs.",
+              "explanation": ""
+            },
+            {
+              "statement": "Demonstrate an ability to read white water to a high standard.",
+              "explanation": ""
+            },
+            {
+              "statement": "Present a suitable and correctly fitted out kayak and other appropriate equipment.",
+              "explanation": "It would be expected that equipment be of a standard consistent with the responsibilities of being part of a group undertaking a trip on a Grade 4 & advanced White Water River. Equipment should be readily accessible at all times. Examination of equipment will form an important part of the overall assessment. (see Stage 9 Equipment List over leaf)."
             }
           ]
         }
@@ -1840,7 +2600,521 @@
     {
       "name": "SI Rowing",
       "preface": "Requirements\nEach of the skill requirements are presented as a statement of competency - I know how, I\ncan do, etc. These",
-      "stages": []
+      "stages": [
+        {
+          "stageNumber": 1,
+          "competencies": [
+            {
+              "statement": "I can assist in the launching of a small punt.",
+              "explanation": "The Scout should assist in the launching in an age appropriate way. The scout should be aware of the need to be careful around water."
+            },
+            {
+              "statement": "I know about the buddy system.",
+              "explanation": "The Scout should be able to talk about the buddy system and explain how and why it is used when in the water."
+            },
+            {
+              "statement": "I know the importance of a personal floatation device.",
+              "explanation": "The Scout should know that wearing a personal floatation device is important around water and how they should not go near any boat without first having a personal flotation device on them."
+            },
+            {
+              "statement": "I know the correct clothing to wear when going afloat.",
+              "explanation": "The Scout should be able to show footwear and layers of light clothing suitable for boating. A windproof jacket of some sort should also be worn."
+            },
+            {
+              "statement": "I can row a small punt.",
+              "explanation": "Depending on the age of the Scout it may be considered prudent to have a competent person in the boat too. The Scout should be able to propel the punt with some directional control."
+            },
+            {
+              "statement": "I can point out the bow, stern, transom, bowline, port and starboard of a boat, rudder, oar.",
+              "explanation": "The Scout should be able to name the parts when pointed to and point to the named parts."
+            },
+            {
+              "statement": "I know how to contact the emergency services.",
+              "explanation": "The Scout should know the emergency number 112 (or 999) and say what kind of help is needed (Garda/Police, lifeboat, ambulance, fire brigade)."
+            },
+            {
+              "statement": "I know why it is important to stay with a capsized boat.",
+              "explanation": "A capsized boat is easier to see in the water than a head and the hull will help you stay afloat."
+            },
+            {
+              "statement": "I know why I should follow directions from my instructor.",
+              "explanation": "The Scout should understand how to behave on a boat and that there may be safety reason why an instructor doesn’t have time to explain a direction in advance."
+            },
+            {
+              "statement": "I know not go afloat if the wind is greater than Force 4.",
+              "explanation": ""
+            },
+            {
+              "statement": "I can show the limits of where I may go each time I go afloat.",
+              "explanation": "A Scout should know that for safety reasons they should stay within a defined area. They should know how far they can go."
+            },
+            {
+              "statement": "I have taken part in two half-day exercises afloat.",
+              "explanation": "A half day is at least two hours on or around the water."
+            }
+          ]
+        },
+        {
+          "stageNumber": 2,
+          "competencies": [
+            {
+              "statement": "I can assist in the launch and recovery of a small punt.",
+              "explanation": "This should include making sure there is no water in the punt when it is put away."
+            },
+            {
+              "statement": "I can explain what impact I may have on local vegetation when launching and retrieving a punt.",
+              "explanation": "Use a slipway where possible, avoid launching in or near nesting sites and where vegetation will be trampled down and damaged."
+            },
+            {
+              "statement": "I have discussed “Weil’s disease” and the precautions necessary to take part in open water activities.",
+              "explanation": "Avoiding stagnant water and canal banks, proper personal hygiene before and after going afloat and covering open wounds with a water-proof plaster."
+            },
+            {
+              "statement": "I can put on my own personal floatation device properly.",
+              "explanation": "This should include securing all fastenings and using a crotch strap where it is fitted."
+            },
+            {
+              "statement": "I know why I should wear suitable footwear.",
+              "explanation": "The Scout should be able to explain that it offers better grip, warmth and protection from sharp protrusions as well as debris in the water."
+            },
+            {
+              "statement": "I can make a recognised distress signal.",
+              "explanation": "The Scout should be able to make one of the signals described in the International Regulations for the Prevention of Collisions at Sea."
+            },
+            {
+              "statement": "I know how to raise the alarm if I see somebody in difficulty on the water.",
+              "explanation": "The Scout should know how to make a call to the emergency services and give clear information as to what was seen and where."
+            },
+            {
+              "statement": "I know what hypothermia is.",
+              "explanation": "The Scout should have a knowledge of the signs and symptoms of hypothermia and have an understanding of why it is a problem."
+            },
+            {
+              "statement": "I know that I should keep clear of channels and fairways.",
+              "explanation": "The Scout should be able to identify channels and fairways in their local boating waters and understand why other boats may not be able to avoid a scout in a punt."
+            },
+            {
+              "statement": "I can get a weather forecast.",
+              "explanation": "The Scout should be able to get a local or national weather forecast suitable for outdoor activity."
+            },
+            {
+              "statement": "I can tie the following knots; Round-turn-and-two-half-hitches, Figure of eight, Bowline.",
+              "explanation": "The Scout should be able to tie the named knots on request."
+            },
+            {
+              "statement": "I have taken part in four half-day exercises afloat.",
+              "explanation": "A half day is at least two hours on or around the water."
+            }
+          ]
+        },
+        {
+          "stageNumber": 3,
+          "competencies": [
+            {
+              "statement": "I can take a leading part in the launch and recovery of a small rowing punt.",
+              "explanation": "The Scout should be able to direct other Scouts as to how and where to launch and recover the boat including ensuring that the boat is bailed fully before being stored."
+            },
+            {
+              "statement": "I can put on my personal floatation device and adjust it properly.",
+              "explanation": "Many PFDs are adjustable. The Scout should be able to make appropriate adjustments in order that the PFD fits the scout correctly."
+            },
+            {
+              "statement": "I know why wearing layers of clothing is a good idea.",
+              "explanation": "The Scout should be able to explain the benefit of a layered approach and identify clothing best suited as a base, mid or top layer."
+            },
+            {
+              "statement": "I can embark, manoeuvre and disembark from a rowing punt safely.",
+              "explanation": "The Scout should be able to demonstrate an ability to get in and out of a punt safely, row in a straight line and demonstrate an ability to turn, stop, reverse and come alongside in a controlled manner. The Scout should be able to carry out these manoeuvres alone or with others onboard."
+            },
+            {
+              "statement": "I can point out the parts of a boat.",
+              "explanation": "The Scout should be familiar with and be able to name and point out thwarts, gunwale, spur/oarlock and rowlock as well as those parts previously mentioned."
+            },
+            {
+              "statement": "I can use a small anchor from a punt.",
+              "explanation": "The Scout should be able to set up, tie in, deploy and recover a suitably sized anchor."
+            },
+            {
+              "statement": "I can get into the water from a punt in a safe way.",
+              "explanation": "The Scout should demonstrate a suitable technique which is safe for the type of craft in use. The transom would usually be considered the safest place to do this."
+            },
+            {
+              "statement": "I can help to right a capsized rowing punt.",
+              "explanation": "The Scout should be able to follow direction to assist in the righting of a capsized rowing punt."
+            },
+            {
+              "statement": "I know how to do CPR and place the casualty in the recovery position.",
+              "explanation": "The Scout should be able to demonstrate an up-to-date CPR technique on a suitable mannequin and demonstrate how to put an adult or child in the recovery position (also known as the safe-airway position)."
+            },
+            {
+              "statement": "I know that I should follow the instructions of the person in charge of the boat.",
+              "explanation": "The Scout may be asked to explain what a charge certificate is and why it is important that the person in charge of activities afloat should be suitably qualified."
+            },
+            {
+              "statement": "I understand the terms that are used in a maritime weather forecast.",
+              "explanation": "The Scout should be able to explain the following terms and what they mean in the context of a maritime weather forecast; small craft warning, gale warning, imminent, soon, later."
+            },
+            {
+              "statement": "I have taken part in three full day exercises afloat.",
+              "explanation": "A full day afloat shall involve not less than four hours in or around a boat. This may include a lunch break. The scout will not be expected to be rowing all the time. At this stage a Scout would be expected to row as a member of the crew of a suitable rowing boat such as the Sea Scout standard boat (BP18). Oars should be of a size suitable for the crew rowing."
+            }
+          ]
+        },
+        {
+          "stageNumber": 4,
+          "competencies": [
+            {
+              "statement": "I can assist in the launch and recovery of a rowing boat.",
+              "explanation": "The Scout should now be able to take a useful place as a member of the larger team needed to launch and recover a larger rowing boat. They should be aware of the need for care when lifting heavy objects and the importance of co-ordinated action to avoid injury."
+            },
+            {
+              "statement": "I know the main principles of “Leave No Trace”.",
+              "explanation": ""
+            },
+            {
+              "statement": "I know that there are different types of personal floatation device and know when and where each should be used.",
+              "explanation": "The Scouting Ireland Boating Guidelines recommend different standards of PFD (50N, 100N, 150N, 275N) for use in different circumstances."
+            },
+            {
+              "statement": "I can explain why wearing the correct outerwear is important.",
+              "explanation": "The Scout should be able to explain that outerwear protects from both getting wet in rain and from the effects of wind-chill."
+            },
+            {
+              "statement": "I can carry out boat manoeuvres as a member of the crew in a rowing boat.",
+              "explanation": "As a member of the crew a Scout should be able to embark and disembark safely and react appropriately to the various commands; sight spur/ oar, toss oars, ship oars, boat oars, give way, back water, hold water, trail oars."
+            },
+            {
+              "statement": "I can point out the parts of a boat.",
+              "explanation": "As in previous stages plus, yoke, tiller, pintle, gudgeon, strake, rib."
+            },
+            {
+              "statement": "I can pick up a mooring from a punt.",
+              "explanation": "Rowing in a punt unaccompanied the scout should be able to approach a mooring appropriately, pick up the mooring and secure it to the boat in a safe and seamanlike manner."
+            },
+            {
+              "statement": "I can help another person safely into a punt from the water.",
+              "explanation": "The Scout should be able to approach the casualty in the water and, by using a combination of lifting and moving their own body weight, assist another person in to the punt from the water."
+            },
+            {
+              "statement": "I can coil a line and heave it to a casualty to affect a simulated rescue.",
+              "explanation": "This should be done with a suitable weighted, floating line over a distance of at least 10m, bringing the casualty safely to shore."
+            },
+            {
+              "statement": "I know the safety precautions required for water based activities.",
+              "explanation": "The Scout should be able to explain Weather, Area, Tides, Clothing, Hull, Inventory, Tell Someone."
+            },
+            {
+              "statement": "I know the Beaufort wind scale up to force 6.",
+              "explanation": "The Scout should know the wind speeds related to the Beaufort scale, estimate the force from visual clues (waves, trees, smoke) and understand the significance of a “Small Craft Warning” in the weather forecast."
+            },
+            {
+              "statement": "I can describe how often high and low tides take place, and the implications these might when going afloat.",
+              "explanation": "The Scout should be able to explain the impact of the tide on the local boating waters. Such concerns as strong tidal flow and inaccessible moorings are relevant here."
+            },
+            {
+              "statement": "I know that where I may go boating may change in different conditions.",
+              "explanation": "The Scout should understand that different areas may be safer in different wind directions and strengths."
+            },
+            {
+              "statement": "I have taken part in six full-day exercises afloat.",
+              "explanation": "A full day could involve a journey such as on a river or canal, for example during a summer camp."
+            }
+          ]
+        },
+        {
+          "stageNumber": 5,
+          "competencies": [
+            {
+              "statement": "I know the standard rowing commands used in my group and can use them to helm a rowing boat on a straight course.",
+              "explanation": "The Scout should be able to use a range of commands such as “Easy, Port” or “Hard, together” rather than being overly reliant on large rudder movements or “Hold water” turns."
+            },
+            {
+              "statement": "I can take a leading role in mooring and unmooring a rowing boat.",
+              "explanation": "The Scout should be able to direct a crew to safely pick up and cast off a mooring."
+            },
+            {
+              "statement": "I can assist in the anchoring of a rowing boat.",
+              "explanation": "The Scout should be capable of setting up the anchor, ensuring it is secured to the boat and deploying it overboard as directed by the coxswain."
+            },
+            {
+              "statement": "I can identify and name the main parts of common anchor types.",
+              "explanation": "The Scout should be able to name the principle parts of a Fisherman or Admiralty anchor, a ploughshare style anchor and a fluke style anchor."
+            },
+            {
+              "statement": "I know why it is important to have some training in first aid and can show how to care for someone who is very cold.",
+              "explanation": "The Scout should be able to explain the importance of having first aid training and demonstrate an ability to treat a casualty showing signs of hypothermia. It is desirable that a scout have some formal training in first aid."
+            },
+            {
+              "statement": "I know the parts of the International Regulations for the Prevention of Collisions at Sea which apply to my boat and local boating waters.",
+              "explanation": "The Scout should be able to explain which is the stand on vessel and which is the give way vessel in situations involving overtaking, crossing tracks and head on situations between rowing boats, rowing and sailing boats and between rowing boats and power boats. The Scout should also be able to explain correct procedure in and around channels and fairways."
+            },
+            {
+              "statement": "I can obtain a weather forecast and know how the information might affect planned activities afloat.",
+              "explanation": "The Scout should be able to obtain a suitable, up to date marine weather forecast for the relevant area and interpret how that forecast might alter plans."
+            },
+            {
+              "statement": "I know how currents and the ebb and flow of the tide affect my local boating waters.",
+              "explanation": ""
+            },
+            {
+              "statement": "I know the use of Channel 16 on marine VHF and have an understanding of the use of distress flares.",
+              "explanation": ""
+            },
+            {
+              "statement": "I have taken part in 6 full-day exercises afloat.",
+              "explanation": ""
+            },
+            {
+              "statement": "I have taken part in one expedition afloat.",
+              "explanation": "An expedition is an extended journey afloat involving either camping ashore or sleeping aboard. The inland waterways of Ireland offer many opportunities for such expeditions."
+            }
+          ]
+        },
+        {
+          "stageNumber": 6,
+          "competencies": [
+            {
+              "statement": "I can take a leading part in the launch and recovery of a rowing boats.",
+              "explanation": "The Scout should be able to direct others in launching and recovering a rowing boat. This may be with or without the use of a trailer or trolley. The Scout should ensure proper manual handling procedure is observed and that care is taken to prevent strain and crushing injuries."
+            },
+            {
+              "statement": "I can carry out the routine inspection of a personal floatation device.",
+              "explanation": "The Scout should demonstrate how to inspect a PFD for visual flaws such as tears, failed stitching, defective fastenings."
+            },
+            {
+              "statement": "I can take the helm of a rowing boat and carry out manoeuvres including steering with a compass.",
+              "explanation": "The Scout should be able to take the helm of a multi-oared rowing boat and get underway, demonstrate control of the boat and crew and turn to port and starboard, pick up a mooring, pass between obstacles such as moored boats, make way astern and come alongside safely."
+            },
+            {
+              "statement": "I can take a leading part in anchoring a rowing boat including knowing how and when to use a tripping line.",
+              "explanation": "The Scout should be able to direct another Scout in ensuring the anchor is correctly set up, that the line is secured to the boat and not fouled and that they are anchoring in a suitable place. The Scout should explain the use of a tripping line."
+            },
+            {
+              "statement": "I have taken part in Man-Over-Board exercise.",
+              "explanation": "The Scout will have taken part in a Man-Over-Board exercise with a live casualty or a suitable substitute. They should have experience as a crew member, and possibly as casualty so that they will better understand the difficulties in locating and recovering a casualty."
+            },
+            {
+              "statement": "I know what causes tides and how spring and neap tides might affect sailors.",
+              "explanation": "The Scout should be able to explain the interaction of the sun and moon and explain the increase in both tidal range and tidal rate during spring tides."
+            },
+            {
+              "statement": "I can recognise the main weather patterns illustrated by a synoptic chart and can interpret the forecast.",
+              "explanation": "The Scout should be able to look at a synoptic weather chart and use it to make their own weather forecast. For a given verbal weather forecast they should be able to interpret the terms used and describe the weather to be expected especially in terms of wind speed and direction and visibility."
+            },
+            {
+              "statement": "I can identify common weather conditions and describe how they may affect boating activities.",
+              "explanation": "The Scout should be able to describe the main weather features to expect with high or low pressure and with warm and cold fronts."
+            },
+            {
+              "statement": "I am familiar with the main features of restricted waters as defined for my group.",
+              "explanation": "The Scout should be able to describe the extent of Restricted Waters as defined for their group and identify headlands and any ports of refuge that might exist."
+            },
+            {
+              "statement": "I know how and when to make Distress and Urgency calls and Safety Announcements on Marine VHF.",
+              "explanation": ""
+            },
+            {
+              "statement": "I have taken part in eight full-day exercises afloat.",
+              "explanation": ""
+            },
+            {
+              "statement": "I have taken part in one expedition afloat.",
+              "explanation": ""
+            },
+            {
+              "statement": "I have instructed at least four people in four of the areas up to stage 3.",
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "stageNumber": 7,
+          "competencies": [
+            {
+              "statement": "I can take a leading part in the manual handling of a rowing boat ashore ensuring safe handling procedures.",
+              "explanation": "The Scout should demonstrate an ability to direct a group of scouts handling a rowing boat ashore. The boat may be on a trailer or trolley or it may be carried. The scout should show an awareness of potential risk to the boat, the scouts and members of the public who may be in the area."
+            },
+            {
+              "statement": "I can take a leading part in preparing a rowing boat for safe transportation.",
+              "explanation": "The Scout should be able to direct others in putting the boat on the trailer and securing it with rope or straps. Ultimately responsibility for trailer suitability and load security must still lie with the driver of the towing vehicle."
+            },
+            {
+              "statement": "I know under which circumstances different Personal Flotation Devices are appropriate.",
+              "explanation": "The Scout should be able to explain where and when the Scouting Ireland Boating Guidelines advise the use of different types of PFD."
+            },
+            {
+              "statement": "I can take charge of a rowing boat and carry out the required manoeuvres, including towing, to a high standard.",
+              "explanation": "The Scout should demonstrate an ability to act as coxswain of a multi-oared rowing boat and carry out all the manoeuvres required in the previous stage. A greater degree of control is to be expected and the Scout should be able to manoeuvre between obstacles that require the trailing of oars. The Scout should also demonstrate an ability to take another similarly sized boat under tow and tow it to safety."
+            },
+            {
+              "statement": "I can take a leading part in selecting a good anchorage.",
+              "explanation": "The Scout should demonstrate an ability to select a suitable anchorage given due acknowledgement to sea bed, scope, shelter and sea."
+            },
+            {
+              "statement": "I can take charge of a boat and respond efficiently to a (simulated) emergency.",
+              "explanation": "The Scout should demonstrate an ability to react calmly and efficiently to a simulated emergency such as MOB or the loss of an oar ensuring a safe and orderly recovery. The Scout should make it clear that they understand they are in charge of the crew as well as the boat."
+            },
+            {
+              "statement": "I know what lights should be shown by the most common vessels in my area and know what lights should be shown by a rowing boat.",
+              "explanation": "The Scout should be able to identify from sight or pictures, the nature of a vessel showing particular lights and describe what the vessel is doing. (crossing, head-on, overtaking...) The Scout should also be able to describe what lights are required on a rowing boat according to the International Regulations for the Prevention of Collisions at Sea."
+            },
+            {
+              "statement": "I know the relevant sections of the International regulations for the Prevention of Collisions at Sea.",
+              "explanation": ""
+            },
+            {
+              "statement": "I can interpret the current forecast and make sound decisions on planned activities in view of expected weather and sea conditions and tidal effects.",
+              "explanation": "The Scout should demonstrate their ability to use weather forecasting information in planning activities afloat including knowing when to cancel an activity."
+            },
+            {
+              "statement": "I know the hazards and how the weather may affect “Restricted Waters” for my group.",
+              "explanation": "The Scout should be able to describe hazards such as rocks, tidal races, shipping lanes and overfalls which may exist in Restricted Waters as defined for their group. The Scout should also be able to describe how different wind directions may affect the area. Onshore and offshore winds may be of particular importance here."
+            },
+            {
+              "statement": "I know how to get suitable information for “Safe Enclosed” boating waters that are not my groups local waters (e.g. for camp).",
+              "explanation": "The Scout should be able to identify suitable people to ask for information such as lifeboat crew, fishermen and the coast guard and know what type of information they need to get."
+            },
+            {
+              "statement": "I can assist in developing a passage plan for a day trip.",
+              "explanation": "The Scout should be able to help others to make a plan bearing in mind wind, tides and currents, the ability of the crew, the nature of the craft and availability of rescue cover and suitable stopping places. Lights, landmarks and hazards along the route would be considered an essential part of the plan."
+            },
+            {
+              "statement": "I know how to read and set a chart, plot and estimate positions.",
+              "explanation": "The Scout should demonstrate an ability to use maritime charts and demonstrate an understanding of position marking conventions."
+            },
+            {
+              "statement": "I have a working knowledge of GMDSS as it applies to EPIRBs and DSC.",
+              "explanation": ""
+            },
+            {
+              "statement": "I have taken part in ten full-day exercises afloat.",
+              "explanation": ""
+            },
+            {
+              "statement": "I have taken part in 1 overnight expedition afloat outside my normal boating waters.",
+              "explanation": ""
+            },
+            {
+              "statement": "I have instructed at least four people in at least six of the areas up to Stage 5.",
+              "explanation": "The Scout should chose six of the twelve topics listed for Stage 5 of the Rowing Adventure skills and instruct them to the required standard."
+            }
+          ]
+        },
+        {
+          "stageNumber": 8,
+          "competencies": [
+            {
+              "statement": "I can take a leading part in the safe manual handling of rowing boat ashore including turning them over.",
+              "explanation": "The Scout should demonstrate an ability to direct others in all areas of handling rowing boats ashore. When turning a boat over the scout should demonstrate due caution for the Scouts doing the lifting as well as the boat and surrounding property."
+            },
+            {
+              "statement": "I can take a leading part in organising the off- season storage of rowing boats.",
+              "explanation": "The Scout should demonstrate how best to store boats in the off season. This should include suitable covers for boats stored outdoors, placing boats so as not to obstruct access and emergency walkways and appropriate support of the boat to prevent damage to the boat."
+            },
+            {
+              "statement": "I understand the different safety precautions that must be taken when a group of boats is operating together.",
+              "explanation": "The Scout should demonstrate an understanding of the different problems that can arise with multi-craft activities. This might include differences in performance or crew ability and the additional communications requirements to ensure boats do not become too far separated."
+            },
+            {
+              "statement": "I have a good understanding of the merits of different anchor types for different locations and conditions.",
+              "explanation": "The Scout should explain the merits of different types of anchor in different circumstances and identify the type of anchor best suited to local waters. This may require identifying more than one type of anchor if different seabed conditions exist in various parts of the groups Day Cruising waters."
+            },
+            {
+              "statement": "I know what sound signals the most common types of vessel in my area should make.",
+              "explanation": "The Scout should demonstrate knowledge of the various sound signals (fog signals and general sound signals for manoeuvring) that may be used by the types of vessels the Scout is likely to encounter in the groups Day Cruising Waters."
+            },
+            {
+              "statement": "I have researched at least five pieces of weather lore.",
+              "explanation": "The Scout should demonstrate knowledge of at least five pieces of weather lore (Red sky at night..., spiders spinning webs...). Their knowledge should include an evaluation as to how useful any piece of weather lore might be in predicting the local weather."
+            },
+            {
+              "statement": "I am familiar with ‘Day Cruising Waters’ for my group.",
+              "explanation": "The Scout should demonstrate a knowledge of the extent of Day Cruising Waters for their group and the various features of it including, but not limited to; ports of refuge, man-made and natural hazards, shipping lanes and channels."
+            },
+            {
+              "statement": "I can use the information from a charts etc., to plan an expedition in restricted waters.",
+              "explanation": "The Scout should use information from published and informal sources to produce an expedition plan. This plan would include launch and recovery sites, camp sites, sources of fresh water and supplies, tidal streams and ranges, ports of refuge, emergency plans, inventory lists etc."
+            },
+            {
+              "statement": "I have an understanding of the ‘capture effect’ as it applies to marine VHF.",
+              "explanation": "The Scout should explain their understanding of the Capture effect and how it may impact on communications."
+            },
+            {
+              "statement": "I have taken part in 10 full-day exercises afloat.",
+              "explanation": ""
+            },
+            {
+              "statement": "I have taken part in one overnight expedition involving more than one boat.",
+              "explanation": ""
+            },
+            {
+              "statement": "I have instructed at least four people in at least seven of the areas up to Stage 6.",
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "stageNumber": 9,
+          "competencies": [
+            {
+              "statement": "I can take a leading part in preparing a rowing boat for transportation by road including identifying a suitable trailer/vehicle and secure the boat safely.",
+              "explanation": "The Scout should demonstrate some awareness of legal issues regarding road trailers (lights, brakes) as well as the weight capacity of the trailer. If a commercial vehicle is to be used the Scout should demonstrate an ability to give consideration to suitable cradling of the boat to ensure its safe transportation."
+            },
+            {
+              "statement": "I have knowledge of the organising of rowing races for boats of the type used by my group.",
+              "explanation": "The Scout should demonstrate knowledge of how to go about organising a rowing race. Consideration should be given to a fair start and turns, adequate rescue cover, equal lanes and a straight finish line. The Scout should also demonstrate a knowledge of any class rules concerning design, dimensions and modifications."
+            },
+            {
+              "statement": "I can anchor a boat efficiently to two anchors.",
+              "explanation": "The Scout should demonstrate an ability to lay a boat to two anchors either for added security or to reduce scope."
+            },
+            {
+              "statement": "I can improvise and deploy a sea-anchor and know what spares and tools should be carried aboard.",
+              "explanation": "The Scout should explain what spares and tools should be carried aboard in safe enclose, restricted or day cruising waters. The Scout should also demonstrate an ability to improvise a sea-anchor from materials which could be expected aboard a rowing boat. The Scout should explain when and why to use a sea-anchor."
+            },
+            {
+              "statement": "I have completed the requirement for the Emergencies Skills Stage 7.",
+              "explanation": ""
+            },
+            {
+              "statement": "I know how to interact with the emergency services.",
+              "explanation": "The Scout should demonstrate knowledge of how to communicate with the emergency services using both communications technology and visual signals. The Scout should demonstrate an understanding of what information the emergency services might need in an emergency situation."
+            },
+            {
+              "statement": "I know what sound signals the most common types of vessel in my area should make. I can identify the type aspect and behaviour of vessels by day or night from lights, shapes and sounds.",
+              "explanation": "The Scout should demonstrate their knowledge of lights, day shapes and sounds and what information they give regarding the vessel."
+            },
+            {
+              "statement": "I know the procedure for entry to and departure from a harbour and understand the requirement to file a passage plan under SOLAS regulations.",
+              "explanation": ""
+            },
+            {
+              "statement": "I can complete a rough synoptic chart from a maritime weather forecast or similar data and use this information to make sound decisions on planned activities in view of expected weather and sea conditions.",
+              "explanation": "The Scout should demonstrate an ability to construct an approximate synoptic chart from the data given in the wide area shipping forecast broadcast by the BBC. This chart should give the approximate position of any cyclones and anti-cyclones as well as any weather fronts."
+            },
+            {
+              "statement": "I am familiar with any local rules and bylaws that apply to Day Cruising Waters for my group.",
+              "explanation": "The Scout should demonstrate their knowledge of any rules any bylaws concerning boating in Day Cruising Waters. This may include areas of restricted activity, speed limits, restrictions on times of operation and craft given stand-on privilege, among others."
+            },
+            {
+              "statement": "I can devise a pilot/passage plan and programme that plan into a GPS.",
+              "explanation": ""
+            },
+            {
+              "statement": "I have taken part in ten full-day exercises afloat.",
+              "explanation": ""
+            },
+            {
+              "statement": "I have taken part in an overnight expedition in coastal waters.",
+              "explanation": ""
+            },
+            {
+              "statement": "I have instructed at least four people in at least five of the areas up to stage 8.",
+              "explanation": ""
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "SI Sailing",
@@ -1850,52 +3124,56 @@
           "stageNumber": 1,
           "competencies": [
             {
-              "statement": "I can assist with the launch and recovery of a sailing dinghy",
-              "explanation": ""
+              "statement": "I can assist with the launch and recovery of a sailing dinghy.",
+              "explanation": "The Scout should assist in the launching in an age appropriate way. The scout should be aware of the need to be careful around water."
             },
             {
-              "statement": "I know about the Buddy system",
-              "explanation": ""
+              "statement": "I know about the Buddy system.",
+              "explanation": "The Scout should be able to talk about the buddy system and explain how and why it is used when in the water."
             },
             {
-              "statement": "I know the importance of a personal floatation device",
-              "explanation": ""
+              "statement": "I know the importance of a personal floatation device.",
+              "explanation": "The Scout should know that wearing a personal floatation device is important around water and how they should not go near any boat without first having a personal floatation device on them."
             },
             {
-              "statement": "I know the correct clothing to wear when sailing",
-              "explanation": ""
+              "statement": "I know the correct clothing to wear when sailing.",
+              "explanation": "The Scout should be able to show footwear and layers of light clothing suitable for boating. A windproof jacket of some sort should also be worn. The scout should be able to put on a wet suit with help."
             },
             {
-              "statement": "I can take the helm and steer a reasonably straight course",
-              "explanation": ""
+              "statement": "I can take the helm and steer a reasonably straight course.",
+              "explanation": "Depending on the age of the Scout it may be considered prudent to have a competent person in the boat too. The Scout should be demonstrating some directional control."
             },
             {
-              "statement": "I know I cannot go afloat if the wind is greater than Force 4",
-              "explanation": ""
+              "statement": "I know not go afloat if the wind is greater than Force 4.",
+              "explanation": "The Scout should understand that it is unwise to go afloat if it is too windy."
             },
             {
-              "statement": "I can point out the bow, stern, port and starboard of a boat",
-              "explanation": ""
+              "statement": "I can point out the bow, stern, port and starboard of a boat.",
+              "explanation": "The Scout should be able to name the parts when pointed to and point to the named parts."
             },
             {
-              "statement": "I know how to contact the emergency services",
-              "explanation": ""
+              "statement": "I know how to contact the emergency services.",
+              "explanation": "The Scout should know the emergency number 112 (or 999) and say what kind of help is needed (Garda/Police, lifeboat, ambulance, fire brigade)."
             },
             {
-              "statement": "I know why it is important to stay with a capsized boat",
-              "explanation": "I understand why I should follow directions from an instructor."
+              "statement": "I know why it is important to stay with a capsized boat.",
+              "explanation": "A capsized boat is easier to see in the water than a head and the hull will help you stay afloat."
             },
             {
-              "statement": "I can show the limits of where I may go each time I go afloat for sailing",
-              "explanation": ""
+              "statement": "I understand why I should follow directions from an instructor.",
+              "explanation": "The Scout should understand how to behave on a boat and that there may be safety reason why an instructor doesn’t have time to explain a direction in advance."
             },
             {
-              "statement": "I know basic Sailing Theory",
-              "explanation": ""
+              "statement": "I can show the limits of where I may go each time I go afloat for sailing.",
+              "explanation": "A Scout should know that for safety reasons they should stay within a defined area. They should know how far they can go."
             },
             {
-              "statement": "I have taken part in two half-day sailing exercises consisting of a minimum of two hours afloat",
-              "explanation": ""
+              "statement": "I know basic Sailing Theory.",
+              "explanation": "The Scout should know basic terminology like; tack, gybe, no-go area, sail, sheet, tiller."
+            },
+            {
+              "statement": "I have taken part in two half-day sailing exercises afloat consisting of a minimum of two hours afloat.",
+              "explanation": "A half day is at least two hours on or around the water."
             }
           ]
         },
@@ -1903,60 +3181,64 @@
           "stageNumber": 2,
           "competencies": [
             {
-              "statement": "I can assist with the rigging and de-rigging of vessel",
-              "explanation": ""
+              "statement": "I can assist with the rigging and de-rigging of a vessel.",
+              "explanation": "The Scout should help with the rigging and de-rigging of a vessel. This will help them; know how to do it themselves and to learn the value of looking after equipment."
             },
             {
-              "statement": "I can explain what impact I may have on local vegetation when launching and retrieving a sailing dinghy",
-              "explanation": ""
+              "statement": "I can explain what impact I may have on local vegetation when launching and retrieving a sailing dinghy.",
+              "explanation": "Use a slipway where possible, avoid launching in or near nesting sites and where vegetation will be trampled down and damaged."
             },
             {
-              "statement": "I have discussed “Weil’s disease” and the precautions necessary to take part in open water activities",
-              "explanation": ""
+              "statement": "I have discussed “Weil’s disease” and the precautions necessary to take part in open water activities.",
+              "explanation": "Avoiding stagnant water and canal banks, proper personal hygiene before and after going afloat and covering open wounds with a water-proof plaster."
             },
             {
-              "statement": "I can put on my own personal floatation device properly",
-              "explanation": ""
+              "statement": "I can put on my own personal floatation device properly.",
+              "explanation": "This should include securing all fastenings and using a crotch strap where it is fitted."
             },
             {
-              "statement": "I know why I should wear suitable footwear",
-              "explanation": ""
+              "statement": "I know why I should wear suitable footwear.",
+              "explanation": "The Scout should be able to explain that it offers better grip, warmth and protection from sharp protrusions as well as debris in the water."
             },
             {
-              "statement": "I know basic sailing skills including what to d the event of a capsize",
-              "explanation": ""
+              "statement": "I know basic sailing skills including what to do in the event of a capsize.",
+              "explanation": "The Scout should demonstrate basic skills which help them control the boat. These skills should include; Tacking. Control boat speed by trimming. Making progress to a point upwind. Having gybed under control at least once. The Scout should know that when a boat capsizes that they should not panic and should stay with the boat until someone comes along to help them run a capsize drill."
             },
             {
-              "statement": "I know Sailing theory",
-              "explanation": ""
+              "statement": "I know Sailing theory.",
+              "explanation": "The Scout should know some of the theory of; Tacking. Gybing. No-go area."
             },
             {
-              "statement": "I can make a recognised distress signal and raise the alarm if I see somebody in difficulty the water",
-              "explanation": ""
+              "statement": "I can make a recognised distress signal.",
+              "explanation": "The Scout should be able to make one of the signals described in the International Regulations for the Prevention of Collisions at Sea."
             },
             {
-              "statement": "I know what hypothermia is",
-              "explanation": ""
+              "statement": "I know how to raise the alarm if I see somebody in difficulty on the water.",
+              "explanation": "The Scout should know how to make a call to the emergency services and give clear information as to what was seen and where."
             },
             {
-              "statement": "I know basic collision avoidance",
-              "explanation": ""
+              "statement": "I know what hypothermia is.",
+              "explanation": "The Scout should have knowledge of the signs and symptoms of hypothermia and have an understanding of why it is a problem."
             },
             {
-              "statement": "I can conduct myself in a careful and safe way in a boat and around water",
-              "explanation": ""
+              "statement": "I know basic collision avoidance.",
+              "explanation": "The Scout should be able to identify channels and fairways in their local boating waters and understand why other boats may not be able to avoid a scout in a sailing dinghy. The Scout should know some basic rules of the road at sea. Simple rules like these will help them not crash into stuff; Small boats should avoid areas used by large commercial vessels. All vessels should stay on the starboard side of any channel or fairway."
             },
             {
-              "statement": "I can get a weather forecast",
-              "explanation": ""
+              "statement": "I can conduct myself in a careful and safe way in a boat and around water.",
+              "explanation": "The Scout should demonstrate that they understand safe behaviour; Always wear a PFD. No running or horse-play around water. Follow the directions of an instructor promptly."
             },
             {
-              "statement": "I can tie the following knots; Round-turn-and- two-half-hitches, Figure of eight, Bowline",
-              "explanation": ""
+              "statement": "I can get a weather forecast.",
+              "explanation": "The Scout should be able to get a local or national weather forecast suitable for outdoor activity."
             },
             {
-              "statement": "I have taken part in at least four half-day sai activities consisting of a minimum of two hours afloat. ndb 110",
-              "explanation": ""
+              "statement": "I can tie the following knots; round-turn-and-two-half-hitches, figure of eight, bowline.",
+              "explanation": "The Scout should be able to tie the named knots on request."
+            },
+            {
+              "statement": "I have taken part in at least four half-day sailing activities.",
+              "explanation": "A half day is at least two hours on or around the water."
             }
           ]
         },
@@ -1964,52 +3246,109 @@
           "stageNumber": 3,
           "competencies": [
             {
-              "statement": "I can assist with the launch and recovery of a sailing dinghy",
-              "explanation": ""
+              "statement": "I can assist with rigging and de-rigging, launch and recover.",
+              "explanation": "The Scout should take a more prominent role in the rigging and de-rigging as well as helping with the launch and recovery."
             },
             {
-              "statement": "I know about the Buddy system",
-              "explanation": ""
+              "statement": "I can put on my personal flotation device and adjust it properly.",
+              "explanation": "Many PFDs are adjustable. The Scout should be able to make appropriate adjustments in order that the PFD fits the Scout correctly."
             },
             {
-              "statement": "I know the importance of a personal floatation device",
-              "explanation": ""
+              "statement": "I know why wearing layers of clothing is a good idea.",
+              "explanation": "The Scout should be able to explain the benefit of a layered approach and identify clothing best suited as a base, mid or top layer."
             },
             {
-              "statement": "I know the correct clothing to wear when sailing",
-              "explanation": ""
+              "statement": "I know basic sailing techniques.",
+              "explanation": "The Scout should know basic sailing techniques like; Raising and lowering hydrofils. Be able to stop a boat. Steering a triangular course. How and when to move in the boat maintaining balance and trim. Trimming sails. Leave and return to a jetty."
             },
             {
-              "statement": "I can take the helm and steer a reasonably straight course",
-              "explanation": ""
+              "statement": "I know the basics of sailing theory.",
+              "explanation": "The Scout should know basic terminology like: Sheet in-out. Luff-up. Bear away. Ready about. Lee-ho."
             },
             {
-              "statement": "I know I cannot go afloat if the wind is greater than Force 4",
-              "explanation": ""
+              "statement": "I have taken part in a capsize drill.",
+              "explanation": "The Scout should have been involved in a capsize drill and have been talked through the steps to prepare for it and right the boat. If the boat has no buoyancy the Scout should know what to do in staying together and waiting for help."
             },
             {
-              "statement": "I can point out the bow, stern, port and starboard of a boat",
-              "explanation": ""
+              "statement": "I can get into a dinghy from the water in a safe way.",
+              "explanation": "The Scout should demonstrate an appropriate technique for the type of craft in use. The Scout may enter over the transom or at the beam as appropriate."
             },
             {
-              "statement": "I know how to contact the emergency services",
-              "explanation": ""
+              "statement": "I know how to do CPR and place a victim in the recovery position.",
+              "explanation": "The Scout should be able to demonstrate an up-to-date CPR technique on a suitable mannequin and demonstrate how to put an adult or child in the recovery position (also known as the safe-airway position)."
             },
             {
-              "statement": "I know why it is important to stay with a capsized boat",
-              "explanation": "I understand why I should follow directions from an instructor."
+              "statement": "I know that I should follow the instructions of the person in charge of the boat.",
+              "explanation": "The Scout may be aware that the person in charge of the boat is more experienced/qualified then themselves and following the instructions of this person ensures their safety on the water."
             },
             {
-              "statement": "I can show the limits of where I may go each time I go afloat for sailing",
-              "explanation": ""
+              "statement": "I understand the terms used in a maritime weather forecast.",
+              "explanation": "The Scout should be able to explain the following terms and what they mean in the context of a maritime weather forecast; small craft warning, gale warning, imminent, soon, later."
             },
             {
-              "statement": "I know basic Sailing Theory",
-              "explanation": ""
+              "statement": "I have taken part in at least three full day sailing activities.",
+              "explanation": "A full day afloat shall involve not less than five hours in or around a boat. This may include a lunch break. The scout will not be expected to be helming all the time."
+            }
+          ]
+        },
+        {
+          "stageNumber": 4,
+          "competencies": [
+            {
+              "statement": "I can assist in launching, rigging and recovering a small sailing dinghy.",
+              "explanation": "The Scout should be able to demonstrate: How to secure a boat to a trolley and safely move it around ashore. Position the boat heat-to-wind. Identify the main parts of the boat, its rigging and sails. Assist with rigging the boat. With assistance launch and sail away from shore, sail back and recover the boat."
             },
             {
-              "statement": "I have taken part in two half-day sailing exercises consisting of a minimum of two hours afloat",
-              "explanation": ""
+              "statement": "I know the main principles of “Leave No Trace”.",
+              "explanation": "Scouts should demonstrate an understanding of the key points in a practical way in a camp situation. Dispose of waste properly. Respect farm animals and wildlife. Minimise camping impact and the effects of fire. Be considerate of others. Travel and camp on durable surfaces. Leave what you find. Plan ahead and prepare."
+            },
+            {
+              "statement": "I know that there are different types of personal flotation device and know when and where each should be used.",
+              "explanation": "The Scouting Ireland Boating Guidelines recommend different standards of PFD (50N, 100N, 150N, 275N) for use in different circumstances."
+            },
+            {
+              "statement": "I can explain why wearing the correct outerwear is important.",
+              "explanation": "The Scout should be able to explain that outerwear protects from both getting wet in rain and from the effects of wind-chill."
+            },
+            {
+              "statement": "I can paddle or row a boat in a straight line.",
+              "explanation": "The Scout should demonstrate their ability to propel a sailing dinghy with a paddle or suitable oars."
+            },
+            {
+              "statement": "I can demonstrate all points of sailing with assistance as both crew and helm.",
+              "explanation": "The Scout should demonstrate their ability to sail, as helm and crew, demonstrating directional control, sail trim and balance while sailing on a; Beat. Beam reach. Broad Reach. Run."
+            },
+            {
+              "statement": "I can help another person safely into a sailing dinghy from the water.",
+              "explanation": "The Scout should be able to approach the casualty in the water and, by using a combination of lifting and moving their own body weight, assist another person in to a sailing dinghy from the water."
+            },
+            {
+              "statement": "I know sailing theory.",
+              "explanation": "The Scout should be able to; Describe the different points of sailing. Take correct action when boats on different tacks meet. Identify and use common sailing terms."
+            },
+            {
+              "statement": "I can coil a line and heave it to a casualty to affect a simulated rescue.",
+              "explanation": "This should be done with a suitable weighted, floating line over a distance of at least 10m, bringing the casualty safely to shore."
+            },
+            {
+              "statement": "I know the safety precautions required for water based activities.",
+              "explanation": "The Scout should be able to explain Weather, Area, Tides, Clothing, Hull, Inventory, Tell Someone."
+            },
+            {
+              "statement": "I can describe the implications of offshore and onshore winds, high winds and no winds when sailing.",
+              "explanation": "The Scout should demonstrate an awareness of onshore and offshore winds and how they impact on launching, recovery and safety. The Scout should also be able to explain the difficulties that too much or too little wind can cause for a sailing dinghy."
+            },
+            {
+              "statement": "I can describe how often high and low tides take place, and the implications these might when going afloat.",
+              "explanation": "The Scout should be able to explain the impact of the tide on the local boating waters. Such concerns as strong tidal flow and inaccessible moorings are relevant here."
+            },
+            {
+              "statement": "I know that where I may go boating may change in different conditions.",
+              "explanation": "The Scout should understand that different areas may be safer in different wind directions and strengths."
+            },
+            {
+              "statement": "I have taken part in six full-day exercises afloat.",
+              "explanation": "A full day could involve a journey such as on a river or lake, for example during a summer camp."
             }
           ]
         },
@@ -2017,32 +3356,56 @@
           "stageNumber": 5,
           "competencies": [
             {
-              "statement": "I can rig and equip a sailing boat for safe use in a variety of weather conditions",
+              "statement": "I can rig and equip a sailing boat for safe use in a variety of weather conditions.",
+              "explanation": "In demonstrating this the Scout should; Identify all the parts of the boat, rigging and sails. Rig the boat appropriately for the weather including demonstrating an ability to reef the sails while ashore. De-rig the boat after use and demonstrate proper care for the hull, sails and foils. Ensure that the boat is appropriately equipped with bailers, fenders, paddles/oars, painters etc."
+            },
+            {
+              "statement": "I can demonstrate how to manoeuvre a sailing boat as a member of the crew.",
+              "explanation": "As both crew and helm in light winds the Scout should demonstrate; Leaving and returning to a beach or slipway in the prevailing wind direction. Sailing on all points of the wind. Coming alongside a boat, pier or pontoon which is head to wind. Coming alongside a boat, pier or pontoon which is not head to wind. Recovering a man-over-board. heaving to. Sailing under jib only."
+            },
+            {
+              "statement": "I know the five essentials and can apply them to all points of sailing.",
+              "explanation": "The Scout should be able to demonstrate an ability to use course, trim, balance, sail trim and centreboard position to keep the boat sailing efficiently."
+            },
+            {
+              "statement": "I can take a leading role in mooring and unmooring a sailing boat including sailing on and off the mooring.",
+              "explanation": "The Scout should be able to direct a crew to safely pick up and cast off a mooring."
+            },
+            {
+              "statement": "I can assist in the anchoring of a sailing boat.",
+              "explanation": "The Scout should be capable of setting up the anchor, ensuring it is secured to the boat and deploying it overboard as directed by the helm."
+            },
+            {
+              "statement": "I can identify and name the main parts of common anchor types.",
+              "explanation": "The Scout should be able to name the principle parts of a Fisherman or Admiralty anchor, a Ploughshare style anchor and a Fluke style anchor."
+            },
+            {
+              "statement": "I know why it is important to have some training in first aid and can show how to care for someone who is very cold.",
+              "explanation": "The Scout should be able to explain the importance of having first aid training and demonstrate an ability to treat a casualty showing signs of hypothermia. It is desirable that a scout have some formal training in first aid."
+            },
+            {
+              "statement": "I know the parts of the International Regulations for the Prevention of Collisions at Sea that apply to my boat and local boating waters.",
+              "explanation": "The Scout should be able to explain which is the stand on vessel and which is the give way vessel in situations involving overtaking, crossing tracks and head on situations between two sailing boats and between motor boats and sailing boats. The Scout should also be able to explain correct procedure in and around channels and fairways."
+            },
+            {
+              "statement": "I can obtain a weather forecast and know how the information might affects planned activities afloat.",
+              "explanation": "The Scout should be able to obtain a suitable, up to date marine weather forecast for the relevant area and interpret how that forecast might alter plans."
+            },
+            {
+              "statement": "I know how currents and the ebb and flow of the tide affect my local boating waters.",
               "explanation": ""
             },
             {
-              "statement": "I can demonstrate how to manoeuvre a sailing boat as a member of the crew",
+              "statement": "I know the use of Channel 16 on marine VHF and have an understanding of the use of distress flares.",
               "explanation": ""
             },
             {
-              "statement": "I know the five essentials and can apply them to all points of sailing",
+              "statement": "I have taken part in six full-day exercises afloat.",
               "explanation": ""
             },
             {
-              "statement": "I can take a leading role in mooring and unmooring a sailing boat including sailing on and off the mooring",
-              "explanation": ""
-            },
-            {
-              "statement": "I can assist in the anchoring of a sailing boat",
-              "explanation": ""
-            },
-            {
-              "statement": "I can identify and name the main parts of common anchor types",
-              "explanation": ""
-            },
-            {
-              "statement": "I know why it is important to have some training",
-              "explanation": ""
+              "statement": "I have taken part in one expedition afloat.",
+              "explanation": "An expedition is an extended journey afloat involving either camping ashore or sleeping aboard. The inland waterways of Ireland offer many opportunities for such expeditions."
             }
           ]
         },
@@ -2050,35 +3413,63 @@
           "stageNumber": 6,
           "competencies": [
             {
-              "statement": "I can rig, de-rig, secure and care for the hull of the sailing boat that I use including using the listed control lines to set the boat up to sail efficiently upwind, downwind and on a reach demonstrating optimum sheeting",
+              "statement": "I can rig, de-rig, secure and care for the hull of the sailing boat that I use including using the listed control lines to set the boat up to sail efficiently upwind, downwind and on a reach demonstrating optimum sheeting.",
+              "explanation": "The Scout should be demonstrate rigging the boat for different circumstances using; Telltales. Jib sheeting angles. Halyard tension. Outhaul. Cunningham/downhaul. Kicker. Main sheet traveler."
+            },
+            {
+              "statement": "I can carry out the routine inspection of a personal flotation device.",
+              "explanation": "The Scout should demonstrate how to inspect a PFD for visual flaws such as tears, failed stitching, defective fastenings."
+            },
+            {
+              "statement": "I can take the helm of a sailing boat and demonstrate how to undertake various manoueveres.",
+              "explanation": "The Scout should demonstrate all the manoeuvres previously demonstrated in stronger winds than before, maintaining optimum sheeting most of the time. The Scout should demonstrate a basic roll-tack in light winds. The Scout should be able to explain the principles of sailing without a rudder and demonstrate sailing a beam reach without a rudder. The Scout should demonstrate an ability to sail backwards for a short distance."
+            },
+            {
+              "statement": "I know how to obtain maximum leverage when hiking or trapezing.",
+              "explanation": "The Scout should demonstrate hiking or trapezing technique."
+            },
+            {
+              "statement": "I know how sails and foils work and interact to drive a sailing boat.",
+              "explanation": "The Scout should be able to explain how sails produce thrust and how the hydrofoils counteract lateral movement to produce forward drive."
+            },
+            {
+              "statement": "I can take a leading part in anchoring a sailing boat including knowing how and when to use a tripping line.",
+              "explanation": "The Scout should be able to direct another Scout in ensuring the anchor is correctly set up, that the line is secured to the boat and not fouled and that they are anchoring in a suitable place. The Scout should explain the use of a tripping line."
+            },
+            {
+              "statement": "I know what to do if someone is caught under an inverted boat and can right an inverted boat.",
+              "explanation": "The Scout should demonstrate best practice in the event of a capsize beginning with a head-count to identify if a crew member is missing. The Scout should be able to explain the most likely reasons for entrapment (entanglement in sheets, hiking straps etc.) and how best to recover the casualty. The Scout should demonstrate an ability to take a leading role in recovering an inverted boat."
+            },
+            {
+              "statement": "I know what causes tides and how spring and neap tides might affect sailors.",
+              "explanation": "The Scout should be able to explain the interaction of the sun and moon and explain the increase in both tidal range and tidal rate during spring tides."
+            },
+            {
+              "statement": "I can recognise the main weather patterns illustrated by a synoptic chart and can interpret the forecast.",
+              "explanation": "The Scout should be able to look at a synoptic weather chart and use it to make their own weather forecast. For a given verbal weather forecast they should be able to interpret the terms used and describe the weather to be expected especially in terms of wind speed and direction and visibility."
+            },
+            {
+              "statement": "I can identify common weather conditions and describe how they may affect boating activities.",
+              "explanation": "The Scout should be able to describe the main weather features to expect with high or low pressure and with warm and cold fronts."
+            },
+            {
+              "statement": "I am familiar with the main features of restricted waters as defined for my group.",
+              "explanation": "The Scout should be able to describe the extent of Restricted Waters as defined for their group and identify headlands and any ports of refuge that might exist."
+            },
+            {
+              "statement": "I know how and when to make Distress and Urgency calls and Safety Announcements on Marine VHF.",
               "explanation": ""
             },
             {
-              "statement": "I can carry out the routine inspection of a personal flotation device",
+              "statement": "I have taken part in eight full-day exercises afloat.",
               "explanation": ""
             },
             {
-              "statement": "I can take the helm of a sailing boat and demonstrate how to undertake various manoeuvres, demonstrating a constant awareness and application of the five essentials",
+              "statement": "I have taken part in one expedition afloat.",
               "explanation": ""
             },
             {
-              "statement": "I know how to obtain maximum leverage when hiking or trapezing",
-              "explanation": ""
-            },
-            {
-              "statement": "I know how sails and foils work and interact to drive a sailing boat",
-              "explanation": ""
-            },
-            {
-              "statement": "I can take a leading part in anchoring a sailing boat including knowing how and when to use a tripping line",
-              "explanation": ""
-            },
-            {
-              "statement": "I know what to do if someone is caught under an inverted boat and can right an inverted boat",
-              "explanation": ""
-            },
-            {
-              "statement": "I know what causes tides and how spring and neap tides might affect sailors. ndb 111 •      I have a working knowledge of GMDSS (Global",
+              "statement": "I have instructed at least four people in four of the areas up to stage 3.",
               "explanation": ""
             }
           ]
@@ -2087,28 +3478,72 @@
           "stageNumber": 7,
           "competencies": [
             {
-              "statement": "I know the parts of the International Regulations for the Prevention of Collisions at Sea that apply to my boat and local boating waters",
+              "statement": "I can take a leading part in the manual handling of a sailing boat ashore ensuring safe handling procedures including preparing a sailing boat for safe transportation by road.",
+              "explanation": "The Scout should demonstrate an ability to direct a group of scouts handling a rowing boat ashore. The boat may be on a trailer or trolley or it may be carried. The Scout should show an awareness of potential risk to the boat, the scouts and members of the public who may be in the area. The scout should be able to direct others in putting the boat on the trailer and securing it with rope or straps. Ultimately responsibility for trailer suitability and load security must still lie with the driver of the towing vehicle."
+            },
+            {
+              "statement": "I can rig any sailing boat and identify all of the parts.",
+              "explanation": "The Scout should demonstrate a sufficient knowledge of the theory and practice of sailing that when presented with an unfamiliar sailing craft that they be able to rig it correctly."
+            },
+            {
+              "statement": "I know under which circumstances different personal flotation devices are appropriate.",
+              "explanation": "The Scout should be able to explain where and when the Scouting Ireland Boating Guidelines advise the use of different types of PFD."
+            },
+            {
+              "statement": "I can take charge of a sailing boat in moderate winds and carry out all the required manoeuvres including holding a course using instruments and transits.",
+              "explanation": "The Scout should demonstrate an ability to take charge of a boat and its crew to carry out all the manoeuvres previously required. This should be done on moderate wind conditions. The Scout should also demonstrate an ability to steer a course using either a compass or other electronic aid and also using suitable transits. The Scout should demonstrate an ability to reef while afloat and underway."
+            },
+            {
+              "statement": "I can take a leading part in selecting a good anchorage.",
+              "explanation": "The Scout should demonstrate an ability to select a suitable anchorage given due regard to sea bed, scope, shelter and sea."
+            },
+            {
+              "statement": "I can take charge of a boat and respond efficiently to a (simulated) emergency.",
+              "explanation": "The Scout should be able to explain and demonstrate an appropriate response to an emergency such as; MOB. Towing. Running repairs. Jury rig. The Scout should also be able to demonstrate how to shelter aboard a sailing boat while waiting for assistance."
+            },
+            {
+              "statement": "I know what lights should be shown by the most common vessels in my area and know what lights should be shown by a sailing boat.",
+              "explanation": "The Scout should be able to identify from sight or pictures, the nature of a vessel showing particular lights and describe what the vessel is doing. (crossing, head-on, overtaking...) The Scout should also be able to describe what lights are required on a rowing boat according to the International Regulations for the Prevention of Collisions at Sea."
+            },
+            {
+              "statement": "I know the International regulations for the Prevention of Collisions at Sea.",
               "explanation": ""
             },
             {
-              "statement": "I can obtain a weather forecast and know how the information might affect planned activities afloat",
+              "statement": "I can interpret the current forecast and make sound decisions on planned activities in view of expected weather and sea conditions and tidal effects.",
+              "explanation": "The Scout should demonstrate their ability to use weather forecasting information in planning activities afloat including knowing when to cancel an activity."
+            },
+            {
+              "statement": "I know the hazards and how the weather may affect “Restricted Waters” for my group.",
+              "explanation": "The Scout should be able to describe hazards such as rocks, tidal races, shipping lanes and overfalls which may exist in Restricted Waters as defined for their group. The Scout should also be able to describe how different wind directions may affect the area. Onshore and offshore winds may be of particular importance here."
+            },
+            {
+              "statement": "I know how to get suitable information for “Safe Enclosed” boating waters that are not my groups local waters (e.g. for camp).",
+              "explanation": "The Scout should be able to identify suitable people to ask for information such as lifeboat crew, Fishermen and the coast guard and know what type of information they need to get."
+            },
+            {
+              "statement": "I can assist in developing a passage plan for day trips.",
+              "explanation": "The Scout should be able to help others to make a plan bearing in mind wind, tides and currents, the ability of the crew, the nature of the craft and availability of rescue cover and suitable stopping places. Lights, landmarks and hazards along the route would be considered an essential part of the plan."
+            },
+            {
+              "statement": "I know how to read and set a chart, plot and estimate positions.",
+              "explanation": "The Scout should demonstrate an ability to use maritime charts and demonstrate an understanding of position marking conventions."
+            },
+            {
+              "statement": "I have a working knowledge of GMDSS (Global Maritime Distress Safety Systems) as it applies to EPIRBs (Emergency Position-Indicating Radio Beacons) and DSC (Digital Selective Calling).",
               "explanation": ""
             },
             {
-              "statement": "I know how currents and the ebb and flow of the tide affect my local boating waters",
+              "statement": "I have taken part in ten full-day exercises afloat.",
               "explanation": ""
             },
             {
-              "statement": "I know how to use Channel 16 on marine",
-              "explanation": "VHF and have an understanding of the use of distress flares."
-            },
-            {
-              "statement": "I have taken part in six full-day exercises afloat",
+              "statement": "I have taken part in one overnight expedition afloat outside my normal boating waters.",
               "explanation": ""
             },
             {
-              "statement": "I have taken part in one expedition afloat",
-              "explanation": ""
+              "statement": "I have instructed at least four people in at least six of the areas up to stage 5.",
+              "explanation": "The Scout should choose six of the twelve topics listed for Stage 5 of the Rowing Adventure skills and instruct them to the required standard."
             }
           ]
         },
@@ -2116,11 +3551,67 @@
           "stageNumber": 8,
           "competencies": [
             {
-              "statement": "I can take a leading part in the safe handling a sailing boat ashore",
+              "statement": "I can take a leading part in the safe handling of sailing boat ashore.",
+              "explanation": "The Scout should demonstrate an ability to direct others in all areas of handling sailing boats ashore. The Scout should demonstrate due caution for the scouts doing the lifting as well as the boat and surrounding property."
+            },
+            {
+              "statement": "I can rig any sailing boat including optimizing the rig and boat for a given set of conditions.",
+              "explanation": "The Scout should demonstrate their ability to use all available adjustments to tune the rig for any particular set of conditions. The adjustments should include the following; Mast rake. Rig tension. Spreader length and angle. Mast ram/chocks."
+            },
+            {
+              "statement": "I understand the different safety precautions that must be taken when a group of boats is operating together.",
+              "explanation": "The Scout should demonstrate an understanding of the different problems that can arise with multi-craft activities. This might include differences in performance or crew ability and the additional communications requirements to ensure boats do not become too far separated."
+            },
+            {
+              "statement": "I can carry out all the sailing manoeuvres in strong winds including setting up and controlling the boat while on the plane.",
+              "explanation": "The Scout should demonstrate a range of activities designed to develop and practice specific aspects of boat handling and boat speed including; an ability to carry out an effective roll-tack in all wind strengths. a knowledge of how and when to shorten sail including dropping one sail or another as necessary. maximising boat speed in waves. optimum course to steer. holding position. Heaving-to."
+            },
+            {
+              "statement": "I can describe how sails interact and demonstrate techniques to maximise this effect.",
               "explanation": ""
             },
             {
-              "statement": "I can rig any sailing boat including optimizing",
+              "statement": "I have a good understanding of the merits of different anchor types for different locations and conditions.",
+              "explanation": "The Scout should explain the merits of different types of anchor in different circumstances and identify the type of anchor best suited to local waters. This may require identifying more than one type of anchor if different seabed conditions exist in various parts of the groups Day Cruising waters."
+            },
+            {
+              "statement": "I can carry our MOB and capsize drills in test conditions.",
+              "explanation": ""
+            },
+            {
+              "statement": "I know what sound signals the most common types of vessel in my area should make.",
+              "explanation": "The Scout should demonstrate knowledge of the various sound signals (fog signals and general sound signals for manoeuvring) that may be used by the types of vessel the Scout is likely to encounter in the Groups Day Cruising Waters."
+            },
+            {
+              "statement": "I have researched at least five pieces of weather lore.",
+              "explanation": "The Scout should demonstrate knowledge of at least five pieces of weather lore (Red sky at night..., spiders spinning webs...). Their knowledge should include an evaluation as to how useful any piece of weather lore might be in predicting the local weather."
+            },
+            {
+              "statement": "I am familiar with ‘Day Cruising Waters’ for my group.",
+              "explanation": "The Scout should demonstrate knowledge of the extent of Day Cruising Waters for their group and the various features of it including, but not limited to; ports of refuge, man-made and natural hazards, shipping lanes and channels."
+            },
+            {
+              "statement": "I can use the information from a charts etc. to plan an expedition in restricted waters.",
+              "explanation": "The Scout should use information from published and informal sources to produce an expedition plan. This plan would include launch and recovery sites, camp sites, sources of fresh water and supplies, tidal streams and ranges, ports of refuge, emergency plans, inventory lists etc. At this stage a scout might consider obtaining the ISA Small Boat Navigation Certificate or equivalent."
+            },
+            {
+              "statement": "I have an understanding of the ‘capture effect’ as it applies to marine VHF.",
+              "explanation": "The Scout should explain their understanding of the Capture effect and how it may impact on communications."
+            },
+            {
+              "statement": "I can demonstrate the rope work required for this stage.",
+              "explanation": "The Scout should demonstrate the previous knots in use as well as demonstrating a short splice, jury-rig knot, double sheet-bend in use."
+            },
+            {
+              "statement": "I have taken part in ten full-day exercises afloat.",
+              "explanation": ""
+            },
+            {
+              "statement": "I have taken part in one overnight expedition involving more than one boat.",
+              "explanation": ""
+            },
+            {
+              "statement": "I have instructed at least four people in at least seven of the areas up to stage 6.",
               "explanation": ""
             }
           ]
@@ -2129,15 +3620,75 @@
           "stageNumber": 9,
           "competencies": [
             {
-              "statement": "I have taken part in ten full-day exercises afloat",
+              "statement": "I can rig any sailing boat and identify all the parts.",
               "explanation": ""
             },
             {
-              "statement": "I have taken part in one overnight expedition afloat outside my normal boating waters",
+              "statement": "I can carry out all the sailing manoeuvres required for this stage to a very high standard.",
+              "explanation": "The Scout should demonstrate an ability to carry out all the manoeuvres previously mentioned to a very high standard including demonstrating constant attention to the five essentials."
+            },
+            {
+              "statement": "I can use an outboard engine to manoeuvre a boat while in displacement mode.",
+              "explanation": "The Scout should demonstrate an ability to manoeuvre a sailing boat propelled by an outboard or inboard motor."
+            },
+            {
+              "statement": "I have the skills and knowledge required to spend a night on board or camping.",
+              "explanation": "Depending on the nature of vessel available the scout may chose to overnight aboard (underway or not) or camp in a suitable location ashore."
+            },
+            {
+              "statement": "I can anchor a boat efficiently to two anchors.",
+              "explanation": "The Scout should demonstrate an ability to lay a boat to two anchors either for added security or to reduce scope."
+            },
+            {
+              "statement": "I can jury-rig a sailing boat, improvise and deploy a sea anchor and know what spares and tools should be carried aboard.",
+              "explanation": "The Scout should explain what spares and tools should be carried aboard in safe enclose, restricted or day cruising waters. The Scout should also demonstrate an ability to improvise a sea-anchor from materials which could be expected aboard a sailing boat. The Scout should explain when and why to use a sea-anchor. The Scout should demonstrate an ability to Jury-rig a sailing boat while under way demonstrating an understanding of sail balance and the forces which may be applied to strong-points etc."
+            },
+            {
+              "statement": "I have completed the requirement for the Emergencies Skills Stage 7.",
               "explanation": ""
             },
             {
-              "statement": "I have instructed at least four people in at least six of the areas up to",
+              "statement": "I know how to interact with the emergency services.",
+              "explanation": "The Scout should demonstrate knowledge of how to communicate with the emergency services using both communications technology and visual signals. The Scout should demonstrate an understanding of what information the emergency services might need in an emergency situation."
+            },
+            {
+              "statement": "I know what sound signals the most common types of vessel in my area should make.",
+              "explanation": ""
+            },
+            {
+              "statement": "I can identify the type, aspect and behaviour of vessels by day or night from lights, shapes and sounds.",
+              "explanation": "The Scout should demonstrate their knowledge of lights, day shapes and sounds and what information they give regarding the vessel."
+            },
+            {
+              "statement": "I know the procedure for entry to and departure from a harbour and understand the requirement to file a passage plan under SOLAS regulations.",
+              "explanation": ""
+            },
+            {
+              "statement": "I can complete a rough synoptic chart from a maritime weather forecast or similar data and use this information to make sound decisions on planned activities in view of expected weather and sea conditions.",
+              "explanation": "The Scout should demonstrate an ability to construct an approximate synoptic chart from the data given in the wide area shipping forecast broadcast by the BBC. This chart should give the approximate position of any cyclones and anti-cyclones as well as any weather fronts."
+            },
+            {
+              "statement": "I am familiar with any local rules and bylaws that apply to Day Cruising Waters for my group.",
+              "explanation": "The Scout should demonstrate their knowledge of any rules any bylaws concerning boating in Day Cruising Waters. This may include areas of restricted activity, speed limits, restrictions on times of operation and craft given stand-on privilege, among others."
+            },
+            {
+              "statement": "I can devise a pilot/passage plan and programme that plan into a GPS.",
+              "explanation": ""
+            },
+            {
+              "statement": "I can demonstrate the rope work required for this stage.",
+              "explanation": "The Scout should demonstrate the previous knots in use as well as demonstrating the Bowline-on-the-bight and sheep shank."
+            },
+            {
+              "statement": "I have taken part in ten full-day exercises afloat.",
+              "explanation": ""
+            },
+            {
+              "statement": "I have taken part in an overnight expedition in coastal waters.",
+              "explanation": ""
+            },
+            {
+              "statement": "I have instructed at least four people in at least five of the areas up to stage 8.",
               "explanation": ""
             }
           ]
