@@ -10,6 +10,10 @@ export function Footer() {
             <span>Built with Next.js 16</span>
             <span>•</span>
             <span>Powered by AI</span>
+            <span>•</span>
+            <a href="mailto:info@armaria.club" className="hover:text-blue-600 transition-colors">
+              info@armaria.club
+            </a>
           </div>
         </div>
       </div>
