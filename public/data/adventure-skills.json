@@ -782,56 +782,57 @@
           "stageNumber": 1,
           "competencies": [
             {
-              "statement": "I know what equipment is needed for making pioneering gadgets",
+              "statement": "I know what equipment is needed for making pioneering gadgets.",
               "explanation": "The Scout should be able to list and explain the use of various pieces of equipment used in the construction of simple small pioneering projects; Poles and staves; Ropes and sisal for lashing;"
             },
             {
-              "statement": "I know how to build a gadget using elastic band techniques",
+              "statement": "I know how to build a gadget using elastic band techniques.",
               "explanation": "The Scout should build a series of gadgets using elastic bands and bamboo poles. Pioneering structure techniques need to be observed in the building structure; Simple tripod frame; Patrol Flagpole; Pot stand"
             },
             {
-              "statement": "I can be responsible for myself while we are pioneering",
-              "explanation": "The Scout needs to show an awareness of what is happening around himself/herself. The need for care and safety and awareness of others and what they are doing should be evident in their behavior. I understand why I should follow directions from an instructor. The Scout should know about the importance of listening to the instructor so that they are aware of what to do and the dangers of doing things that they don’t fully understand."
+              "statement": "I can be responsible for myself while we are pioneering.",
+              "explanation": "The Scout needs to show an awareness of what is happening around himself/herself. The need for care and safety and awareness of others and what they are doing should be evident in their behavior."
             },
             {
-              "statement": "I have built at least two simple pioneering gadgets",
-              "explanation": "The Scout should have participated in the construction of at least two simple pioneering gadgets perhaps constructed on a camping adventure or as part of a pioneering activity. ndb 34 The Scout should have participated in the construction of at least three simple pioneering gadgets perhaps constructed on a camping adventure or as part of a pioneering activity. The Scout should be showing a progression of skills in the construction of these simple projects."
+              "statement": "I understand why I should follow directions from an instructor.",
+              "explanation": "The Scout should know about the importance of listening to the instructor so that they are aware of what to do and the dangers of doing things that they don’t fully understand."
             },
             {
-              "statement": "I know how to get help if someone is hurt",
-              "explanation": "The Scout needs to show an ability to recognize that someone is hurt and needs help. The Scout should also know how to get help and by what means. How to recognize that someone is hurt. How to compare injured parts with uninjured parts. Methods of getting help. Methods of caring for someone that is hurt ."
+              "statement": "I have built at least two simple pioneering gadgets.",
+              "explanation": "The Scout should have participated in the construction of at least two simple pioneering gadgets perhaps constructed on a camping adventure or as part of a pioneering activity."
+            }
+          ]
+        },
+        {
+          "stageNumber": 2,
+          "competencies": [
+            {
+              "statement": "I know how to get help if someone is hurt.",
+              "explanation": "The Scout needs to show an ability to recognize that someone is hurt and needs help. The Scout should also know how to get help and by what means. How to recognize that someone is hurt. How to compare injured parts with uninjured parts. Methods of getting help. Methods of caring for someone that is hurt."
             },
             {
-              "statement": "I can tie the basic knots I need for pioneering",
+              "statement": "I can tie the basic knots I need for pioneering.",
               "explanation": "The Scout should be able to tie under supervision and use: clove hitch, reef knot, square lashing tripod lashing, diagonal and sheer lashings."
             },
             {
-              "statement": "I can prepare ropes for use in pioneering",
+              "statement": "I can prepare ropes for use in pioneering.",
               "explanation": "The Scout needs to be observed doing or assisting others in selecting ropes for a pioneering project. ( Reference Scouting Trail Pages 178)"
             },
             {
-              "statement": "I can coil a rope",
+              "statement": "I can coil a rope.",
               "explanation": "The Scout should be able to coil a rope so it will not twist or curl. (Underarm coiling should not be encouraged as it causes the rope to twist and curl). The Scout should also be able to ‘finish’ off the end of the coil so it can be carried and stored."
             },
             {
-              "statement": "I can undertake tasks assigned to me while we are pioneering",
+              "statement": "I can undertake tasks assigned to me while we are pioneering.",
               "explanation": "The Scout needs to be observed in action over a number of a pioneering project."
             },
             {
-              "statement": "I have made a knot board",
+              "statement": "I have made a knot board.",
               "explanation": "The Scout will have made a simple knot board for his/her Lodge/Six/Patrol Corner. The knot board should display at least six basic knots of their choice."
             },
             {
-              "statement": "I have built at least three simple pioneering gadgets using elastic band techniques. 34 15/02/2010 21:47:16",
-              "explanation": "Pioneering Respect farm animals and wildlife. Minimise camping impact and the effects of fire. Be considerate of others. Travel and camp on durable surfaces. Leave what you find.. Plan ahead and prepare."
-            },
-            {
-              "statement": "I have taught other scouts how to tie some basic knots",
-              "explanation": "This is best observed in actions during a pioneering activity. The Scout should be supportive and help the younger Scout become proficient at tying knots of all kinds."
-            },
-            {
-              "statement": "I have built at least two gadgets using ropes",
-              "explanation": ""
+              "statement": "I have built at least three simple pioneering gadgets using elastic band techniques.",
+              "explanation": "The Scout should have participated in the construction of at least three simple pioneering gadgets perhaps constructed on a camping adventure or as part of a pioneering activity. The Scout should be showing a progression of skills in the construction of these simple projects."
             }
           ]
         },
@@ -839,12 +840,28 @@
           "stageNumber": 3,
           "competencies": [
             {
-              "statement": "I know what equipment I need for making various pioneering gadgets",
+              "statement": "I know what equipment I need for making various pioneering gadgets.",
               "explanation": "The Scout will explain how to choose a suitable project with the skills of the Patrol in mind and the key steps necessary to enable it to be built safely. Preparation and planning skills. Preparing an equipment list. Listing the main pioneering elements in a structure."
             },
             {
-              "statement": "I know how to treat basic cuts and scratches",
-              "explanation": "Scouts need to talk themselves through the process of treatment. This demonstration/talk can be done in a practical way on a volunteer. How to clean the wound."
+              "statement": "I know how to treat basic cuts and scratches.",
+              "explanation": "Scouts need to talk themselves through the process of treatment. This demonstration/talk can be done in a practical way on a volunteer. How to clean the wound. How to reassure the casualty. How to apply a bandage."
+            },
+            {
+              "statement": "I know about the safety precautions that are needed when pioneering.",
+              "explanation": "The Scout should know how a structure is built and discuss possible danger points and what to do to avoid accidents during an activity. The use of hard hats. How a heavy load might be lifted. How to use guy ropes for security. Discuss how a project is constructed. Be able to identify danger points in the build process."
+            },
+            {
+              "statement": "I am aware of the Leave No Trace principles.",
+              "explanation": "Scouts should demonstrate an understanding of the key points in a practical way in a camp situation. Dispose of waste properly. Respect farm animals and wildlife. Minimise camping impact and the effects of fire. Be considerate of others. Travel and camp on durable surfaces. Leave what you find. Plan ahead and prepare."
+            },
+            {
+              "statement": "I have taught other scouts how to tie some basic knots.",
+              "explanation": "This is best observed in actions during a pioneering activity. The Scout should be supportive and help the younger Scout become proficient at tying knots of all kinds."
+            },
+            {
+              "statement": "I have built at least two gadgets using ropes and poles.",
+              "explanation": "The Scout should have participated in the construction of at least two simple pioneering gadgets perhaps constructed on a camping adventure or as part of a pioneering activity. The Scout should be showing a progression of skill in the construction of these simple projects."
             }
           ]
         },
@@ -852,52 +869,48 @@
           "stageNumber": 4,
           "competencies": [
             {
-              "statement": "I know about the safety precautions that are needed when pioneering",
-              "explanation": "The Scout should know how a structure is built and discuss possible danger points and what to do to avoid accidents during an activity. The use of hard hats. How a heavy load might be lifted. How to use guy ropes for security. Discuss how a project is constructed. Be able to identify danger points in the build process. I am aware of the Leave No Trace principles. Scouts should demonstrate an understanding of the key points in a practical way in a camp situation. Dispose of waste properly. ndb 35"
-            },
-            {
-              "statement": "I know how to take care of ropes of all kinds",
-              "explanation": "The Scout should be able to talk about ropes and demonstrate how to look for damage and care for ropes by not over straining. The Scout should be able to coil large ropes and prepare them for storage. Coil a rope. Know how to check rope for fraying, grit, over straining, friction burns. Discuss how to clean a rope. Demonstrate how to coil a heavy rope and tie it up for storage."
-            },
-            {
-              "statement": "I know how to tie the knots necessary for building rope and pole structures safely",
-              "explanation": "The Scout should be able to demonstrate through the building of a structure all the pioneering knots and lashings, attachment of safety ropes and guys, how to tie off securely to an anchor. Clove hitch, round turn and two halve hitches, square, diagonal, sheer, tripod lashing, Norwegian lashing, figure of eight loop, sheet bend."
-            },
-            {
-              "statement": "I know the safety precautions to be observed for the safe lifting of pioneering spars",
-              "explanation": "The Scout should be able to discuss the method used to lift a pioneering pole to a height and demonstrate the procedure during the construction of a project. Demonstrate how a sheer legs is constructed and used to aid lifting. Demonstrate how a single pole can be used for leverage with the aid of a rope. Discuss the arrangement and management of a lift Care area and fall space of a structure."
-            },
-            {
-              "statement": "I can use guys to make a pioneering gadgets stable",
-              "explanation": "The Scout should show an understanding of why guys will be necessary and why the structure will need to be secured. The Scout should then set up guy ropes on a structure before it is raised and lead the securing of those guys using pegs or pickets."
-            },
-            {
-              "statement": "I can tie the main lashings necessary to make most pioneering gadgets. ndb 36",
-              "explanation": ""
-            },
-            {
-              "statement": "I know the correct use, care, and storage of the tools we use in pioneering",
+              "statement": "I know the correct use, care, and storage of the tools we use in pioneering.",
               "explanation": "The Scout needs to show an awareness of the tools likely to be used in pioneering activities, how these tools are used and cared for so that they are working properly. List the tools necessary for pioneering - saw, knife, mallet, spade, sledge hammer. Demonstrate how to use each tool safely. Demonstrate how to clean, care for and store tools when not in use."
             },
             {
-              "statement": "I know the different types of ropes used in pioneering",
-              "explanation": "The Scout should be able to ‘size’ a rope and select the right ropes to use for different elements of a pioneering project. Know the difference between natural and synthetic rope. 35 15/02/2010 21:47:16 The Scout will demonstrate that they can tie the proper lashing associated with a pioneering structure correctly."
+              "statement": "I know the different types of ropes used in pioneering.",
+              "explanation": "The Scout should be able to ‘size’ a rope and select the right ropes to use for different elements of a pioneering project. Know the difference between natural and synthetic rope."
             },
             {
-              "statement": "I know the basic components of pioneering structures and how to make them",
+              "statement": "I know how to take care of ropes of all kinds.",
+              "explanation": "The Scout should be able to talk about ropes and demonstrate how to look for damage and care for ropes by not over straining. The Scout should be able to coil large ropes and prepare them for storage. Coil a rope. Know how to check rope for fraying, grit, over straining, friction burns. Discuss how to clean a rope. Demonstrate how to coil a heavy rope and tie it up for storage."
+            },
+            {
+              "statement": "I know how to tie the knots necessary for building rope and pole structures safely.",
+              "explanation": "The Scout should be able to demonstrate through the building of a structure all the pioneering knots and lashings, attachment of safety ropes and guys, how to tie off securely to an anchor. Clove hitch, round turn and two halve hitches, square, diagonal, sheer, tripod lashing, Norwegian lashing, figure of eight loop, sheet bend."
+            },
+            {
+              "statement": "I know the safety precautions to be observed for the safe lifting of pioneering spars.",
+              "explanation": "The Scout should be able to discuss the method used to lift a pioneering pole to a height and demonstrate the procedure during the construction of a project. Demonstrate how a sheer legs is constructed and used to aid lifting. Demonstrate how a single pole can be used for leverage with the aid of a rope. Discuss the arrangement and management of a lift. Care area and fall space of a structure."
+            },
+            {
+              "statement": "I can use guys to make a pioneering gadgets stable.",
+              "explanation": "The Scout should show an understanding of why guys will be necessary and why the structure will need to be secured. The Scout should then set up guy ropes on a structure before it is raised and lead the securing of those guys using pegs or pickets."
+            },
+            {
+              "statement": "I can tie the main lashings necessary to make most pioneering gadgets.",
+              "explanation": "The Scout will demonstrate that they can tie the proper lashing associated with a pioneering structure correctly."
+            },
+            {
+              "statement": "I know the basic components of pioneering structures and how to make them.",
               "explanation": "The Scout should know the basic elements that are combined to make pioneering structures – ‘A frames’, ‘Trestles’, Tripods, H frames. The Scout should also be able to demonstrate on a pioneering structure or via drawing the components present in a structure. Lastly, the Scout should be able to construct the components and discuss the need for uniformity and stability in their construction."
             },
             {
-              "statement": "I can be responsible for myself while pioneering",
+              "statement": "I can be responsible for myself while pioneering.",
               "explanation": "This requirement implies that a Scout has some experience and is aware of how they should act, be responsible for their actions while working on a pioneering project. This is best demonstrated in a pioneering situation where the Scouts can be observed in action."
             },
             {
-              "statement": "I have built gadgets on camp and assisted my ‘team’ in building a tower or bridge",
+              "statement": "I have built gadgets on camp and assisted my ‘team’ in building a tower or bridge.",
               "explanation": "The Scout, as part of a team, will have been involved in the construction of a number of projects. The Scout will discuss the steps required to build a structure. (Medium size projects are considered to be structures: Bridge and towers that are of simple construction design and low level height (approx 3 metres high). They will be capable of being built by a Patrol without too much adult intervention.) Choose a project or design a project. Plan how it is to be build. Identify the pioneering elements in its construction. Manage the build and deconstruction of a project."
             },
             {
-              "statement": "I know how to select suitable poles and spars for a pioneering project. 36 15/02/2010 21:47:17",
-              "explanation": "Pioneering The Scout needs to be aware that living and walking through open countryside has an impact of some kind and that we need to minimize this intrusion. The Scout should suggest best practice and discuss how to minimize impact while also enjoying the outdoor experience. Of particular concern is disturbance of river bed. Cutting and pruning of overhead branches."
+              "statement": "I know how to select suitable poles and spars for a pioneering project.",
+              "explanation": ""
             }
           ]
         },
@@ -905,35 +918,43 @@
           "stageNumber": 5,
           "competencies": [
             {
-              "statement": "I know how to treat cuts and sprains,",
+              "statement": "I know how to select suitable poles and spars for a pioneering project.",
+              "explanation": "The Scout needs to be observed directing his/her Patrol in the selection of pioneering poles for a project. Demonstrate how to choose suitable poles. List the ropes, lengths and sizes, required for a project."
+            },
+            {
+              "statement": "I know how to treat cuts and sprains.",
               "explanation": "Scouts need to talk themselves through the process of treatment. This demonstration/talk can be done in a practical way on a volunteer. State the rules of First aid. Demonstrate how to treat a minor cut. Discuss how they would know a bone is broken. Discuss how they would take care of the victim. Discuss what they would tell a medical person when summoning help."
             },
             {
-              "statement": "I can help a younger Scout to build a pioneering gadget",
+              "statement": "I can help a younger Scout to build a pioneering gadget.",
               "explanation": "This is best observed in action during the construction of a pioneering project. The Scout should be supportive and help the younger Scout achieve his objective. The younger Scout may be doing this project as part of their pioneering badge requirement."
             },
             {
-              "statement": "I know what to do in case of an accident and how to be safety conscious",
+              "statement": "I know what to do in case of an accident and how to be safety conscious.",
               "explanation": "The Scout needs to show an ability to recognize that someone is hurt and needs help. They must indicate care for the injured party before departure for help. They should also know how to get help and by what means. How to recognize that someone is hurt. How to compare injured parts with uninjured parts. Methods of getting help. Methods of caring for someone that is hurt."
             },
             {
-              "statement": "I know all about the ‘Leave No Trace’ principles. ndb 37",
+              "statement": "I know all about the ‘Leave No Trace’ principles.",
+              "explanation": "The Scout needs to be aware that living and walking through open countryside has an impact of some kind and that we need to minimize this intrusion. The Scout should suggest best practice and discuss how to minimize impact while also enjoying the outdoor experience. Of particular concern is disturbance of river bed. Cutting and pruning of overhead branches."
+            },
+            {
+              "statement": "I can set up a simple pulley system for lifting and tensioning ropes.",
+              "explanation": "The Scout needs to be aware of the recommended pulley combinations suggested for a project and explain why this combination is used. The Scout should also be able to discuss how a project is built in a safe manner using pulleys to assist in lifting loads and assembling the various elements of a project."
+            },
+            {
+              "statement": "I can coil, whip and splice a rope.",
+              "explanation": "The Scout will demonstrate this skill by making a personal length of rope whipped at one end and an eye spice created at the other."
+            },
+            {
+              "statement": "I am aware of the building process/ procedure while pioneering.",
               "explanation": ""
             },
             {
-              "statement": "I can coil, whip and splice a rope",
-              "explanation": "The Scout will demonstrate this skill by making a personal length of rope whipped at one end and an eye spice created at the other. I am aware of the building process/ procedure while pioneering."
-            },
-            {
-              "statement": "I have taken part in the construction of at least two pioneering projects",
+              "statement": "I have taken part in the construction of at least two pioneering projects.",
               "explanation": "The Scout, as part of a team, will have been involved in the construction of a number of projects. The Scout will discuss the steps required to build a structure. (Large scale projects are considered to be structures bridges and towers that have sizeable design elements and may require the use of pulleys for tensioned rope work. (approx 3 meters high). They will be capable of being built by a Patrol but will require adult help in lifting and pulling project into place ) Choose a project or design a project. Plan how it is to be built. Identify the pioneering elements in its construction. Manage the build and deconstruction of a project."
             },
             {
-              "statement": "I know how to plan and construct pioneering projects to be built within my Patrol. 37 15/02/2010 21:47:17 discuss possible danger points and what to do to avoid accidents during an activity",
-              "explanation": "The use of hard hats. How a heavy load might be lifted. Be able to identify danger points in the build and lift process."
-            },
-            {
-              "statement": "I know the best types of anchorage to use",
+              "statement": "I know how to plan and construct pioneering projects to be built within my Patrol.",
               "explanation": ""
             }
           ]
@@ -942,36 +963,40 @@
           "stageNumber": 6,
           "competencies": [
             {
-              "statement": "I know how to reeve up, use and safely secure pulleys in pioneering projects",
+              "statement": "I know how to plan and construct pioneering projects to be built within my Patrol.",
+              "explanation": "The Scout, as part of a team, will have been involved in the construction of a number of projects. The Scout will discuss the steps required to build a structure. The Scout will have completed a number of projects with their patrol and be observed doing so. Choose a project or design a project. Plan how it is to be built. Identify the pioneering elements in its construction. Manage the build and deconstruction of a project."
+            },
+            {
+              "statement": "I know how to reeve up, use and safely secure pulleys in pioneering projects.",
               "explanation": "The Scout should demonstrate how to reeve up a single and double pulley arrangement on a project under construction and secure it safely. Reeve up a simple pulley system and lift a weight. Show how the pulley is secured to an anchor point. Discuss how the ratio of pulleys are calculated."
             },
             {
-              "statement": "I can be responsible for my Team while building pioneering projects",
+              "statement": "I can be responsible for my Team while building pioneering projects.",
               "explanation": "This requirement implies that a Scout has some experience and is aware of how they should act, lead and be responsible for a Team working on a pioneering project. This is best demonstrated in a pioneering situation where the Scouts can be observed in action."
             },
             {
-              "statement": "I know the correct lifting techniques for raising a tower or an A frame",
-              "explanation": "The Scout should be able to manage and direct a team in the safe lifting of a tower using two differe methods: Shear leg assist. Guy ropes and footing principles. Higher than project belay. Discuss the arrangement and management of a lift. Care area and fall space of a structure. The Scout should know how a structure is built and ndb 38 use of pulleys for tensioned rope work. (approx 3 meters high). They will be capable of being built by a Patrol but will require adult help in lifting and pulling the project into place ) Choose a project or design a project. Plan how it is to be built. Identify the pioneering elements in its construction. Manage the build and deconstruction of a project"
+              "statement": "I know the correct lifting techniques for raising a tower or an A frame.",
+              "explanation": "The Scout should be able to manage and direct a team in the safe lifting of a tower using two different methods: Shear leg assist. Guy ropes and footing principles. Higher than project belay. Discuss the arrangement and management of a lift. Care area and fall space of a structure. The Scout should know how a structure is built and discuss possible danger points and what to do to avoid accidents during an activity. The use of hard hats. How a heavy load might be lifted. Be able to identify danger points in the build and lift process."
             },
             {
-              "statement": "I know how to inspect for damage, care for and store ropes, pulleys and poles",
-              "explanation": ""
+              "statement": "I know the best types of anchorage to use for a project and can use them.",
+              "explanation": "The Scout should be able to construct the following 3 - 2 - 1. Log and picket. Dead man’s anchor. Fixed tree anchorages. Know when to use them and be able to demonstrate their construction. Demonstrate how to protect a tree if using as an anchor point."
             },
             {
-              "statement": "I can lead the construction of an element of a structure",
+              "statement": "I can lead the construction of an element of a structure.",
               "explanation": "The Scout needs to demonstrate an understanding of the leadership and management of the building of a structure and suggest the best ways of using structures as part of the scout programme. Discuss the control of a pioneering structure. List the regular safety check that need to be performed. Discuss the construction steps. Lead the construction of a structure under mentor supervision."
             },
             {
-              "statement": "I have taught a younger Scout how to tie the lashings necessary for a pioneering project",
+              "statement": "I have taught a younger Scout how to tie the lashings necessary for a pioneering project.",
               "explanation": "This is best observed in action during a pioneering activity. The Scout should be supportive and help the younger Scout become proficient at tying knots and lashing correctly."
             },
             {
-              "statement": "I have taken part in the construction of at least two large scale pioneering projects. nt",
-              "explanation": "The Scout, as part of a team, will have been involved in the construction of a number of projects. The Scout will discuss the steps required to build a structure. (Large scale projects are considered to be: structures, bridges and towers that have sizeable design elements and may require the 38 15/02/2010 21:47:17 Pioneering Higher than project belay. Discuss the arrangement and management of a lift. Care area and fall space of a structure. The Scout should know how a structure is built and discuss possible danger points and what to do to avoid accidents during an activity. The use of hard hats. How a heavy load might be lifted. Be able to identify danger points in the build and lift process."
+              "statement": "I have taken part in the construction of at least two large scale pioneering projects.",
+              "explanation": "The Scout, as part of a team, will have been involved in the construction of a number of projects. The Scout will discuss the steps required to build a structure. (Large scale projects are considered to be: structures, bridges and towers that have sizeable design elements and may require the use of pulleys for tensioned rope work. (approx 3 meters high). They will be capable of being built by a Patrol but will require adult help in lifting and pulling the project into place ) Choose a project or design a project. Plan how it is to be built. Identify the pioneering elements in its construction. Manage the build and deconstruction of a project."
             },
             {
-              "statement": "I know how to plan and execute the build of a project",
-              "explanation": "The Scout, as part of a team, will have been involved in the construction of a number of projects. The Scout will discuss the steps required to build a structure. Choose a project or design a project. Plan how it is to be built. Identify the pioneering elements in its construction. Manage the build and deconstruction of a project."
+              "statement": "I know how to inspect for damage, care for and store ropes, pulleys and poles.",
+              "explanation": ""
             }
           ]
         },
@@ -979,20 +1004,28 @@
           "stageNumber": 7,
           "competencies": [
             {
-              "statement": "I know the importance of safety at all stages of construction, use and dismantling of a pioneering structure",
-              "explanation": "The Scout will demonstrate this skill be being observed in the construction and dismantling of a number of large pioneering structures. (Scouting Trail Page 211 Be Prepared ‘Emergencies’ chapter.) The Scout should be able to manage and direct a team in the safe lifting of a tower using two differe methods: Shear leg assist. Guy ropes and footing principles. ndb 39"
+              "statement": "I know how to inspect for damage, care for and store ropes, pulleys and poles.",
+              "explanation": "The Scout needs to display an interest in ropes. The Scout should be able to check, manage and care for equipment. Coil a rope. Know how to check rope for fraying, grit, over straining, friction burns. Discuss how to clean a rope, pulleys. Demonstrate how to coil a heavy rope and tie it up for storage. Discuss how to check soundness of pioneering poles."
             },
             {
-              "statement": "I can check the safety of all knots and lashings used in a pioneering project",
+              "statement": "I know the importance of safety at all stages of construction, use and dismantling of a pioneering structure.",
+              "explanation": "The Scout will demonstrate this skill be being observed in the construction and dismantling of a number of large pioneering structures. (Scouting Trail Page 211 Be Prepared ‘Emergencies’ chapter.) The Scout should be able to manage and direct a team in the safe lifting of a tower using two different methods: Shear leg assist. Guy ropes and footing principles. Higher than project belay. Discuss the arrangement and management of a lift. Care area and fall space of a structure. The Scout should know how a structure is built and discuss possible danger points and what to do to avoid accidents during an activity. The use of hard hats. How a heavy load might be lifted. Be able to identify danger points in the build and lift process."
+            },
+            {
+              "statement": "I know how to plan and execute the build of a project.",
+              "explanation": "The Scout, as part of a team, will have been involved in the construction of a number of projects. The Scout will discuss the steps required to build a structure. Choose a project or design a project. Plan how it is to be built. Identify the pioneering elements in its construction. Manage the build and deconstruction of a project."
+            },
+            {
+              "statement": "I can check the safety of all knots and lashings used in a pioneering project.",
               "explanation": "The Scout needs to have extensive experience of knot tying and be able to discuss the qualities of good knot tying and how it affects safety of a structure."
             },
             {
-              "statement": "I have lead the construction of at least one large scale pioneering project",
+              "statement": "I have lead the construction of at least one large scale pioneering project.",
               "explanation": "The Scout should have lead the construction of a number of complex pioneering structures and be observed in action before they should undertake the leadership of a large project."
             },
             {
-              "statement": "I know how to build a project safely. nt 39 15/02/2010 21:47:17",
-              "explanation": "The Scout should be aware of the need for proper belaying of structures and personnel while building a structure. This belaying skill should also be demonstrated in rock climbing or tree climbing situations. Set up a multi point belay. Demonstrate how to belay and protect a person. Be able to use a climbing harness."
+              "statement": "I know how to build a project safely.",
+              "explanation": ""
             }
           ]
         },
@@ -1000,31 +1033,31 @@
           "stageNumber": 8,
           "competencies": [
             {
-              "statement": "I can lead the construction of at least two projects and manage them safety",
-              "explanation": "The Scout should have lead the construction of a number of simple pioneering structures and be observed in action in the leadership of a large project. The Scout needs to demonstrate an understanding of the leadership and management of the building of a structure and suggest the best ways of using structures as part of the Scout Programme. Safety has to be to the fore in the mind of the Scout as he/ she discusses how they would go about fulfilling this requirement. Discuss the control of a pioneering structure List the regular safety checks that need to be performed. Discuss the construction steps. Lead the construction and deconstruction of a project."
+              "statement": "I can check the safety of all knots and lashings used in a pioneering project.",
+              "explanation": "The Scout needs to have extensive experience of knot tying and be able to discuss the qualities of good knot tying and how it affects safety of a structure. The Scout needs to demonstrate an understanding of the leadership and management of the building of a structure. Discuss the control of a pioneering structure. List the regular safety checks that need to be performed. Discuss the construction steps. Scouting Trail ‘Ropework’ and ‘Scout Engineering’ chapter and Sea Scout Book Pages 28-36."
             },
             {
-              "statement": "I know how to set up and manage a belay on pioneering or climbing structures. ndb 40",
-              "explanation": ""
+              "statement": "I can lead the construction of at least two projects and manage them safety.",
+              "explanation": "The Scout should have lead the construction of a number of simple pioneering structures and be observed in action in the leadership of a large project. The Scout needs to demonstrate an understanding of the leadership and management of the building of a structure and suggest the best ways of using structures as part of the Scout Programme. Safety has to be to the fore in the mind of the Scout as he/she discusses how they would go about fulfilling this requirement. Discuss the control of a pioneering structure. List the regular safety checks that need to be performed. Discuss the construction steps. Lead the construction and deconstruction of a project."
             },
             {
-              "statement": "I know how to use safety harnesses and securely tie off rock climbing harnesses",
+              "statement": "I know how to set up and manage a belay on pioneering or climbing structures.",
+              "explanation": "The Scout should be aware of the need for proper belaying of structures and personnel while building a structure. This belaying skill should also be demonstrated in rock climbing or tree climbing situations. Set up a multi point belay. Demonstrate how to belay and protect a person. Be able to use a climbing harness. Be able to use a stitch plate and figure of eight descendure."
+            },
+            {
+              "statement": "I know how to use safety harnesses and securely tie off rock climbing harnesses.",
               "explanation": "The Scout needs to be familiar with safety harnesses and how to use them. In the use of harnesses the Scout should know how to tie off and secure a safety harness using a figure of eight or bowline knot and how carabiners are used in such situations. The Scout should also be able to set up and manage a safety belay – (higher than element belay)."
             },
             {
-              "statement": "I know how to secure rope structures and high wire elements",
+              "statement": "I know how to secure rope structures and high wire elements.",
               "explanation": "The Scout should have experience of erecting rope structures and high wire elements and be able to discuss how to secure users of these structures while in use via above structure belay mechanisms and methods. Knowledge of belay and safety rope procedures. Discuss higher than element belaying. Demonstrate how to hold a person that has fallen and bring to safety."
             },
             {
-              "statement": "I have an outdoor First Aid certificate",
+              "statement": "I have an outdoor First Aid certificate.",
               "explanation": ""
             },
             {
-              "statement": "I know how to design and construct large scale scout engineering projects. 40 15/02/2010 21:47:18",
-              "explanation": "Pioneering The Scout should know how a structure is built and discuss possible danger points and what to do to avoid accidents during an activity."
-            },
-            {
-              "statement": "I can be responsible for ensuring large scale projects happen safely, and that those",
+              "statement": "I know how to design and construct large scale scout engineering projects.",
               "explanation": ""
             }
           ]
@@ -1033,12 +1066,20 @@
           "stageNumber": 9,
           "competencies": [
             {
-              "statement": "I know the importance of safety at all stages of construction, build, use and dismantling of a project",
-              "explanation": "This requirement implies that a Scout has some experience and is aware of how they should act, lead and be responsible for a Group working on a pioneering project. This is best demonstrated in a pioneering situation where the Scouts can be observed in action. •        Guy ropes and footing principles. •        Higher than project belay. •        Discuss the arrangement and management of a lift. Care area and fall space of a structure. •        The use of hard hats. •        How a heavy load might be lifted. •        Be able to identify danger points in the build lift process."
+              "statement": "I know how to design and construct large scale scout engineering projects.",
+              "explanation": "The Scout should discuss how structures are built with reference to good design, stability and use of pioneering components. Knowledge of pioneering elements. Diagonal bracing. Testing procedures of a structure."
             },
             {
-              "statement": "I know how to control and supervise the construction of a pioneering structure and its use in programme",
-              "explanation": "The Scout should have lead the construction of a number of simple pioneering structures and be observed in action in the leadership of a large project. The Scout will demonstrate this skill be being observed in the construction and dismantling of a number of large pioneering structures. The Scout should be able to manage and direct a team in the safe lifting of a tower using two different methods. ndb 41 42 ndb 42                    15/02/2010 21:47:19"
+              "statement": "I know the importance of safety at all stages of construction, build, use and dismantling of a project.",
+              "explanation": "This requirement implies that a Scout has some experience and is aware of how they should act, lead and be responsible for a Group working on a pioneering project. This is best demonstrated in a pioneering situation where the Scouts can be observed in action. Guy ropes and footing principles. Higher than project belay. Discuss the arrangement and management of a lift. Care area and fall space of a structure. The use of hard hats. How a heavy load might be lifted. Be able to identify danger points in the build and lift process."
+            },
+            {
+              "statement": "I know how to control and supervise the construction of a pioneering structure and its use in programme.",
+              "explanation": "The Scout should have lead the construction of a number of simple pioneering structures and be observed in action in the leadership of a large project. The Scout will demonstrate this skill be being observed in the construction and dismantling of a number of large pioneering structures. The Scout should be able to manage and direct a team in the safe lifting of a tower using two different methods. The Scout should know how a structure is built and discuss possible danger points and what to do to avoid accidents during an activity."
+            },
+            {
+              "statement": "I can be responsible for ensuring large scale projects happen safely, and that those participating are learning the skills required.",
+              "explanation": "This requirement implies that a Scout has some experience and is aware of how they should act, lead and be responsible for a Patrol working on a pioneering project. This is best demonstrated in a pioneering situation where the Scouts can be observed in action. The Scout needs to demonstrate an understanding of the leadership and management of the building of a structure and suggest the best ways of using structures as part of the Scout programme."
             }
           ]
         }
@@ -1052,44 +1093,48 @@
           "stageNumber": 1,
           "competencies": [
             {
-              "statement": "I can pack my rucksack for a day hike",
+              "statement": "I can pack my rucksack for a day hike.",
               "explanation": "Scouts should indicate in list form the items of clothing they need to bring with them for a hillwalking activity. The necessary equipment to pack and why you need each thing. Where to place soft items. Where to place heavy items. Where to place foodstuffs. What is meant by ‘first in last out’. What wet weather equipment to bring."
             },
             {
-              "statement": "I know what to wear and what extras I need to bring on a hike",
+              "statement": "I know what to wear and what extras I need to bring on a hike.",
               "explanation": "A Scout needs to show an awareness of the hiking environment and display and understanding of how the weather can change very quickly. What items to wear that will be warm. What items to wear if it gets wet. What spare clothes to bring in case I get wet. What items not to wear."
             },
             {
-              "statement": "I know what food to bring on a hike",
-              "explanation": "The Scout needs to be aware of the need for sustaining and energy boosting food types and suggest items they would include in a daily ration fo a hiking activity. What would you bring for lunch. What would you bring for snacks. How would you carry a hot drink ."
+              "statement": "I know what food to bring on a hike.",
+              "explanation": "The Scout needs to be aware of the need for sustaining and energy boosting food types and suggest items they would include in a daily ration for a hiking activity. What would you bring for lunch. What would you bring for snacks. How would you carry a hot drink."
             },
             {
-              "statement": "I know how to behave safely while hiking ",
-              "explanation": "Hiking in wild and mountainous terrain presents a number of difficulties. The Scout should be able to recognize the dangers that might present themselves and offer safety conscious solutions/ rules or procedures. They must also display and awareness as a team member and how their behaviour can affect others. ndb 46"
+              "statement": "I know how to behave safely while hiking.",
+              "explanation": "Hiking in wild and mountainous terrain presents a number of difficulties. The Scout should be able to recognize the dangers that might present themselves and offer safety conscious solutions/ rules or procedures. They must also display and awareness as a team member and how their behaviour can affect others. How to walk carefully over rough ground. How to keep up with others. Be aware of others and don’t mess with equipment. Follow instructions of the hike leader."
             },
             {
-              "statement": "I can point out and name the features of a map",
+              "statement": "I can read a simple map.",
+              "explanation": "The Scout should be able to read a simply drawn map of the general surrounds (Scout Hall, Park, etc). Hold the map the correct way (orientate the map). Follow a simple route around the map."
+            },
+            {
+              "statement": "I can point out and name the features of a map.",
               "explanation": "This should be demonstrated in an outdoor situation, in a practical way with reference to what is seen and a map."
             },
             {
-              "statement": "I can be responsible for myself while we are hiking",
-              "explanation": "The Scout should show an understanding of his/ her position as a member of a team be aware of the possible dangers or difficulties and how they can ensure a safe adventure for all in the Team."
+              "statement": "I can be responsible for myself while we are hiking.",
+              "explanation": "The Scout should show an understanding of his/her position as a member of a team be aware of the possible dangers or difficulties and how they can ensure a safe adventure for all in the Team."
             },
             {
-              "statement": "I can recognise the main distress signals",
+              "statement": "I can recognise the main distress signals.",
               "explanation": "The Scout should be able to recognize the main distress signals when presented to them."
             },
             {
-              "statement": "I know about the Buddy system",
-              "explanation": "The Scout should be able to talk about the buddy system and explain how and why it is used when on the hills. I understand why I should follow directions from an instructor. r The Scout should know about the importance of listening to the instructor so that they are aware of what to do and the dangers of doing things that they don’t fully understand."
+              "statement": "I know about the Buddy system.",
+              "explanation": "The Scout should be able to talk about the buddy system and explain how and why it is used when on the hills."
             },
             {
-              "statement": "I have attended at least two hikes",
-              "explanation": "The Scout should have attended at least two hikes. These activities should be firmly based in wild countryside or hillwalking and include crossing open countryside as well as forest path or park walking. 46 15/02/2010 21:47:21 Hillwalking How to recognize that someone is hurt. How to compare injured parts with uninjured parts. Methods of getting help. Methods of caring for someone that is hurt."
+              "statement": "I understand why I should follow directions from an instructor.",
+              "explanation": "The Scout should know about the importance of listening to the instructor so that they are aware of what to do and the dangers of doing things that they don’t fully understand."
             },
             {
-              "statement": "I can point out the different symbols and colours on a map and I know what they mean",
-              "explanation": ""
+              "statement": "I have attended at least two hikes.",
+              "explanation": "The Scout should have attended at least two hikes. These activities should be firmly based in wild countryside or hillwalking and include crossing open countryside as well as forest path or park walking."
             }
           ]
         },
@@ -1097,36 +1142,36 @@
           "stageNumber": 2,
           "competencies": [
             {
-              "statement": "I know what gear I need depending on the weather",
+              "statement": "I know what gear I need depending on the weather.",
               "explanation": "Weather in open and exposed places is very different to suburban weather. The scout needs to show and understanding of this fact and indicate how they should deal with likely weather conditions encountered on a hike. Discuss what would happen if it was really wet on a hike. Discuss what would happen if it was windy. How would you protect yourself from the sun."
             },
             {
-              "statement": "I know why you bring certain foods and drinks on hikes",
+              "statement": "I know why you bring certain foods and drinks on hikes.",
               "explanation": "The Scout needs to be aware of the need for sustaining and energy boosting food types and suggest items they would include in a daily and weekend rations for a hiking activity with consideration for cooking and preparation of food on a hillside. High energy foods. Replacement of water loss. High carbohydrate meals. Weight considerations. Cooking considerations. Understand the food pyramid."
             },
             {
-              "statement": "I can point out the main parts of the compass",
+              "statement": "I can point out the main parts of the compass.",
               "explanation": "This should be demonstrated in an outdoor situation, in a practical way."
             },
             {
-              "statement": "I know how to get help if someone is hurt",
-              "explanation": "The Scout needs to show an ability to recognize that someone is hurt and needs help. They should also know how to get help and by what means, reference to other Team members is important. ndb 47"
+              "statement": "I know how to get help if someone is hurt.",
+              "explanation": "The Scout needs to show an ability to recognize that someone is hurt and needs help. They should also know how to get help and by what means, reference to other Team members is important. How to recognize that someone is hurt. How to compare injured parts with uninjured parts. Methods of getting help. Methods of caring for someone that is hurt."
             },
             {
-              "statement": "I can be responsible member of my team while we are hiking",
+              "statement": "I can point out the different symbols and colours on a map and I know what they mean.",
+              "explanation": "This should be demonstrated in a practical way on the hills or in wild countryside where the relationship of colour coding to ground features can be explored. Conventional signs & symbols on OS maps. Height colouring on OS maps. Orienteering maps."
+            },
+            {
+              "statement": "I can be responsible member of my team while we are hiking.",
               "explanation": "Hiking in wild and mountainous terrain presents a number of difficulties. The Scout should be able to recognize the dangers that might present themselves and offer safety conscious solutions/ rules or procedures. They must also display an awareness as a team member and how their behaviour can affect others. How to walk carefully over rough ground. How to keep up with others. Be aware of others and don’t mess with equipment. Follow instructions of the hike leader."
             },
             {
-              "statement": "I can get weather forecasts",
+              "statement": "I can get weather forecasts.",
               "explanation": "The weather in mountain situations can be determined by local conditions within that location. The Scout should show an understanding of that fact and how more detailed weather forecasts are necessary and how they affect the conditions in a chosen area. The Scout should produce a two day weather forecast and explain what is forecast. The Scout should be able to point to the various fronts on the forecast map."
             },
             {
-              "statement": "I have attended at least three hikes",
-              "explanation": "The Scout should have attended at least three hikes. These activities should be firmly based in wild countryside or hillwalking and include crossing open countryside as well as forest path or park walking. 47 15/02/2010 21:47:21"
-            },
-            {
-              "statement": "I know how and when to use the main distress signals",
-              "explanation": "Scouts need to talk themselves through the main distress signals. This demonstration/talk can be done in a practical way on a volunteer. When to use, how to use."
+              "statement": "I have attended at least three hikes.",
+              "explanation": "The Scout should have attended at least three hikes. These activities should be firmly based in wild countryside or hillwalking and include crossing open countryside as well as forest path or park walking."
             }
           ]
         },
@@ -1134,44 +1179,44 @@
           "stageNumber": 3,
           "competencies": [
             {
-              "statement": "I know how to treat simple cuts, scratches",
-              "explanation": "Scouts need to talk themselves through the process of treatment. This demonstration/talk can be done in a practical way on a volunteer. How to clean the wound How to reassure the casualty How to apply a bandage"
+              "statement": "I know how to treat simple cuts, scratches.",
+              "explanation": "Scouts need to talk themselves through the process of treatment. This demonstration/talk can be done in a practical way on a volunteer. How to clean the wound. How to reassure the casualty. How to apply a bandage."
             },
             {
-              "statement": "I know why you bring certain clothing on hikes",
+              "statement": "I know why you bring certain clothing on hikes.",
               "explanation": "A Scout needs to show an awareness of the hiking environment and display and understanding of how the weather can change very quickly. Explain the layering system. Explain an outer shell. Explain how to control body heat and ventilation. Explain wicking. Discuss the qualities of outer shell clothing."
             },
             {
-              "statement": "I know the main principles of “Leave No",
-              "explanation": "Trace” The Scout needs to know the principles and be observed in action. The scout should be aware of his/her actions in relation to litter. Dispose of waste properly. Respect farm animals and wildlife. Minimise camping impact and the effects of fire. Be considerate of others. Travel and camp on durable surfaces. Leave what you find. Plan ahead and prepare."
+              "statement": "I know the main principles of “Leave No Trace”.",
+              "explanation": "The Scout needs to know the principles and be observed in action. The scout should be aware of his/her actions in relation to litter. Dispose of waste properly. Respect farm animals and wildlife. Minimise camping impact and the effects of fire. Be considerate of others. Travel and camp on durable surfaces. Leave what you find. Plan ahead and prepare."
             },
             {
-              "statement": "I know how to cross boggy ground",
-              "explanation": "The Scout needs to show an understanding of the likely terrain that can be encountered on wild countryside and hillwalking adventures. The scout should be able to explain how to cross boggy ground safely. This requirement is best undertaken on a hillwalking adventure in a suitable location. ndb 48"
+              "statement": "I know how to cross boggy ground.",
+              "explanation": "The Scout needs to show an understanding of the likely terrain that can be encountered on wild countryside and hillwalking adventures. The scout should be able to explain how to cross boggy ground safely. This requirement is best undertaken on a hillwalking adventure in a suitable location."
             },
             {
-              "statement": "I have attended at least three hillwalking activities and been on the top of a mountain",
-              "explanation": "The Scout should have attended at least three hillwalking activities. These activities should be firmly based in wild countryside or hillwalking and include crossing open countryside as well as forest path or park walking. The type of hillwalking activities attended should be different to those stated in stage 1 and 2. There should be evidence of progression and hill skill. The required activitie should include the arrival on top of a mountain as part of its route."
+              "statement": "I know how and when to use the main distress signals.",
+              "explanation": "Scouts need to talk themselves through the main distress signals. This demonstration/talk can be done in a practical way on a volunteer. When to use, how to use."
             },
             {
-              "statement": "I can point out the features of a map",
+              "statement": "I can use a compass to find direction.",
+              "explanation": "The Scout will be able to display an expertise in using a compass, How to take a bearing, How to follow a bearing, How to use the compass, with a map, to assist navigation across open countryside. The Scout should be able to translate from map to landscape and vice-versa."
+            },
+            {
+              "statement": "I can point out the features of a map.",
               "explanation": "The Scout should be very comfortable with map reading and be able to point out key features of a map. The Scout should also display knowledge of contours and the variations of landscape and how they are displayed in contour features and lines. Scale (including a comparison of different scale maps). Grid references. Contour lines."
             },
             {
-              "statement": "I can be responsible for myself and aware of my surroundings while hiking",
+              "statement": "I can be responsible for myself and aware of my surroundings while hiking.",
               "explanation": "The Scout will have attended a number of hillwalking adventures at this stage and will have a level of awareness and experience. The Scout should be able to display knowledge of the terrain that has been crossed on hillwalking adventures. The Scout should also be able to discuss how terrains differ and the likelihood of danger if weather conditions change. Dangers of steep ground. Dangers of rugged (rocky) ground. Dangers of increased distance from civilization (remoteness)."
             },
             {
-              "statement": "I can follow a route on an orienteering map",
-              "explanation": "The Scout should be able to follow a simple orienteering course on an orienteering map. 48 15/02/2010 21:47:21 Hillwalking"
+              "statement": "I can follow a route on an orienteering map.",
+              "explanation": "The Scout should be able to follow a simple orienteering course on an orienteering map."
             },
             {
-              "statement": "I know what team equipment to bring and why",
-              "explanation": "In hillwalking situation extra team equipment will be required for safe passage. The Scout should be able to list this basic safety equipment and explain why and how it is used. Safety rope. Sleeping bag. s        First aid equipment. Whistles. Survival bags. Stoves and fuel. Maps and compasses."
-            },
-            {
-              "statement": "I know how to treat simple sprains and blisters",
-              "explanation": "Scouts need to talk themselves through the process of treatment. This demonstration/talk can be done"
+              "statement": "I have attended at least three hillwalking activities and been on the top of a mountain.",
+              "explanation": "The Scout should have attended at least three hillwalking activities. These activities should be firmly based in wild countryside or hillwalking and include crossing open countryside as well as forest path or park walking. The type of hillwalking activities attended should be different to those stated in stage 1 and 2. There should be evidence of progression and hill skill. The required activities should include the arrival on top of a mountain as part of its route."
             }
           ]
         },
@@ -1179,44 +1224,40 @@
           "stageNumber": 4,
           "competencies": [
             {
-              "statement": "I know how to pack a rucksack for weekend hikes",
-              "explanation": "Scouts should indicate in list form the equipment, including team equipment, they need to bring with them for a hillwalking activity over a number of days The placement of heavy items in a rucksack. The placement of soft items in a rucksack. Explain the “last in first out” principle. The placement of foodstuffs. The placement of fuel and stoves. Sharing of heavy team equipment. The overall weight and stability of a rucksack."
+              "statement": "I know how to pack a rucksack for weekend hikes.",
+              "explanation": "Scouts should indicate in list form the equipment, including team equipment, they need to bring with them for a hillwalking activity over a number of days. The placement of heavy items in a rucksack. The placement of soft items in a rucksack. Explain the “last in first out” principle. The placement of foodstuffs. The placement of fuel and stoves. Sharing of heavy team equipment. The overall weight and stability of a rucksack."
             },
             {
-              "statement": "I can care for all my personal hiking equipment",
-              "explanation": "Scouts need to show an awareness of the value of hiking and hillwalking equipment. A Scout should demonstrate how to go about checking and caring for equipment. Safety implications of poor or faulty equipment. Keeping personal equipment in working order. How to sew. How to repair items of equipment. The quality of different items of equipment. How to clean and maintain equipment. ndb 49 Calculate height gain from the map. Take bearings from a map."
+              "statement": "I can care for all my personal hiking equipment.",
+              "explanation": "Scouts need to show an awareness of the value of hiking and hillwalking equipment. A Scout should demonstrate how to go about checking and caring for equipment. Safety implications of poor or faulty equipment. Keeping personal equipment in working order. How to sew. How to repair items of equipment. The quality of different items of equipment. How to clean and maintain equipment."
             },
             {
-              "statement": "I can be responsible for younger members of my team while we are hiking",
-              "explanation": "The Scout will have attended a number of hillwalking adventures at this stage and will have a level of awareness and experience that they can assume responsibility for younger or less experienced members of a Lodge, Six, Team while walking."
+              "statement": "I know what team equipment to bring and why.",
+              "explanation": "In hillwalking situation extra team equipment will be required for safe passage. The Scout should be able to list this basic safety equipment and explain why and how it is used. Safety rope. Sleeping bag. First aid equipment. Whistles. Survival bags. Stoves and fuel. Maps and compasses."
             },
             {
-              "statement": "I have led a leg of a hike",
-              "explanation": "The Scout should have acted in a leadership position on a leg or section of a hiking route/ adventure. The Scout will be observed during this period to see how they navigate, support, guide and lead the party over the route."
+              "statement": "I know how to treat simple sprains and blisters.",
+              "explanation": "Scouts need to talk themselves through the process of treatment. This demonstration/talk can be done in a practical way on a volunteer. Scouts should show an awareness that it will take some time to get outside help to hillwalking situations. Treat a blister. Treat a foot strain or ankle twist. Care for the victim. Make the victim safe. Organise a team to get help. Make a stretcher."
             },
             {
-              "statement": "I have attended three hikes including an overnight",
-              "explanation": "The Scout should have attended at least three hikes. These activities should be firmly based in wild countryside or hillwalking. The type of hikes attended should be different to those stated in stage 1, 2 and 3. There should be evidence of progression and hiking skill. The required activities should include the arrival on top of a mountain as part of i route."
-            },
-            {
-              "statement": "I know the different emergency services that are available and how and when to call them",
+              "statement": "I know the different emergency services that are available and how and when to call them.",
               "explanation": "The Scout should be able to explain how to call out the emergency services when an accident takes place on the mountains (Police, Ambulance). They should know when and how they should call for the mountain rescue service rather than any of the other of the emergency services."
             },
             {
-              "statement": "I can follow our route on a map and find the main points using a compass",
-              "explanation": "The Scout should be able to plot out a hiking route on a map and show the route clearly and be able to follow the progress of a hillwalking adventure as it is achieved. The Scout should also be able to show how a compass is used to determine bearings for route legs across open countryside. Plot locations from a list of grid references. Calculate distance from the map. 49 15/02/2010 21:47:22"
+              "statement": "I can follow our route on a map and find the main points using a compass.",
+              "explanation": "The Scout should be able to plot out a hiking route on a map and show the route clearly and be able to follow the progress of a hillwalking adventure as it is achieved. The Scout should also be able to show how a compass is used to determine bearings for route legs across open countryside. Plot locations from a list of grid references. Calculate distance from the map. Calculate height gain from the map. Take bearings from a map."
             },
             {
-              "statement": "I know how to pack a rucksack for a hillwalking expedition",
-              "explanation": "The Scout should demonstrate an understanding of the difficulties/challenges of a hillwalking expedition. Everything needs to be carried in and out of the hiking environment. This knowledge should be evident in how the packing of a rucksack is approached. The placement of heavy items. The placement of soft items. The placement of fuel and cooking equipment. The placement and storage of foodstuffs. The placement of tentage etc. Team equipment. The overall weight of the pack - necessary and unnecessary items Choosing items that are low in weight and bulk."
+              "statement": "I can be responsible for younger members of my team while we are hiking.",
+              "explanation": "The Scout will have attended a number of hillwalking adventures at this stage and will have a level of awareness and experience that they can assume responsibility for younger or less experienced members of a Lodge, Six, Team while walking."
             },
             {
-              "statement": "I know when to cross a river and some different methods for crossing rivers",
-              "explanation": "The Scout must demonstrate how to cross a river using a number of methods. This can be done as part of a real trek or in a set up situation. The Scout should also be aware of and point out the need to protect dry clothes and the need to prevent exposure due to wetting in the river crossing ts        process. This demonstration is shown in calm water conditions. It must be explained that it is best to seek a safe crossing place or a bridge rather than to shortcut on a route. River crossing can be a dangerous activity. Be able to show different methods of crossing a river test conditions."
+              "statement": "I have led a leg of a hike.",
+              "explanation": "The Scout should have acted in a leadership position on a leg or section of a hiking route/ adventure. The Scout will be observed during this period to see how they navigate, support, guide and lead the party over the route."
             },
             {
-              "statement": "I know all about the “Leave No Trace” principles",
-              "explanation": ""
+              "statement": "I have attended three hikes including an overnight.",
+              "explanation": "The Scout should have attended at least three hikes. These activities should be firmly based in wild countryside or hillwalking. The type of hikes attended should be different to those stated in stage 1, 2 and 3. There should be evidence of progression and hiking skill. The required activities should include the arrival on top of a mountain as part of its route."
             }
           ]
         },
@@ -1224,43 +1265,55 @@
           "stageNumber": 5,
           "competencies": [
             {
-              "statement": "I know the potential dangers of weather on hikes",
-              "explanation": "The Scout should be aware of temperature change and wind chill factors and their effect on members of the Team. The constant need to watch and observe their surroundings. Cloud cover, mist, fog and snow can considerably change the safety aspect of a hillwalking adventure; discuss how to travel to safety in these conditions. ndb 50"
+              "statement": "I know the potential dangers of weather on hikes.",
+              "explanation": "The Scout should be aware of temperature change and wind chill factors and their effect on members of the Team. The constant need to watch and observe their surroundings. Cloud cover, mist, fog and snow can considerably change the safety aspect of a hillwalking adventure; discuss how to travel to safety in these conditions."
             },
             {
-              "statement": "I know the main principles of navigating using map and compass",
-              "explanation": "The Scout should be able to display a knowledge of the main principles of map and compass navigation. The Scout should be able to show how to find their position on the map with reference to surrounding features. The Scout should also be able to show how to take bearings of surrounding feature and triangulate these bearing to their position on the map. Identify features from map to the surroundings (peaks, corries, spurs, ridges, arêtes) Orientate the map using these features. Set the map using a compass. Carry out a resection using two or more bearings from surrounding features. A Scout needs to demonstrate this skill in a hillwalking situation with accuracy."
+              "statement": "I know how to pack a rucksack for a hillwalking expedition.",
+              "explanation": "The Scout should demonstrate an understanding of the difficulties/challenges of a hillwalking expedition. Everything needs to be carried in and out of the hiking environment. This knowledge should be evident in how the packing of a rucksack is approached. The placement of heavy items. The placement of soft items. The placement of fuel and cooking equipment. The placement and storage of foodstuffs. The placement of tentage etc. Team equipment. The overall weight of the pack - necessary and unnecessary items. Choosing items that are low in weight and bulk."
             },
             {
-              "statement": "I can complete and use a route card",
+              "statement": "I know when to cross a river and some different methods for crossing rivers.",
+              "explanation": "The Scout must demonstrate how to cross a river using a number of methods. This can be done as part of a real trek or in a set up situation. The Scout should also be aware of and point out the need to protect dry clothes and the need to prevent exposure due to wetting in the river crossing process. This demonstration is shown in calm water conditions. It must be explained that it is best to seek a safe crossing place or a bridge rather than to shortcut on a route. River crossing can be a dangerous activity. Be able to show different methods of crossing a river test conditions."
+            },
+            {
+              "statement": "I know all about the “Leave No Trace” principles.",
+              "explanation": "The Scout needs to know the principles and be observed in action. The Scout should be aware of his/her actions in relation to litter. Dispose of waste properly. Respect farm animals and wildlife. Minimise camping impact and the effects of fire. Be considerate of others. Travel and camp on durable surfaces. Leave what you find. Plan ahead and prepare."
+            },
+            {
+              "statement": "I know the main principles of navigating using map and compass.",
+              "explanation": "The Scout should be able to display a knowledge of the main principles of map and compass navigation. The Scout should be able to show how to find their position on the map with reference to surrounding features. The Scout should also be able to show how to take bearings of surrounding feature and triangulate these bearing to their position on the map. Identify features from map to the surroundings (peaks, corries, spurs, ridges, arêtes). Orientate the map using these features. Set the map using a compass. Carry out a resection using two or more bearings from surrounding features. A Scout needs to demonstrate this skill in a hillwalking situation with accuracy."
+            },
+            {
+              "statement": "I can complete and use a route card.",
               "explanation": "A Scout should complete a route card and follow it on a ‘real’ hike or expedition. Naismith’s Rule should be used for calculating time."
             },
             {
-              "statement": "I can be an active member of my team while hiking",
+              "statement": "I can be an active member of my team while hiking.",
               "explanation": "The Scout will have attended a number of hillwalking adventures at this stage and will have a level of awareness and experience. The Scout should be able to display knowledge of the terrain that has been crossed on hillwalking adventures. The Scout should also be able to discuss how the team relies on each other for safety and companionship while walking. Each member of the team has a role to play, and relies on others to support the endeavour of the adventure."
             },
             {
-              "statement": "I have taken part in three hikes",
-              "explanation": ""
+              "statement": "I have taken part in three hikes.",
+              "explanation": "The Scout should have attended at least three hikes. These activities should be firmly based in wild countryside or hillwalking. The type of hillwalking activities attended should be different to those stated in stage 1, 2 and 3. There should be evidence of progression and hill skill. The required activities should include the arrival on top of a mountain as part of its route and each must be in excess of six hour duration - not walking time."
             },
             {
-              "statement": "I have taken part in a two night hike in the mountains, based out of one campsite",
+              "statement": "I have taken part in a two night hike in the mountains, based out of one campsite.",
               "explanation": "The Scout should take part in a hike in the mountains as part of a patrol or smaller team which involves two nights camping. The campsite should be based in a mountain environment, but at a low level. The Scout should display the ability to camp comfortably in the wild."
             },
             {
-              "statement": "I can select an appropriate campsite in relation to the hike route undertaken",
+              "statement": "I can select an appropriate campsite in relation to the hike route undertaken.",
               "explanation": "This skill is best observed in a hillwalking situation."
             },
             {
-              "statement": "I can pitch a lightweight mountain tent",
+              "statement": "I can pitch a lightweight mountain tent.",
               "explanation": "This skill is best observed in a hillwalking situation."
             },
             {
-              "statement": "I can use a lightweight stove (trangia, gas stove)",
+              "statement": "I can use a lightweight stove (trangia, gas stove).",
               "explanation": "This skill is best observed in a hillwalking situation."
             },
             {
-              "statement": "I have written a log for at least two of these activities",
+              "statement": "I have written a log for at least two of these activities.",
               "explanation": "The Scout should have a hillwalking and hiking log. In this logbook should be the route of the adventure, details of the adventure, route card and perhaps a picture(s). This is not however a ‘scrapbook’ but more a formal log of achievement which can be built on during their time in Scouting."
             }
           ]
@@ -1269,44 +1322,44 @@
           "stageNumber": 6,
           "competencies": [
             {
-              "statement": "I know the limitations of my team",
+              "statement": "I know the causes of, how to recognize and treat hypothermia, hyperthermia, sunstroke, dehydration and asthma, or anything medical relevant to my team.",
+              "explanation": "The Scout to demonstrate is that they know the rules of First Aid. A Scout should be aware of any personal conditions that might exist in the Team and have discussed these with the person concerned. The Scout should also be able to list the symptoms of various conditions and know what to do. Discuss the treatment for each ailment. Discuss the special needs of people in their Team. Discuss how to prevent these ailments happening."
+            },
+            {
+              "statement": "I know the limitations of my team.",
               "explanation": "A team is made up of individuals of various strengths and weaknesses. The Scout should discuss how a team moves over open countryside and how to recognize when people are tired or out of their skill level. Know the limits and skill level of the members of your team. Know your own limits and skills. Know how to lead a group so all of the group stay together. Know how to avoid dangers and overstretching a group on the hills."
             },
             {
-              "statement": "I know the limitations of the compass and other navigation tools",
+              "statement": "I know the limitations of the compass and other navigation tools.",
               "explanation": "Where a compass won’t work. Altimeter – uses and limitations. GPS – uses and limitations."
             },
             {
-              "statement": "I can use a compass and map to find my position",
+              "statement": "I can use a compass and map to find my position.",
               "explanation": "The Scout will be able to display an expertise in the use of map and compass. Measuring distance using timing and pacing. Navigational techniques. Slope aspect. Re-location techniques."
             },
             {
-              "statement": "I know what Group emergency equipment we should carry, and how to use it",
+              "statement": "I know what Group emergency equipment we should carry, and how to use it.",
               "explanation": "The Scout is aware of the difference between “general team equipment” and the items which are solely for emergency use. Safety ropes. Sleeping bag. Survival bags. Group Shelters. First aid kit."
             },
             {
-              "statement": "I can be responsible for myself and my team while hiking",
-              "explanation": "The Scout will have led a number of hillwalking adventures and will display a knowledge and confidence in the pursuit of these activities. The Scout is observed in action in hillwalking situations ndb 52"
+              "statement": "I can be responsible for myself and my team while hiking.",
+              "explanation": "The Scout will have led a number of hillwalking adventures and will display a knowledge and confidence in the pursuit of these activities. The Scout is observed in action in hillwalking situations."
             },
             {
-              "statement": "I can plan and lead a hike",
+              "statement": "I can plan and lead a hike.",
               "explanation": "The Scout should have acted as a leader in the planning and leadership of a hike. This will be undertaken by the section, with Scouters present, but under the leadership of the Scout. The Scout will be observed in action on the hike. The Scout should be given the freedom to lead and perform in a natural way during the activity. Choice of route (using guidebooks, websites and other sources of information). Route card. Weather forecast and bad weather alternative."
             },
             {
-              "statement": "I have taken part in at least six hillwalking activities, four of which should be on mountains over 800m",
+              "statement": "I have taken part in at least six hillwalking activities, four of which should be on mountains over 800m.",
               "explanation": "The Scout should have attended at least six hillwalking activities, four of which should be over 800m. These activities should be firmly based in wild countryside or hillwalking. The type of hillwalking activities attended should be different to those stated in previous levels. There should be evidence of progression and hillwalking skill. The required activities should include high mountain walking elements as part of its route and an active involvement of the Scout in the planning and execution of the hillwalking adventure."
             },
             {
-              "statement": "I have taken part in a two night hike in the mountains, including a low and high camp",
+              "statement": "I have taken part in a two night hike in the mountains, including a low and high camp.",
               "explanation": "The Scout should take part in a hike in the mountains as part of a Patrol or smaller team which involves two nights camping. The two campsites should be at different points along the route of the hike in a mountain environment, with the first at a low level and the second at a high level. The Scout should display an increased level of independence in the terms of their ability to camp in the wild."
             },
             {
-              "statement": "I have written logs for all of these activities",
-              "explanation": "The Scout should have a hillwalking and hiking log. In this logbook should be the route of the adventure, details of the adventure, route card and perhaps a picture(s). This is not however a “scrapbook” but more a formal log of achievement which can be built on during their time in Scouting. . 52 15/02/2010 21:47:22 Hillwalking measures are necessary taking into account. Weather. Minimal equipment. Skill level of team."
-            },
-            {
-              "statement": "I know how to deal with mountain hazards",
-              "explanation": "The Scout should also be able to discuss how"
+              "statement": "I have written logs for all of these activities.",
+              "explanation": "The Scout should have a hillwalking and hiking log. In this logbook should be the route of the adventure, details of the adventure, route card and perhaps a picture(s). This is not however a “scrapbook” but more a formal log of achievement which can be built on during their time in Scouting."
             }
           ]
         },
@@ -1314,60 +1367,48 @@
           "stageNumber": 7,
           "competencies": [
             {
-              "statement": "I can organise the transport required for an activity",
+              "statement": "I can organise the transport required for an activity.",
               "explanation": "The Scout should have participated in the planning of transport options on a number of expeditions and weekend adventure. The Scout needs to be able to discuss how to go about the planning of an adventure to a suggested location. The advantages of different transport methods. The suppliers of transport. The average cost of hiring or using a transport method."
             },
             {
-              "statement": "I can budget for team hikes",
+              "statement": "I can budget for team hikes.",
               "explanation": "The Scout needs to have had practical experience of previous expedition planning and budgeting. The Scout in this case should show an understanding of the management role rather than the supporting role they may have had in past adventures. Have run or assisted in running a number of adventures. Prepare a cost for a suggested adventure."
             },
             {
-              "statement": "I know how to assess risk and be aware of group safety",
-              "explanation": "Hiking in wild and mountainous terrain presents a number of difficulties. The Scout should be able to recognize the dangers that might present themselves and offer safety conscious solutions/ rules or procedures. They must also display an awareness as a team member and how their behaviour can affect others. Scouts must be able to carry out a risk assessment of any activity they hope to engage in. Know the benefits of risk assessment. Know the procedure for carrying out a risk assessment. Be able to make an informed decision in relation to partaking of an activity. The Scout will be able to discuss the environment. the activity will take place in and list what safety. ndb 53 hillwalking activities attended should be different to those stated in previous levels. There should be evidence of progression and hillwalking skill. The required activities should include high mountain walking elements as part of its route and an active involvement of the Scout in the planning and execution of the hillwalking adventure. One of the hikes should be to a height of 1300m, which requires a trip abroad. The Scout should be involved in the planning of the trip and should be responsible for a key element of the trip (for example, the budget, transport or accommodation."
+              "statement": "I know how to assess risk and be aware of group safety.",
+              "explanation": "Hiking in wild and mountainous terrain presents a number of difficulties. The Scout should be able to recognize the dangers that might present themselves and offer safety conscious solutions/ rules or procedures. They must also display an awareness as a team member and how their behaviour can affect others. Scouts must be able to carry out a risk assessment of any activity they hope to engage in. Know the benefits of risk assessment. Know the procedure for carrying out a risk assessment. Be able to make an informed decision in relation to partaking of an activity. The Scout will be able to discuss the environment. the activity will take place in and list what safety. measures are necessary taking into account. Weather. Minimal equipment. Skill level of team."
             },
             {
-              "statement": "I have taken part in an unaccompanied but supervised two night hike in the mountains, including a low and high camp",
-              "explanation": "The Scout should take part as a member of a small team in an unaccompanied hike in the mountains, with leaders in the vicinity to aid if required. It s involve two nights camping. The campsites should be at different points along the route of the hike in a mountain environment, with the first at a low level and the second at a high level. The Scout should display in advance of the hike a high level of the skills required."
+              "statement": "I know how to deal with mountain hazards.",
+              "explanation": "The Scout should also be able to discuss how terrains differ and the likelihood of danger if weather conditions change. Dangers of steep ground. Dangers of rugged (rocky) ground. Dangers of increased distance from civilization (remoteness)."
             },
             {
-              "statement": "I have written logs for all of these activities",
-              "explanation": "The Scout should have a hillwalking and hiking log. In this logbook should be the route of the adventure, details of the adventure, route card and perhaps a picture(s). This is not however a “scrapbook” but more a formal log of achievement which can be built on during their time in Scouting."
-            },
-            {
-              "statement": "I have a logbook detailing at least 30 hikes and expeditions that i have undertaken",
-              "explanation": "This logbook is a requirement for the Mountain Skills award."
-            },
-            {
-              "statement": "I can plan escape routes",
+              "statement": "I can plan escape routes.",
               "explanation": "Knowledge of the dangers of a chosen route or routes needs to be displayed. How weather or injury to a team member can play a part. This knowledge should then lead to the understanding of incorporating quick escape routes to safety or help into the planning process. Be able to identify possible escape routes on a select expedition route."
             },
             {
-              "statement": "I can navigate at night, in poor visibility, and do micro navigation",
+              "statement": "I can navigate at night, in poor visibility, and do micro navigation.",
               "explanation": "The Scout needs to display a competency in navigation in night or poor visibility conditions. This should be demonstrated in a practical situation via a night time exercise in open countryside. The Scout should be able to find precise points or grid reference points over varied terrain. Timing and accuracy are important skills to recognize in this requirement. Find and navigate to at least ten points on a map at night or in foggy conditions."
             },
             {
-              "statement": "I have planned and led one hike without a",
-              "explanation": "Scouter. The Scout should have acted as a leader in the planning and leadership of a hike. This will be undertaken with their team in accordance with the association guidelines. A report of the hike and route card should be provided for examination."
+              "statement": "I have planned and led one hike without a Scouter.",
+              "explanation": "The Scout should have acted as a leader in the planning and leadership of a hike. This will be undertaken with their team in accordance with the association guidelines. A report of the hike and route card should be provided for examination."
             },
             {
-              "statement": "I have taken part in at least five hikes between 800m and 1300m, and one over 1300m",
-              "explanation": "The Scout should have attended many hillwalking activities. These activities should be firmly based in wild countryside or hillwalking. The type of 53 15/02/2010 21:47:23 undertake first aid in an outdoor setting where help may not be immediately available."
+              "statement": "I have taken part in at least five hikes between 800m and 1300m, and one over 1300m.",
+              "explanation": "The Scout should have attended many hillwalking activities. These activities should be firmly based in wild countryside or hillwalking. The type of hillwalking activities attended should be different to those stated in previous levels. There should be evidence of progression and hillwalking skill. The required activities should include high mountain walking elements as part of its route and an active involvement of the Scout in the planning and execution of the hillwalking adventure. One of the hikes should be to a height of 1300m, which requires a trip abroad. The Scout should be involved in the planning of the trip and should be responsible for a key element of the trip (for example, the budget, transport or accommodation)."
             },
             {
-              "statement": "I know how to safeguard others on steep ground",
-              "explanation": "This requirement is best observed in real situations on a mountain side. If the situation warrants it, ropes should be used, if ropes are not used in a practical demonstration then the scout should show his/her knowledge in a practical way at a different location. Safety of all the party is the prime consideration of all demonstrations. Be able to set up a belay point to assist walker on difficult ground. Be able to rope up a party of walkers. Have access to a personal safety rope at least 30 meters in length."
+              "statement": "I have taken part in an unaccompanied but supervised two night hike in the mountains, including a low and high camp.",
+              "explanation": "The Scout should take part as a member of a small team in an unaccompanied hike in the mountains, with leaders in the vicinity to aid if required. It should involve two nights camping. The campsites should be at different points along the route of the hike in a mountain environment, with the first at a low level and the second at a high level. The Scout should display in advance of the hike a high level of the skills required."
             },
             {
-              "statement": "I know how to use a rope on difficult terrain. hould",
-              "explanation": "The Scout will have been observed in the use of ropes on various adventures in practical situations. The Scout should also demonstrate how to use ropes in a set up situation. Speed, confidence and leadership of the process should be demonstrated by the Scout. If the situation warrants it ropes should be used, if ropes are not used in a practical demonstration then the Scout should show his/her knowledge in a practical way at a different location. Safety of all the party is the prime consideration of all demonstrations. Be able to ‘Confidence Rope’ (short rope) a member of a walking party. Be able to select suitable anchor points. Be able to lower a member of a party. Be able to abseil without a safety rope (classic abseil). Have access to a personal safety rope at least 30 meters in length."
+              "statement": "I have written logs for all of these activities.",
+              "explanation": "The Scout should have a hillwalking and hiking log. In this logbook should be the route of the adventure, details of the adventure, route card and perhaps a picture(s). This is not however a “scrapbook” but more a formal log of achievement which can be built on during their time in Scouting."
             },
             {
-              "statement": "I can set up a simple belay",
-              "explanation": "The Scout should be able to set up a simple belay using rock climbing equipment and ropes. This requirement may be completed in reference to the requirement above, related to using rope on difficult terrain."
-            },
-            {
-              "statement": "I can lead a hillwalking adventure",
-              "explanation": ""
+              "statement": "I have a logbook detailing at least 30 hikes and expeditions that i have undertaken.",
+              "explanation": "This logbook is a requirement for the Mountain Skills award."
             }
           ]
         },
@@ -1375,19 +1416,43 @@
           "stageNumber": 8,
           "competencies": [
             {
-              "statement": "I have an outdoor First Aid certificate",
-              "explanation": "The Scout is required to hold a first aid certificate that has additional elements and training to ndb 54"
+              "statement": "I have an outdoor First Aid certificate.",
+              "explanation": "The Scout is required to hold a first aid certificate that has additional elements and training to undertake first aid in an outdoor setting where help may not be immediately available."
             },
             {
-              "statement": "I know the procedure to be followed in the event of an accident",
+              "statement": "I know how to safeguard others on steep ground.",
+              "explanation": "This requirement is best observed in real situations on a mountain side. If the situation warrants it, ropes should be used, if ropes are not used in a practical demonstration then the scout should show his/her knowledge in a practical way at a different location. Safety of all the party is the prime consideration of all demonstrations. Be able to set up a belay point to assist walker on difficult ground. Be able to rope up a party of walkers. Have access to a personal safety rope at least 30 meters in length."
+            },
+            {
+              "statement": "I know how to use a rope on difficult terrain.",
+              "explanation": "The Scout will have been observed in the use of ropes on various adventures in practical situations. The Scout should also demonstrate how to use ropes in a set up situation. Speed, confidence and leadership of the process should be demonstrated by the Scout. If the situation warrants it ropes should be used, if ropes are not used in a practical demonstration then the Scout should show his/her knowledge in a practical way at a different location. Safety of all the party is the prime consideration of all demonstrations. Be able to ‘Confidence Rope’ (short rope) a member of a walking party. Be able to select suitable anchor points. Be able to lower a member of a party. Be able to abseil without a safety rope (classic abseil). Have access to a personal safety rope at least 30 meters in length."
+            },
+            {
+              "statement": "I can set up a simple belay.",
+              "explanation": "The Scout should be able to set up a simple belay using rock climbing equipment and ropes. This requirement may be completed in reference to the requirement above, related to using rope on difficult terrain."
+            },
+            {
+              "statement": "I can lead a hillwalking adventure.",
+              "explanation": "The Scout should have acted in a leadership position on a number of hillwalking adventures and be able to indicate the necessary responsible actions, checks and measures required to conduct the adventure safely."
+            },
+            {
+              "statement": "I know the procedure to be followed in the event of an accident.",
               "explanation": "General accident procedure. Contacting mountain rescue and call out procedure. Mountain rescue teams and their locations."
             },
             {
-              "statement": "I have taken part in at least 6 hillwalking adventures over 1000m and one over 2250m",
-              "explanation": "The Scout should have attended many hillwalking activities. These activities should be firmly based in wild countryside or hillwalking. The type of hillwalking activities attended should be different to those stated in previous levels. There should be evidence of progression and hillwalking skill. The required activities should be based on mountains with a minimum height of 1000m, at least one of which should be to a height of 2250m. There"
+              "statement": "I have taken part in at least 6 hillwalking adventures over 1000m and one over 2250m.",
+              "explanation": "The Scout should have attended many hillwalking activities. These activities should be firmly based in wild countryside or hillwalking. The type of hillwalking activities attended should be different to those stated in previous levels. There should be evidence of progression and hillwalking skill. The required activities should be based on mountains with a minimum height of 1000m, at least one of which should be to a height of 2250m. There should be an active involvement by the Scout in the planning and execution of the hillwalking adventure. One or more of these adventures will require a trip abroad. The Scout should be involved in the planning of all aspects of the trip(s) and should oversee all key elements of the trip(s) (for example, the budget, transport and accommodation)."
             },
             {
-              "statement": "I have written logs for all of these activities",
+              "statement": "I can take responsibility for our Group on a hiking adventure.",
+              "explanation": "The Scout should have acted in a leadership position on a number of hillwalking adventures and be able to indicate the necessary responsible actions, checks and measures required to conduct the adventure safely."
+            },
+            {
+              "statement": "I have taken part in an unaccompanied two night hike in the mountains, outside the island of Ireland.",
+              "explanation": "The Scout should take part as a member of a small team in an unaccompanied hike in the mountains, outside the island of Ireland. It should involve two nights camping. The campsites should be at different points along the route of the hike in a mountain environment, with the first at a low level and the second at a high level. The Scout should display in advance of the hike a high level of the skills required. The Scout should also be fully involved in all aspects of the planning of the expedition."
+            },
+            {
+              "statement": "I have written logs for all of these activities.",
               "explanation": "The Scout should have a hillwalking and hiking log. In this logbook should be the route of the adventure, details of the adventure, route card and perhaps a picture(s). This is not however a “scrapbook” but more a formal log of achievement which can be built on during their time in Scouting."
             }
           ]
@@ -1396,48 +1461,40 @@
           "stageNumber": 9,
           "competencies": [
             {
-              "statement": "I can take responsibility for our Group on a hiking adventure",
-              "explanation": "The Scout should have acted in a leadership position on a number of hillwalking adventures and be able to indicate the necessary responsible actions, checks and measures required to conduct the adventure safely."
-            },
-            {
-              "statement": "I have taken part in an unaccompanied two night hike in the mountains, outside the island of Ireland",
-              "explanation": "The Scout should take part as a member of a small team in an unaccompanied hike in the mountains, outside the island of Ireland. It should involve two nights camping. The campsites should be at different points along the route of the hike in a mountain environment, with the first at a low level and the second at a high level. The Scout should display in advance of the hike a high level of the skills required. The Scout should also be fully involved in all aspects of the planning of the expedition. ndb 55"
-            },
-            {
-              "statement": "I can assess risk and take appropriate action to ensure safety",
-              "explanation": "Hiking in wild and mountainous terrain presents a number of difficulties. The Scout should be able to recognize the dangers that might present themselves and offer safety conscious solutions/ rules or procedures. They must also display an awareness as a team member and how their behaviour can affect others. Scouts must be able to carry out a risk assessment of any activity they hope to engage in. Know the benefits of risk assessment. Know the procedure for carrying out a risk assessment. Be able to make an informed decision in relation to partaking of an activity. The Scout will be able to discuss the environment the activity will take place in and list what safety measures are necessary taking into account. Weather, minimal equipment, skill level of team."
-            },
-            {
-              "statement": "I can practice basic winter mountaineering skills",
-              "explanation": "The Scout should have attended a winter mountaineering skills course and should have a knowledge of the skills required to walk on a mountain in winter conditions. Use of ice axe, use of crampons, avalanche assessment, emergency procedures."
-            },
-            {
-              "statement": "I can create an exciting expedition while catering for everyone’s needs",
-              "explanation": ""
-            },
-            {
-              "statement": "I can budget, prepare and manage every aspect of the expedition",
-              "explanation": "The Scout needs to have had practical experience of previous expedition planning and budgeting. The Scout in this case should show an understanding of the management role rather than the supporting role they may have had in past adventures. ndb 56"
-            },
-            {
-              "statement": "I know what equipment is required for various types of hillwalking expeditions, and the correct use and care of this equipment",
+              "statement": "I know what equipment is required for various types of hillwalking expeditions, and the correct use and care of this equipment.",
               "explanation": "The Scout needs to demonstrate a deep understanding of hillwalking and mountaineering equipment. He/she should be able to discuss various situations, drawn from personal experience and talk about the equipment used. Tentage. Personal equipment - boots, gaiters, layered clothing, rucksack choice. Wet weather equipment. Navigation - map and compass."
             },
             {
-              "statement": "I can navigate accurately and safely over the",
-              "explanation": "Irish mountains in any type of weather, and at night. This must be demonstrated in practical situations and as a leader of a party on a trek. A log book should also be presented showing the Scout’s experience in this regard and route cards produced for treks containing on route notes and corrections. Utmost attention must be paid to accuracy, particularly in night navigation. The Scout should be able to lead a party to a set location on a night exercise using map, compass and Nasmith’s Rule for time arrival estimation. The Scout should be able walk to safety in white conditions and know the methods used for accurate travel in these conditions 55 15/02/2010 21:47:23 Have run or assisted in running a number of adventures. Prepare a cost for a suggested adventure. Act as expedition leader on at least two expeditions."
+              "statement": "I can navigate accurately and safely over the Irish mountains in any type of weather, and at night.",
+              "explanation": "This must be demonstrated in practical situations and as a leader of a party on a trek. A log book should also be presented showing the Scout’s experience in this regard and route cards produced for treks containing on route notes and corrections. Utmost attention must be paid to accuracy, particularly in night navigation. The Scout should be able to lead a party to a set location on a night exercise using map, compass and Nasmith’s Rule for time arrival estimation. The Scout should be able walk to safety in white conditions and know the methods used for accurate travel in these conditions."
             },
             {
-              "statement": "I have a logbook detailing at least 20 hikes and expeditions that I have undertaken since stage 7",
+              "statement": "I can assess risk and take appropriate action to ensure safety.",
+              "explanation": "Hiking in wild and mountainous terrain presents a number of difficulties. The Scout should be able to recognize the dangers that might present themselves and offer safety conscious solutions/ rules or procedures. They must also display an awareness as a team member and how their behaviour can affect others. Scouts must be able to carry out a risk assessment of any activity they hope to engage in. Know the benefits of risk assessment. Know the procedure for carrying out a risk assessment. Be able to make an informed decision in relation to partaking of an activity. The Scout will be able to discuss the environment the activity will take place in and list what safety measures are necessary taking into account. Weather, minimal equipment, skill level of team."
+            },
+            {
+              "statement": "I can practice basic winter mountaineering skills.",
+              "explanation": "The Scout should have attended a winter mountaineering skills course and should have a knowledge of the skills required to walk on a mountain in winter conditions. Use of ice axe, use of crampons, avalanche assessment, emergency procedures."
+            },
+            {
+              "statement": "I can create an exciting expedition while catering for everyone’s needs.",
+              "explanation": "‘Stage 4 Hillwalking’ requires the Scout to be fully aware of all the members of a likely hillwalking party. The Scout should have been part of the planning team for other expeditions or adventures both for this section and younger Sections. Be able to discuss abilities of his/her Team. Be able to grade hillwalking adventures and be aware of hiking difficulties that might be encountered. Be able to chose a route that is challenging but not dangerous for those taking part."
+            },
+            {
+              "statement": "I can budget, prepare and manage every aspect of the expedition.",
+              "explanation": "The Scout needs to have had practical experience of previous expedition planning and budgeting. The Scout in this case should show an understanding of the management role rather than the supporting role they may have had in past adventures. Have run or assisted in running a number of adventures. Prepare a cost for a suggested adventure. Act as expedition leader on at least two expeditions."
+            },
+            {
+              "statement": "I have a logbook detailing at least 20 hikes and expeditions that I have undertaken since stage 7.",
               "explanation": "The Scout should have a hillwalking and hiking log. In this logbook should be the route of the adventure, details of the adventure, route card and perhaps a picture(s). This is not however a ‘scrapbook’ but more a formal log of achievement which has been created over a long period of hillwalking activity. If the Scout wishes to undertake the Mountain Leadership Certificate training scheme then they will require a log book listing and detailing at least 30 hillwalking adventures. This log book coupled with the vast experience gained while in Scouting will assist a candidate greatly in pursuing this certification."
             },
             {
-              "statement": "I have taken part in an expedition to 3250m",
+              "statement": "I have taken part in an expedition to 3250m.",
               "explanation": "The Scout should take part as a member of a small team in an expedition to climb a peak of 3250m. The Scout should display in advance of the hike a high level of the skills required, and this should include a number of outings in winter conditions. The Scout should be fully involved in all aspects of the planning of the expedition."
             },
             {
-              "statement": "I can be responsible for others in various situations on the mountains",
-              "explanation": ""
+              "statement": "I can be responsible for others in various situations on the mountains.",
+              "explanation": "The Scout needs to demonstrate this ability with reference to all of the requirements in this badge. He/she should have lead a number of adventures and possess the necessary confidence and leadership skills to lead a party of walkers over various mountain and wild countryside environment."
             }
           ]
         }
