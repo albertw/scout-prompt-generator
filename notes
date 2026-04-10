@@ -1,0 +1,315 @@
+                                                            
+● 🏕️  Your Scout Prompt Generator - Explained Simply!                                                                                                                                                      
+                                                            
+  The Big Picture                                                                                                                                                                                         
+                                                                                                                                                                                                          
+  Think of your app like a restaurant kitchen where:
+  - Ingredients = Your scout data (skills, badges, requirements)                                                                                                                                          
+  - Recipe = The form you fill out                          
+  - Chef = The prompt generator
+  - Meal = The final prompt you copy and use with AI
+
+  ---
+  📂 Folder Structure (The Kitchen Layout)
+
+  scout-prompt-generator/
+  ├── app/                    # The main dining area (what users see)
+  │   ├── page.tsx           # Home page - the main entrance
+  │   └── layout.tsx         # Restaurant layout (fonts, colors)
+  │
+  ├── components/            # Reusable building blocks (like Lego pieces)
+  │   ├── layout/           # Header & Footer
+  │   ├── program-planner/  # Form components
+  │   └── ui/               # Basic pieces (buttons, cards, inputs)
+  │
+  ├── lib/                  # The kitchen utilities
+  │   ├── types.ts         # Recipe cards (data shapes)
+  │   ├── prompt-generator.ts  # The master chef
+  │   ├── adventure-skills.ts   # Skill database
+  │   └── activity-badges.ts    # Badge database
+  │
+  └── public/              # Static files (like photos on the wall)
+      └── data/           # Your JSON data files
+
+  ---
+  🔄 How It Works (The Assembly Line)
+
+  1. User Opens the App (app/page.tsx)
+
+  ┌─────────────────────────────────────┐
+  │           HEADER                    │  ← Header component
+  ├─────────────────────────────────────┤
+  │                                     │
+  │  Welcome to Scout Prompt Generator  │
+  │                                     │
+  ├──────────────┬──────────────────────┤
+  │              │                      │
+  │   LEFT SIDE  │    RIGHT SIDE        │
+  │              │                      │
+  │  [FORM]      │   [PREVIEW]          │
+  │              │                      │
+  │  Step 1...   │   Live updating      │
+  │  Step 2...   │   prompt text        │
+  │  Step 3...   │                      │
+  │  Step 4...   │   [Copy Button]      │
+  │              │                      │
+  └──────────────┴──────────────────────┘
+  │           FOOTER                    │
+  └─────────────────────────────────────┘
+
+  2. User Fills the Form (components/program-planner/ProgramForm.tsx)
+
+  The form has 4 steps (like a multi-page survey):
+
+  Step 1: Section & Duration
+    ├─ Scout Section (Beavers/Cubs/Scouts/Ventures/Rovers)
+    ├─ Program Duration (weeks)
+    ├─ Meeting Duration (minutes)
+    └─ Group Size
+
+  Step 2: Program Focus
+    ├─ Program Type (Skill/Badge/Theme)
+    ├─ If "Skill": Select skill & stage
+    ├─ If "Badge": Select activity badge
+    └─ If "Theme": Enter custom theme
+
+  Step 3: Location & Context
+    ├─ Location
+    ├─ Environment (indoor/outdoor/mixed)
+    └─ Season (optional)
+
+  Step 4: Additional Options
+    └─ Include weekend activity?
+
+  3. Data Flows to Preview (The "Node" Approach)
+
+  // In page.tsx - The Brain
+
+  // 1. Store form data (like a clipboard)
+  const [formData, setFormData] = useState({...})
+
+  // 2. Store generated prompt (like a document)
+  const [generatedPrompt, setGeneratedPrompt] = useState('')
+
+  // 3. Watch for changes (like a security camera)
+  useEffect(() => {
+    // Whenever formData changes, wait 300ms
+    // Then generate new prompt
+    generatePrompt(formData)
+  }, [formData])
+
+  Visual Flow:
+  User types in form
+          ↓
+  formData updates (reacts to change)
+          ↓
+  300ms delay (debounce - prevents too many updates)
+          ↓
+  generatePrompt() runs (the chef starts cooking)
+          ↓
+  generatedPrompt updates (the meal is ready)
+          ↓
+  Preview shows new text (served to customer)
+
+  4. Prompt Generation (lib/prompt-generator.ts)
+
+  This is like a mad libs template filler:
+
+  async function generatePrompt(options) {
+    let sections = []
+
+    // Add header
+    sections.push(buildHeader(options))
+
+    // Add program details
+    sections.push(buildProgramDetails(options))
+
+    // Add skill/badge requirements
+    if (options.programType === 'skill') {
+      sections.push(buildCompetenciesSection(...))
+    }
+
+    // Add SPICES (fixed text)
+    sections.push(buildSpicesSection())
+
+    // Add location context
+    sections.push(buildContextSection(options))
+
+    // Join all sections with newlines
+    return sections.join('\n\n')
+  }
+
+  What it produces:
+  You are an experienced scout leader...
+
+  PROGRAMME DETAILS:
+  - Section: Scouts (Age: 12-15 years)
+  - Duration: 6 weeks
+  ...
+
+  ADVENTURE SKILL COMPETENCIES: Camping - Stage 3
+  • Pitch and strike a tent
+     - Set up a tent properly in 5 minutes
+  ...
+
+  SPICES FOCUS: social, physical, intellectual...
+  ...
+
+  ---
+  🧩 The Component Tree (Node Approach)
+
+  Think of components as nested boxes (like Russian dolls):
+
+  <Home>                     # Root component (the whole house)
+    ├─ <Header>             # Room: Header
+    │    └─ <nav>           # Furniture: Navigation
+    │
+    ├─ <main>               # Room: Main content
+    │    ├─ <ProgramForm>   # Furniture: Form cabinet
+    │    │    ├─ <Card>     # Drawer: Step 1 card
+    │    │    ├─ <Card>     # Drawer: Step 2 card
+    │    │    ├─ <Card>     # Drawer: Step 3 card
+    │    │    └─ <Card>     # Drawer: Step 4 card
+    │    │         └─ <Select>  # Utensil: Dropdown
+    │    │         └─ <Input>   # Utensil: Text field
+    │    │
+    │    └─ <PromptPreview> # Furniture: Preview panel
+    │         └─ <Card>     # Frame: Preview card
+    │              └─ <Button>  # Utensil: Copy button
+    │
+    └─ <Footer>             # Room: Footer
+
+  Each component is:
+  - Independent - Can be used anywhere
+  - Reusable - Use <Button> in many places
+  - Props-driven - Receives data from parent
+  - State-aware - Can manage its own data
+
+  ---
+  📊 Data Flow Diagram
+
+  ┌─────────────────┐
+  │  JSON Files     │  # Your database (public/data/)
+  │  - skills.json  │
+  │  - badges.json  │
+  └────────┬────────┘
+           │ loaded by
+           ↓
+  ┌─────────────────┐
+  │  Data Loaders   │  # (lib/adventure-skills.ts)
+  │  getSkillNames()│
+  │  getStages()    │
+  └────────┬────────┘
+           │ used by
+           ↓
+  ┌─────────────────┐
+  │  Selectors      │  # (SkillSelector.tsx)
+  │  Dropdowns      │
+  │  Show data      │
+  └────────┬────────┘
+           │ user selects
+           ↓
+  ┌─────────────────┐
+  │  ProgramForm    │  # Collects all choices
+  │  State Manager  │
+  └────────┬────────┘
+           │ passes to
+           ↓
+  ┌─────────────────┐
+  │  page.tsx       │  # Orchestrates everything
+  │  - Stores data  │
+  │  - Triggers gen │
+  └────────┬────────┘
+           │ generates
+           ↓
+  ┌─────────────────┐
+  │  PromptPreview  │  # Shows result
+  │  Display text   │
+  └─────────────────┘
+
+  ---
+  🔑 Key Concepts (Simple Terms)
+
+  React Components
+
+  - Like functions that return HTML
+  - Can receive data (props)
+  - Can remember data (state)
+  - Can react to changes
+
+  State (useState)
+
+  - Like a whiteboard that remembers things
+  - When you write on it, React notices and updates the screen
+
+  useEffect (The Watcher)
+
+  - Like a security camera that watches specific variables
+  - When those variables change, it runs a function
+  - Used here to regenerate prompt when form data changes
+
+  Props (Data Passing)
+
+  - Like passing a note to someone
+  - Parent passes data to child
+  - Child cannot change the note, only read it
+
+  TypeScript
+
+  - Like a spellchecker for code
+  - Catches mistakes before you run the app
+  - Ensures the right data types are used
+
+  ---
+  🎨 The Layout (Tailwind CSS)
+
+  // This means:
+  <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+
+  // On mobile:  1 column (stacked)
+  // On desktop: 2 columns (side by side)
+  // Gap: 6 units between columns
+
+  Responsive Design:
+  Mobile (< 1024px):      Desktop (≥ 1024px):
+  ┌──────────────┐        ┌──────────┬──────────┐
+  │   Form       │        │  Form    │  Preview │
+  │              │        │          │          │
+  │   Preview    │        │          │          │
+  └──────────────┘        └──────────┴──────────┘
+     (stacked)                (side by side)
+
+  ---
+  🚀 What Happens When User Types?
+
+  1. User types "Dublin" in location field
+  2. Input component fires onChange event
+  3. ProgramForm calls updateField('location', 'Dublin')
+  4. page.tsx receives new data via setFormData()
+  5. useEffect detects formData changed
+  6. Waits 300ms (debounce - saves processing)
+  7. Calls generatePrompt() with new data
+  8. PromptPreview receives new prompt via props
+  9. Screen updates with new text
+
+  All in milliseconds! ⚡
+
+  ---
+  💡 Why This Architecture?
+
+  ✅ Modular - Each piece can be changed independently
+  ✅ Reusable - Use Button component everywhere
+  ✅ Maintainable - Easy to find and fix bugs
+  ✅ Scalable - Easy to add new features
+  ✅ Type-safe - TypeScript prevents mistakes
+
+  ---
+  📝 Summary
+
+  Your app is a data processing pipeline:
+
+  JSON Data → Form → State → Prompt Generator → Preview → User Copies
+
+  The "node approach" means breaking everything into small, reusable components that pass data between them like a relay race. Each component does one job well, and they work together seamlessly! 🎯
+
+
